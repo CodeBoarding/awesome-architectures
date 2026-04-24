@@ -1346,7 +1346,3 @@ Every diagram is produced by running [**CodeBoarding**](https://github.com/CodeB
 We prioritize repos that are (a) actively maintained, (b) widely depended on, or (c) architecturally interesting.
 
 **Running this on your own code?** CodeBoarding runs locally. Point it at any repo, public or private.
-
-## License
-
-[MIT](./LICENSE). Copy the diagrams into your own `README.md`, `ARCHITECTURE.md`, or `AGENT.md`. No attribution required.

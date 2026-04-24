@@ -112,12 +112,9 @@ graph LR
 *Above: CodeBoarding diagrammed by CodeBoarding. Every repo in the atlas below is mapped the same way.*
 
 
----
-
+## Drop into your agent
 
 **Onboard your AI agent.** Paste the markdown into your ARCHITECTURE.md so the agent onboards in fewer tokens.
-
-## Drop into your agent
 
 ```bash
 # Cursor / Claude Code / Aider — load a repo's architecture as context

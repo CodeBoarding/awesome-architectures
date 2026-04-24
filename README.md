@@ -177,6 +177,7 @@ Using the architecture above, implement X without breaking module boundaries.
 #### LLM serving & inference
 
 - [bella-openapi](./ai-ml/bella-openapi/on_boarding.md) - AI gateway routing and orchestrating requests to multiple large language models. _(Java)_
+- [bifrost](./ai-ml/bifrost/architecture.md) - Bifrost is a high-performance AI gateway that acts as a unified proxy for multiple LLM providers. _(Go)_
 - [BitNet](./ai-ml/BitNet/on_boarding.md) - Efficient 1-bit LLM inference runtime with Python orchestration and C++/CUDA kernels. _(Python)_
 - [FastChat](./ai-ml/FastChat/on_boarding.md) - Distributed platform for serving and evaluating chat-based large language models. _(Python)_
 - [gpt4free](./ai-ml/gpt4free/on_boarding.md) - Proxy client library routing requests across free LLM providers. _(Python)_
@@ -188,10 +189,12 @@ Using the architecture above, implement X without breaking module boundaries.
 - [mlx-vlm](./ai-ml/mlx-vlm/on_boarding.md) - Apple MLX toolkit for serving and interacting with vision-language models. _(Python)_
 - [ollama-python](./ai-ml/ollama-python/on_boarding.md) - Official Python client library for the Ollama local LLM runtime API. _(Python)_
 - [openai-python](./ai-ml/openai-python/on_boarding.md) - Official Python client library for the OpenAI API and models. _(Python)_
+- [sglang](./ai-ml/sglang/architecture.md) - SGLang is a high-performance serving framework for LLMs and generative AI that separates frontend configuration from a backend…. _(Python)_
+- [TensorRT-LLM](./ai-ml/TensorRT-LLM/architecture.md) - The TensorRT-LLM architecture follows a decoupled "Build-then-Run" pipeline designed for high-performance GPU inference. _(Python)_
 - [tinygrad](./ai-ml/tinygrad/on_boarding.md) - Minimalist deep learning framework between PyTorch and karpathy's micrograd. _(Python)_
 - [transformer-deploy](./ai-ml/transformer-deploy/on_boarding.md) - Efficient transformer model deployment on ONNX Runtime TensorRT and Triton. _(Python)_
 - [tvm](./ai-ml/tvm/on_boarding.md) - Apache TVM compiler stack for deploying deep learning models across hardware. _(Python)_
-- [vllm](./ai-ml/vllm/on_boarding.md) - High-throughput memory-efficient inference and serving engine for LLMs. _(Python)_
+- [vllm](./ai-ml/vllm/architecture.md) - High-throughput memory-efficient inference and serving engine for LLMs. _(Python)_
 
 #### Agent frameworks & orchestration
 
@@ -199,12 +202,15 @@ Using the architecture above, implement X without breaking module boundaries.
 - [AdalFlow](./ai-ml/AdalFlow/on_boarding.md) - Framework for building, training, and evaluating LLM-powered applications and pipelines. _(Python)_
 - [ag2](./ai-ml/ag2/on_boarding.md) - Multi-agent LLM orchestration framework derived from AutoGen with tool and code execution. _(Python)_
 - [agno](./ai-ml/agno/on_boarding.md) - Lightweight framework for building multimodal AI agents with memory and tool use. _(Python)_
+- [amp-common](./ai-ml/amp-common/architecture.md) - `amp-common` is a foundational Go library designed as a "toolbox" for building resilient, observable backend services. _(Go)_
 - [arcade-ai](./ai-ml/arcade-ai/on_boarding.md) - Platform for developing and serving authenticated tools for AI agents. _(Python)_
 - [Archon](./ai-ml/Archon/on_boarding.md) - Agent orchestration system that builds and refines other AI agents automatically. _(Python)_
+- [assistant-ui](./ai-ml/assistant-ui/architecture.md) - Built on a Runtime/Adapter architecture that decouples AI backend logic from the user interface. _(TypeScript)_
 - [AutoAgent](./ai-ml/AutoAgent/on_boarding.md) - Fully autonomous LLM agent framework with CLI, REPL, and tool management. _(Python)_
 - [autogen](./ai-ml/autogen/on_boarding.md) - Microsoft framework for orchestrating multi-agent LLM conversations and task automation. _(Python)_
 - [Bard](./ai-ml/Bard/on_boarding.md) - Conversational AI client for interacting with Google Bard language model. _(Python)_
 - [browser-use](./ai-ml/browser-use/on_boarding.md) - AI agent framework giving LLMs control of a web browser for automation. _(Python)_
+- [central](./ai-ml/central/architecture.md) - The `central` architecture is a memory-centric autonomous agent system built on the ATProtocol. _(Python)_
 - [ChatGPT](./ai-ml/ChatGPT/on_boarding.md) - Unofficial CLI and API wrappers for interacting with ChatGPT conversational models. _(Python)_
 - [ChatterBot](./ai-ml/ChatterBot/on_boarding.md) - Machine learning conversational bot engine with pluggable storage and logic adapters. _(Python)_
 - [cognee](./ai-ml/cognee/on_boarding.md) - Memory and knowledge-graph layer for AI agents with ingestion and retrieval APIs. _(Python)_
@@ -219,10 +225,12 @@ Using the architecture above, implement X without breaking module boundaries.
 - [gpt-researcher](./ai-ml/gpt-researcher/on_boarding.md) - Autonomous agent that conducts comprehensive research with LLMs and citations. _(Python)_
 - [graphrag](./ai-ml/graphrag/on_boarding.md) - Microsoft knowledge-graph-enhanced retrieval-augmented generation pipeline. _(Python)_
 - [haystack](./ai-ml/haystack/on_boarding.md) - Modular framework for building LLM-powered search and RAG applications. _(Python)_
+- [humanlayer](./ai-ml/humanlayer/architecture.md) - The system architecture represents a Human-in-the-loop (HITL) AI development platform where the CodeLayer IDE/CLI initiates requests through an…. _(TypeScript)_
 - [instructor](./ai-ml/instructor/on_boarding.md) - Library for extracting structured Pydantic outputs from large language models. _(Python)_
 - [kor](./ai-ml/kor/on_boarding.md) - Schema-driven LLM library for structured information extraction. _(Python)_
 - [kotaemon](./ai-ml/kotaemon/on_boarding.md) - Open-source clean UI RAG chatbot for document question answering. _(Python)_
 - [langchain](./ai-ml/langchain/on_boarding.md) - Framework for building applications powered by language model chains and agents. _(Python)_
+- [langchainjs](./ai-ml/langchainjs/architecture.md) - LangChain.js is an AI orchestration framework designed to build LLM-powered applications through a modular, interface-driven architecture. _(TypeScript)_
 - [langextract](./ai-ml/langextract/on_boarding.md) - LLM-agnostic structured information extraction pipeline library. _(Python)_
 - [langflow](./ai-ml/langflow/on_boarding.md) - Visual low-code UI for experimenting with LangChain workflows. _(Python)_
 - [langgraph](./ai-ml/langgraph/on_boarding.md) - Library for building stateful, multi-actor LLM agent applications as graphs. _(Python)_
@@ -230,6 +238,8 @@ Using the architecture above, implement X without breaking module boundaries.
 - [llm-graph-builder](./ai-ml/llm-graph-builder/on_boarding.md) - LLM-powered pipeline that builds Neo4j knowledge graphs from unstructured data. _(Python)_
 - [lmql](./ai-ml/lmql/on_boarding.md) - Query language for large language models with constrained generation. _(Python)_
 - [MaiBot](./ai-ml/MaiBot/on_boarding.md) - Modular AI conversational agent with pluggable NLP and communication adapters. _(Python)_
+- [manaflow](./ai-ml/manaflow/architecture.md) - The manaflow architecture is a high-performance, isolated AI agent orchestration platform that connects a desktop application to distributed…. _(TypeScript)_
+- [mastra](./ai-ml/mastra/architecture.md) - Mastra is an AI orchestration framework that uses a modular, adapter-based architecture to manage agentic workflows and LLM-powered…. _(TypeScript)_
 - [mcp-agent](./ai-ml/mcp-agent/on_boarding.md) - Framework for building AI agents with MCP integration and workflow patterns. _(Python)_
 - [mcp-agent-discussion](./ai-ml/mcp-agent-discussion/on_boarding.md) - Multi-agent system orchestrating complex AI workflows with MCP integration. _(Python)_
 - [mcp-context-forge](./ai-ml/mcp-context-forge/on_boarding.md) - API gateway for managing MCP servers, tools, and resources across protocols. _(Python)_
@@ -253,6 +263,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [sample-app-aoai-chatGPT](./ai-ml/sample-app-aoai-chatGPT/on_boarding.md) - Microsoft sample chat app integrating Azure OpenAI with enterprise data sources. _(Python)_
 - [Scrapegraph-ai](./ai-ml/Scrapegraph-ai/on_boarding.md) - LLM-powered web scraping library generating extraction pipelines from prompts. _(Python)_
 - [SuperAGI](./ai-ml/SuperAGI/on_boarding.md) - Open-source autonomous AI agent framework for building and deploying agents. _(Python)_
+- [supermemory](./ai-ml/supermemory/architecture.md) - Supermemory operates as a centralized intelligence hub that transforms unstructured data from various sources into a structured, queryable…. _(TypeScript)_
 - [symbolicai](./ai-ml/symbolicai/on_boarding.md) - Neuro-symbolic framework combining LLMs with symbolic reasoning operations. _(Python)_
 - [thinkgpt](./ai-ml/thinkgpt/on_boarding.md) - LLM orchestrator adding memory long-term context and reasoning capabilities. _(Python)_
 - [trt-llm-rag-linux](./ai-ml/trt-llm-rag-linux/on_boarding.md) - Linux reference RAG application using NVIDIA TensorRT-LLM for inference. _(Python)_
@@ -274,9 +285,12 @@ Using the architecture above, implement X without breaking module boundaries.
 - [hai-build](./ai-ml/hai-build/on_boarding.md) - AI-driven software development lifecycle platform with orchestration services. _(Python)_
 - [llama.vim](./ai-ml/llama.vim/on_boarding.md) - Vim/Neovim plugin providing LLM-powered local code completion. _(VimScript)_
 - [open-interpreter](./ai-ml/open-interpreter/on_boarding.md) - LLM-powered interpreter that runs code locally via natural language instructions. _(Python)_
+- [proto7ype](./ai-ml/proto7ype/architecture.md) - The application architecture is structured around a central Global Layout & Navigation Shell that orchestrates user flow to…. _(TypeScript)_
 - [python_code_generator](./ai-ml/python_code_generator/on_boarding.md) - Multi-agent AI code generation platform with web interface. _(Python)_
+- [Roo-Code](./ai-ml/Roo-Code/architecture.md) - Roo-Code operates as an agentic loop where user intent from the UI (VS Code or CLI) is processed…. _(TypeScript)_
 - [ScreenCoder](./ai-ml/ScreenCoder/on_boarding.md) - Tool converting UI screenshots into front-end code using vision-language models. _(Python)_
-- [stagehand](./ai-ml/stagehand/on_boarding.md) - AI framework for browser automation combining deterministic code and natural language. _(TypeScript)_
+- [stagehand](./ai-ml/stagehand/architecture.md) - AI framework for browser automation combining deterministic code and natural language. _(TypeScript)_
+- [stop-shorts](./ai-ml/stop-shorts/architecture.md) - The Video Loop Controller acts as the central engine for the browser extension, managing the prevention of automatic…. _(JavaScript)_
 - [SWE-agent](./ai-ml/SWE-agent/on_boarding.md) - Autonomous software engineering agent that fixes bugs using language models. _(Python)_
 - [SWE-ReX](./ai-ml/SWE-ReX/on_boarding.md) - Remote execution framework for SWE-agent running code in sandboxed environments. _(Python)_
 
@@ -484,6 +498,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [baxbench](./ai-ml/baxbench/on_boarding.md) - Benchmark system for evaluating security of code generated by large language models. _(Python)_
 - [beir](./ai-ml/beir/on_boarding.md) - Heterogeneous benchmark for zero-shot evaluation of information retrieval models. _(Python)_
 - [chatarena](./ai-ml/chatarena/on_boarding.md) - Multi-agent language game environment for evaluating LLMs in interactive settings. _(Python)_
+- [confidential-model-router](./ai-ml/confidential-model-router/architecture.md) - The confidential-model-router acts as a secure gateway for AI inference, ensuring data privacy through TEE-based enclaves. _(Go)_
 - [deepeval](./ai-ml/deepeval/on_boarding.md) - Unit-testing framework for evaluating and benchmarking LLM outputs with metrics. _(Python)_
 - [DeepSpeed](./ai-ml/DeepSpeed/on_boarding.md) - Microsoft library optimizing large-scale distributed deep learning training and inference. _(Python)_
 - [DiCE](./ai-ml/DiCE/on_boarding.md) - Microsoft library generating diverse counterfactual explanations for classifiers. _(Python)_
@@ -499,6 +514,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [LAMA](./ai-ml/LAMA/on_boarding.md) - Framework for probing language models for factual and commonsense knowledge. _(Python)_
 - [lighteval](./ai-ml/lighteval/on_boarding.md) - Hugging Face LLM evaluation suite with configurable task registry. _(Python)_
 - [llm-guard](./ai-ml/llm-guard/on_boarding.md) - Content-scanning toolkit providing input/output safety scanners for LLMs. _(Python)_
+- [lm-sys.github.io](./ai-ml/lm-sys.github.io/architecture.md) - Follows a classic Jamstack pattern where content is decoupled from the presentation layer. _(JavaScript)_
 - [matharena](./ai-ml/matharena/on_boarding.md) - Evaluation framework for testing LLM performance on mathematical problems. _(Python)_
 - [Megatron-LM](./ai-ml/Megatron-LM/on_boarding.md) - NVIDIA framework for large-scale distributed language model training. _(Python)_
 - [mlflow](./ai-ml/mlflow/on_boarding.md) - Open-source platform for managing the end-to-end machine learning lifecycle. _(Python)_
@@ -514,6 +530,8 @@ Using the architecture above, implement X without breaking module boundaries.
 - [ROLL](./ai-ml/ROLL/on_boarding.md) - Distributed RLHF training framework built on Ray for LLM post-training. _(Python)_
 - [Ruli](./ai-ml/Ruli/on_boarding.md) - Research toolkit for machine unlearning and privacy attack experiments. _(Python)_
 - [safe-rlhf](./ai-ml/safe-rlhf/on_boarding.md) - Safe reinforcement learning from human feedback framework for language model alignment. _(Python)_
+- [self-agent-id](./ai-ml/self-agent-id/architecture.md) - The `self-agent-id` framework operates as a decentralized identity stack for autonomous agents, where the Agent Identity Controller acts…. _(?)_
+- [Sentinel](./ai-ml/Sentinel/architecture.md) - Sentinel's architecture is designed as a linear processing pipeline that transforms raw code events into actionable engineering insights. _(TypeScript)_
 - [smollm3_finetune](./ai-ml/smollm3_finetune/on_boarding.md) - Fine-tuning scripts and utilities for the SmolLM3 small language model. _(Python)_
 - [SWE-bench](./ai-ml/SWE-bench/on_boarding.md) - Benchmark evaluating language models on real-world GitHub issue resolution. _(Python)_
 - [SWEBench](./ai-ml/SWEBench/on_boarding.md) - Benchmark for evaluating software engineering tasks with code generation models. _(Python)_
@@ -530,6 +548,7 @@ Using the architecture above, implement X without breaking module boundaries.
 
 #### ETL & workflow orchestration
 
+- [airbyte](./data-analytics/airbyte/architecture.md) - Airbyte's architecture is a protocol-driven ecosystem designed for high extensibility and isolation. _(Java)_
 - [airflow](./data-analytics/airflow/on_boarding.md) - Platform to programmatically author, schedule, and monitor DAG-based data workflows. _(Python)_
 - [BayerCLAW](./data-analytics/BayerCLAW/on_boarding.md) - AWS-based workflow orchestrator for running containerized bioinformatics pipelines. _(Python)_
 - [bonobo](./data-analytics/bonobo/on_boarding.md) - Lightweight Python ETL framework for building functional data transformation graphs. _(Python)_
@@ -558,6 +577,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [aiomysql](./data-analytics/aiomysql/on_boarding.md) - Asynchronous MySQL driver for Python asyncio applications with connection pooling. _(Python)_
 - [aiosqlite](./data-analytics/aiosqlite/on_boarding.md) - Asynchronous wrapper around Python's sqlite3 for use in asyncio code. _(Python)_
 - [btree](./data-analytics/btree/on_boarding.md) - In-memory B-tree data structure implementation for ordered key storage. _(Python)_
+- [convex-backend](./data-analytics/convex-backend/architecture.md) - The Convex platform architecture is designed as a reactive backend-as-a-service that synchronizes state between a cloud-hosted database and…. _(TypeScript)_
 - [djongo](./data-analytics/djongo/on_boarding.md) - Django ORM connector translating relational queries into MongoDB operations. _(Python)_
 - [godror](./data-analytics/godror/on_boarding.md) - Go database/sql driver for Oracle Database using ODPI-C. _(Go)_
 - [influxdb-python](./data-analytics/influxdb-python/on_boarding.md) - Official Python client library for InfluxDB time-series database. _(Python)_
@@ -566,6 +586,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [orm](./data-analytics/orm/on_boarding.md) - Async ORM for Python built on SQLAlchemy Core with typed models. _(Python)_
 - [piccolo](./data-analytics/piccolo/on_boarding.md) - Async Python ORM and query builder supporting multiple database backends. _(Python)_
 - [pokedex](./data-analytics/pokedex/on_boarding.md) - Relational database of Pokemon data with CLI for export and queries. _(Python)_
+- [presto](./data-analytics/presto/architecture.md) - Represents a Presto UI architecture designed for interactive query development, cluster monitoring, and real-time performance diagnostics. _(JavaScript)_
 - [psycopg2](./data-analytics/psycopg2/on_boarding.md) - PostgreSQL database adapter for Python with full DB-API 2.0 compliance. _(Python)_
 - [PyHive](./data-analytics/PyHive/on_boarding.md) - Python DBAPI and SQLAlchemy dialect for Hive, Presto and Trino. _(Python)_
 - [pymemcache](./data-analytics/pymemcache/on_boarding.md) - Comprehensive pure-Python memcached client library. _(Python)_
@@ -573,6 +594,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [python-driver](./data-analytics/python-driver/on_boarding.md) - Official Python driver for Apache Cassandra and DataStax Enterprise clusters. _(Python)_
 - [python-irodsclient](./data-analytics/python-irodsclient/on_boarding.md) - Python client library for the iRODS data management system. _(Python)_
 - [python-oracledb](./data-analytics/python-oracledb/on_boarding.md) - Python driver for Oracle Database with async support and connection pooling. _(Python)_
+- [QueryScope](./data-analytics/QueryScope/architecture.md) - QueryScope is a developer observability platform for load testing and LLM benchmarking, utilizing a service-oriented architecture with a…. _(Python)_
 - [redis-py](./data-analytics/redis-py/on_boarding.md) - Official Python client library for the Redis key-value store. _(Python)_
 - [sqlalchemy](./data-analytics/sqlalchemy/on_boarding.md) - Python SQL toolkit and Object Relational Mapper for database abstraction. _(Python)_
 - [sqlalchemy-crud-plus](./data-analytics/sqlalchemy-crud-plus/on_boarding.md) - Enhanced CRUD operations helper library built on top of SQLAlchemy. _(Python)_
@@ -653,6 +675,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [gpfjs](./web-ui/gpfjs/on_boarding.md) - Angular frontend for GPF genomic and phenotypic data exploration. _(TypeScript)_
 - [kivy](./web-ui/kivy/on_boarding.md) - Open-source Python framework for cross-platform multi-touch GUI applications. _(Python)_
 - [mangum](./web-ui/mangum/on_boarding.md) - Adapter for running ASGI Python applications on AWS Lambda. _(Python)_
+- [marko](./web-ui/marko/architecture.md) - Marko's architecture is defined by a sophisticated build-time compiler that bridges the gap between high-level template syntax and…. _(JavaScript)_
 - [microdot](./web-ui/microdot/on_boarding.md) - Minimalistic Python web framework for MicroPython and CPython servers. _(Python)_
 - [nicegui](./web-ui/nicegui/on_boarding.md) - Python framework for creating web-based user interfaces with minimal boilerplate. _(Python)_
 - [paypal-js](./web-ui/paypal-js/on_boarding.md) - React wrapper components for loading the PayPal JavaScript SDK. _(JavaScript)_
@@ -671,6 +694,7 @@ Using the architecture above, implement X without breaking module boundaries.
 
 - [ant-design](./web-ui/ant-design/on_boarding.md) - Enterprise-class React UI component library with consistent design language. _(TypeScript)_
 - [carbon](./web-ui/carbon/on_boarding.md) - IBM's Carbon design system React and web component library for enterprise UIs. _(JavaScript)_
+- [ComfyUI_frontend](./web-ui/ComfyUI_frontend/architecture.md) - ComfyUI is a node-based generative AI interface where the Application Controller acts as the central orchestrator, managing the…. _(TypeScript)_
 - [CopilotKit](./web-ui/CopilotKit/on_boarding.md) - React SDK for embedding in-app AI copilots, chatbots, and agents. _(TypeScript)_
 - [CustomTkinter](./web-ui/CustomTkinter/on_boarding.md) - Modern customizable widget library extending Python's tkinter GUI toolkit. _(Python)_
 - [dash](./web-ui/dash/on_boarding.md) - Plotly framework for building analytical web applications in pure Python. _(Python)_
@@ -688,6 +712,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [arxiv-base](./web-ui/arxiv-base/on_boarding.md) - Core Flask application infrastructure powering the arXiv preprint platform. _(Python)_
 - [asgiref](./web-ui/asgiref/on_boarding.md) - ASGI reference utilities bridging synchronous and asynchronous Python web code. _(Python)_
 - [atlassian-connect-example-app-node](./web-ui/atlassian-connect-example-app-node/on_boarding.md) - Example Atlassian Connect app with React frontend and Node.js Express backend. _(JavaScript)_
+- [bluesky-chat](./web-ui/bluesky-chat/architecture.md) - The application architecture is a multi-layered system designed for secure, cross-protocol messaging. _(TypeScript)_
 - [Caly](./web-ui/Caly/on_boarding.md) - Avalonia-based cross-platform calendar desktop application using MVVM patterns. _(C#)_
 - [cherrypy](./web-ui/cherrypy/on_boarding.md) - Minimalist object-oriented Python web framework with built-in HTTP server. _(Python)_
 - [claude-code-testing](./web-ui/claude-code-testing/on_boarding.md) - Web application rendering markdown onboarding guides as interactive CodeBoarding docs. _(TypeScript)_
@@ -726,6 +751,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [jellyfin](./web-ui/jellyfin/on_boarding.md) - Free open-source media server for streaming and managing personal media. _(C#)_
 - [jovvix](./web-ui/jovvix/on_boarding.md) - Polyglot interactive quiz application with web frontend and services. _(JavaScript)_
 - [laudspeaker](./web-ui/laudspeaker/on_boarding.md) - Open-source multichannel customer messaging and marketing automation platform. _(TypeScript)_
+- [mas](./web-ui/mas/architecture.md) - The M@S (Merchandising-as-a-Service) architecture is a high-performance content delivery and management ecosystem built on the Adobe stack. _(JavaScript)_
 - [MayarDataScienceLab](./web-ui/MayarDataScienceLab/on_boarding.md) - Static informational website for Mayar data science lab. _(HTML/JS)_
 - [nest](./web-ui/nest/on_boarding.md) - Progressive Node.js framework for building scalable server-side applications. _(TypeScript)_
 - [obsidian-spaced-repetition](./web-ui/obsidian-spaced-repetition/on_boarding.md) - Obsidian plugin for spaced repetition flashcard review over notes. _(TypeScript)_
@@ -735,6 +761,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [payload](./web-ui/payload/on_boarding.md) - TypeScript-first headless CMS and application framework. _(TypeScript)_
 - [pelican-plugins](./web-ui/pelican-plugins/on_boarding.md) - Collection of plugins extending the Pelican static site generator. _(Python)_
 - [PharmaSage](./web-ui/PharmaSage/on_boarding.md) - Next.js pharma-themed web application with component-based architecture. _(TypeScript)_
+- [prime-simplereport](./web-ui/prime-simplereport/architecture.md) - A modular monolith healthcare interoperability hub that bridges a React-based frontend with a Spring…. _(TypeScript)_
 - [quick-notes-extension](./web-ui/quick-notes-extension/on_boarding.md) - Browser extension for taking and managing quick notes. _(JavaScript)_
 - [RuoYi](./web-ui/RuoYi/on_boarding.md) - Spring Boot admin dashboard system with role-based access control. _(Java)_
 - [saleor](./web-ui/saleor/on_boarding.md) - GraphQL-first headless e-commerce platform built with Django. _(Python)_
@@ -763,8 +790,10 @@ Using the architecture above, implement X without breaking module boundaries.
 - [kalico](./infrastructure-devops/kalico/on_boarding.md) - 3D printer firmware host (Klipper fork) for microcontroller motion control. _(Python)_
 - [nginxconfig.io](./infrastructure-devops/nginxconfig.io/on_boarding.md) - Web tool for generating optimized NGINX and Docker Compose configurations. _(JavaScript)_
 - [nornir](./infrastructure-devops/nornir/on_boarding.md) - Pluggable Python network automation framework for multi-device orchestration. _(Python)_
+- [rosdistro](./infrastructure-devops/rosdistro/architecture.md) - As the central metadata registry for the Robot Operating System (ROS) ecosystem, utilizing a…. _(Python)_
 - [sceptre](./infrastructure-devops/sceptre/on_boarding.md) - CLI tool for managing and orchestrating AWS CloudFormation stacks. _(Python)_
 - [stackstorm_pack_ansible](./infrastructure-devops/stackstorm_pack_ansible/on_boarding.md) - StackStorm integration pack exposing Ansible operations as automation actions. _(Python)_
+- [tarsy](./infrastructure-devops/tarsy/architecture.md) - Tarsy is an agentic SRE platform designed to automate incident analysis and remediation. _(Go)_
 - [turborepo-remote-cache-cloudflare](./infrastructure-devops/turborepo-remote-cache-cloudflare/on_boarding.md) - Turborepo remote cache implementation running on Cloudflare Workers. _(TypeScript)_
 - [VertFlow](./infrastructure-devops/VertFlow/on_boarding.md) - Airflow operator for running Cloud Run jobs across regions optimizing for green compute. _(Python)_
 
@@ -782,8 +811,10 @@ Using the architecture above, implement X without breaking module boundaries.
 - [opentelemetry-go](./infrastructure-devops/opentelemetry-go/on_boarding.md) - OpenTelemetry SDK and API for instrumenting Go applications with traces and metrics. _(Go)_
 - [opentelemetry-python](./infrastructure-devops/opentelemetry-python/on_boarding.md) - OpenTelemetry API and SDK for Python application observability instrumentation. _(Python)_
 - [raven-python](./infrastructure-devops/raven-python/on_boarding.md) - Legacy Sentry SDK for capturing Python application errors and events. _(Python)_
+- [rootly-edge-connector](./infrastructure-devops/rootly-edge-connector/architecture.md) - The `rootly-edge-connector` follows a linear, secure execution pipeline designed for outbound-only communication. _(Go)_
 - [sentry-python](./infrastructure-devops/sentry-python/on_boarding.md) - Official Sentry SDK for Python error tracking and performance monitoring. _(Python)_
 - [simplemonitor](./infrastructure-devops/simplemonitor/on_boarding.md) - Simple Python-based monitoring framework checking hosts and services with alerting. _(Python)_
+- [traceroot](./infrastructure-devops/traceroot/architecture.md) - Architecture represents a comprehensive observability and AI-driven analysis platform. _(TypeScript)_
 
 #### Media & real-time infra
 
@@ -791,12 +822,15 @@ Using the architecture above, implement X without breaking module boundaries.
 
 #### Platform SDKs
 
+- [aa-sdk](./infrastructure-devops/aa-sdk/architecture.md) - The aa-sdk architecture follows a layered, middleware-driven approach to Ethereum Account Abstraction (ERC-4337). _(TypeScript)_
+- [buildkit](./infrastructure-devops/buildkit/architecture.md) - BuildKit is a high-performance build engine that operates as a client-server system, translating high-level build definitions (like Dockerfiles)…. _(Go)_
 - [cluster-api](./infrastructure-devops/cluster-api/on_boarding.md) - Kubernetes project providing declarative APIs and controllers for cluster lifecycle management. _(Go)_
 - [docker-py](./infrastructure-devops/docker-py/on_boarding.md) - Official Python SDK for interacting with the Docker Engine API. _(Python)_
 - [localstack](./infrastructure-devops/localstack/on_boarding.md) - Fully functional local AWS cloud stack for testing and development. _(Python)_
 - [moby](./infrastructure-devops/moby/on_boarding.md) - Container toolkit and runtime powering Docker and related projects. _(Go)_
 - [nginx](./infrastructure-devops/nginx/on_boarding.md) - High-performance HTTP server and reverse proxy with modular architecture. _(C)_
 - [python-lambda](./infrastructure-devops/python-lambda/on_boarding.md) - CLI tool for developing and deploying AWS Lambda functions. _(Python)_
+- [stackrox](./infrastructure-devops/stackrox/architecture.md) - The StackRox architecture follows a Manager-Agent (Central-Sensor) pattern designed for multi-cluster Kubernetes security. _(TypeScript)_
 
 ### Developer tools
 
@@ -811,11 +845,13 @@ Using the architecture above, implement X without breaking module boundaries.
 
 #### Language tooling (lint / types / format)
 
+- [aibolit](./developer-tools/aibolit/architecture.md) - The aibolit architecture follows a sophisticated ML-augmented Static Analysis Pipeline. _(Python)_
 - [cloudpickle](./developer-tools/cloudpickle/on_boarding.md) - Extended pickle module serializing closures, lambdas, and dynamically-defined Python objects. _(Python)_
 - [codon](./developer-tools/codon/on_boarding.md) - High-performance Python compiler using JIT and AOT to generate native code. _(C++)_
 - [cuda-python](./developer-tools/cuda-python/on_boarding.md) - NVIDIA's official Python bindings for the CUDA driver and runtime APIs. _(Python)_
 - [dacite](./developer-tools/dacite/on_boarding.md) - Small utility converting nested dictionaries into strongly-typed Python dataclasses. _(Python)_
 - [deco](./developer-tools/deco/on_boarding.md) - Decorator-based automatic parallelization of Python functions via AST rewriting. _(Python)_
+- [DefinitelyTyped](./developer-tools/DefinitelyTyped/architecture.md) - DefinitelyTyped is a massive monorepo of TypeScript type definitions, structured as a hub-and-spoke architecture where a central Core…. _(TypeScript)_
 - [injector](./developer-tools/injector/on_boarding.md) - Python dependency injection framework inspired by Google Guice. _(Python)_
 - [mypy](./developer-tools/mypy/on_boarding.md) - Static type checker for Python with a compiler for optimizing type-checked code. _(Python)_
 - [pre-commit](./developer-tools/pre-commit/on_boarding.md) - Framework for managing and running multi-language pre-commit git hooks. _(Python)_
@@ -844,15 +880,18 @@ Using the architecture above, implement X without breaking module boundaries.
 - [argcomplete](./developer-tools/argcomplete/on_boarding.md) - Bash/zsh tab completion provider for Python argparse command-line programs. _(Python)_
 - [bashplotlib](./developer-tools/bashplotlib/on_boarding.md) - Library for plotting basic histograms and scatterplots directly in the terminal. _(Python)_
 - [blinker](./developer-tools/blinker/on_boarding.md) - Fast in-process signal/event dispatching library for decoupled Python applications. _(Python)_
-- [cli](./developer-tools/cli/on_boarding.md) - Snyk's command-line interface for scanning code and dependencies for vulnerabilities. _(TypeScript)_
+- [cli](./developer-tools/cli/architecture.md) - Snyk's command-line interface for scanning code and dependencies for vulnerabilities. _(TypeScript)_
 - [cobra](./developer-tools/cobra/on_boarding.md) - Go library for building modern CLI applications with nested commands and flags. _(Go)_
 - [CodeBoarding-vscode](./developer-tools/CodeBoarding-vscode/on_boarding.md) - VSCode extension visualizing code architecture with control flow graph diagrams. _(TypeScript)_
+- [codemate-7-app](./developer-tools/codemate-7-app/architecture.md) - The `codemate-7-app` follows a classic Client-Server architecture where a React-based frontend interacts with an Express/Node.js backend. _(JavaScript)_
 - [cookiecutter](./developer-tools/cookiecutter/on_boarding.md) - CLI utility creating new projects from templated cookiecutter directories. _(Python)_
 - [craft-application](./developer-tools/craft-application/on_boarding.md) - Framework for Canonical's craft-family CLI tools providing shared lifecycle scaffolding. _(Python)_
 - [delegator.py](./developer-tools/delegator.py/on_boarding.md) - Simplified subprocess wrapper providing a friendly API for shell command execution. _(Python)_
 - [delorean](./developer-tools/delorean/on_boarding.md) - Python library making timezone-aware datetime manipulation simpler and safer. _(Python)_
+- [desktop](./developer-tools/desktop/architecture.md) - The desktop application follows a local-first, block-based architecture where the App Orchestrator & UI Shell serves as the…. _(TypeScript)_
 - [DirLink](./developer-tools/DirLink/on_boarding.md) - Command-line utility for creating and managing directory symlinks. _(Python)_
 - [dive](./developer-tools/dive/on_boarding.md) - CLI tool exploring Docker image layers and analyzing wasted space. _(Go)_
+- [draft-release](./developer-tools/draft-release/architecture.md) - The `draft-release` GitHub Action follows a structured pipeline pattern designed to automate the maintenance of release drafts. _(TypeScript)_
 - [drgn](./developer-tools/drgn/on_boarding.md) - Programmable debugger for introspecting the Linux kernel and user processes. _(Python)_
 - [ebooklib](./developer-tools/ebooklib/on_boarding.md) - Python library for reading and writing EPUB ebook files. _(Python)_
 - [eventsourcing](./developer-tools/eventsourcing/on_boarding.md) - Python library implementing the event sourcing pattern for domain-driven design. _(Python)_
@@ -864,6 +903,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [Gooey](./developer-tools/Gooey/on_boarding.md) - Library that turns Python command-line programs into full GUI applications. _(Python)_
 - [guietta](./developer-tools/guietta/on_boarding.md) - Simple Python library for declaratively creating PyQt GUIs in few lines. _(Python)_
 - [gydnc](./developer-tools/gydnc/on_boarding.md) - CLI for managing guidance entities with storage and service layers. _(Go)_
+- [harper-hackathon](./developer-tools/harper-hackathon/architecture.md) - Represents a reactive, data-centric system where a React-based orchestration layer coordinates real-time video capture, vector-based gesture…. _(JavaScript)_
 - [hashids-python](./developer-tools/hashids-python/on_boarding.md) - Python library to generate short, unique, non-sequential IDs from numbers. _(Python)_
 - [heartrate](./developer-tools/heartrate/on_boarding.md) - Real-time visualization of Python program execution in the browser. _(Python)_
 - [holidays](./developer-tools/holidays/on_boarding.md) - Python library generating holiday dates for many countries and regions. _(Python)_
@@ -882,6 +922,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [mtkclient](./developer-tools/mtkclient/on_boarding.md) - CLI and GUI client for flashing and interacting with MediaTek devices. _(Python)_
 - [napi](./developer-tools/napi/on_boarding.md) - CLI framework built on yargs with middleware and manifest generation. _(TypeScript)_
 - [notebook](./developer-tools/notebook/on_boarding.md) - Jupyter Notebook web application for interactive computing and data analysis. _(Python)_
+- [obsidian-gemini](./developer-tools/obsidian-gemini/architecture.md) - The obsidian-gemini architecture is built around a central Agentic Loop that orchestrates interactions between the user's local Obsidian…. _(TypeScript)_
 - [Pipe](./developer-tools/Pipe/on_boarding.md) - Small Python library enabling fluent function composition through pipe operators. _(Python)_
 - [poco](./developer-tools/poco/on_boarding.md) - Project management CLI for bootstrapping and managing multi-repo projects. _(Python)_
 - [poethepoet](./developer-tools/poethepoet/on_boarding.md) - Task runner for Python projects configured via pyproject.toml. _(Python)_
@@ -897,13 +938,17 @@ Using the architecture above, implement X without breaking module boundaries.
 - [retrying](./developer-tools/retrying/on_boarding.md) - Python decorator library for adding configurable retry logic to functions. _(Python)_
 - [rich](./developer-tools/rich/on_boarding.md) - Library for rich text and beautiful formatting in the terminal. _(Python)_
 - [simplejson](./developer-tools/simplejson/on_boarding.md) - Simple fast extensible JSON encoder and decoder for Python. _(Python)_
+- [sourcebot](./developer-tools/sourcebot/architecture.md) - Sourcebot is a high-performance code search and intelligence platform where the Web UI & Editor serves as the…. _(TypeScript)_
 - [terminal_markdown_viewer](./developer-tools/terminal_markdown_viewer/on_boarding.md) - Command-line tool for rendering markdown files beautifully in the terminal. _(Python)_
 - [textual](./developer-tools/textual/on_boarding.md) - Python framework for building rich interactive terminal user interfaces. _(Python)_
 - [tools](./developer-tools/tools/on_boarding.md) - Nextflow tooling for managing pipelines modules and subworkflows. _(Python)_
 - [tqdm](./developer-tools/tqdm/on_boarding.md) - Fast extensible progress bar library for Python and command line. _(Python)_
+- [tscircuit-autorouter](./developer-tools/tscircuit-autorouter/architecture.md) - The `tscircuit-autorouter` architecture is organized as a multi-stage pipeline that transforms high-level routing requirements into precise geometric traces. _(TypeScript)_
 - [tuna](./developer-tools/tuna/on_boarding.md) - Visualization tool for Python profile and import time data. _(Python)_
+- [vitecn](./developer-tools/vitecn/architecture.md) - The application architecture is consolidated into a unified core that manages both the execution context and the UI…. _(TypeScript)_
 - [vscode](./developer-tools/vscode/on_boarding.md) - Microsoft Visual Studio Code source editor for modern web and cloud applications. _(TypeScript)_
 - [wdb](./developer-tools/wdb/on_boarding.md) - Web-based remote Python debugger with real-time breakpoint interface. _(Python)_
+- [wile](./developer-tools/wile/architecture.md) - The wile engine architecture is a modular system that orchestrates the lifecycle of Scheme code from user input…. _(Go)_
 - [XKCD-password-generator](./developer-tools/XKCD-password-generator/on_boarding.md) - CLI tool generating memorable passwords following the XKCD passphrase method. _(Python)_
 
 #### Testing & load
@@ -1107,6 +1152,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [evennia](./games-graphics-media/evennia/on_boarding.md) - Python framework for building text-based multiplayer online games (MUDs). _(Python)_
 - [g3m](./games-graphics-media/g3m/on_boarding.md) - Multi-platform 3D/4D geographic rendering and visualization engine. _(C++)_
 - [openage](./games-graphics-media/openage/on_boarding.md) - Open-source clone of the Age of Empires II real-time strategy engine. _(C++)_
+- [openclaw](./games-graphics-media/openclaw/architecture.md) - OpenClaw is a personal AI assistant framework that operates as a secure gateway between various communication channels (Discord…. _(TypeScript)_
 - [panda3d](./games-graphics-media/panda3d/on_boarding.md) - 3D game engine with Python bindings for interactive application development. _(C++)_
 - [pygame](./games-graphics-media/pygame/on_boarding.md) - Python library for writing 2D games and multimedia applications. _(Python)_
 - [pygame-menu](./games-graphics-media/pygame-menu/on_boarding.md) - Menu creation and management library for Pygame applications. _(Python)_
@@ -1317,7 +1363,7 @@ Using the architecture above, implement X without breaking module boundaries.
 - [tsh](./uncategorized/tsh/on_boarding.md) - Unclassified repository with insufficient description to place in taxonomy. _(?)_
 - [unit-converter](./uncategorized/unit-converter/on_boarding.md) - Unit conversion utility library. _(?)_
 - [unleash](./uncategorized/unleash/on_boarding.md) - Unclassified repository with insufficient description to place in taxonomy. _(?)_
-- [website](./uncategorized/website/on_boarding.md) - Unclassified repository with insufficient description to place in taxonomy. _(?)_
+- [website](./uncategorized/website/architecture.md) - Unclassified repository with insufficient description to place in taxonomy. _(?)_
 
 
 ## How diagrams are generated

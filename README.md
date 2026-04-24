@@ -109,7 +109,7 @@ graph LR
   1__1_4 -->|"calls"| 1__1_3
   1__1_5 -->|"calls"| 1__1_3
 ```
-*Example: simplified view of a typical RAG stack. Real diagrams are generated from actual source, not drawn.*
+*Above: CodeBoarding diagrammed by CodeBoarding. Every repo in the atlas below is mapped the same way.*
 
 ![repos](https://img.shields.io/badge/repos-50-blue) ![languages](https://img.shields.io/badge/languages-8-green) ![updated](https://img.shields.io/badge/updated-weekly-brightgreen) ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 

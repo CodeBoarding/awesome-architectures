@@ -137,33 +137,300 @@ Using the architecture above, implement X without breaking module boundaries.
 
 ## Browse the atlas
 
-### AI & LLM infrastructure
-| Repo | Language | Depth | Diagram |
-|---|---|---|---|
-| [vllm](./vllm/) | Python | 2 | [architecture.md](./vllm/architecture.md) |
-| [langchainjs](./langchainjs/) | TypeScript | 2 | [architecture.md](./langchainjs/architecture.md) |
-| [sglang](./sglang/) | Python | 2 | [architecture.md](./sglang/architecture.md) |
-| [TensorRT-LLM](./TensorRT-LLM/) | Python/C++ | 2 | [architecture.md](./TensorRT-LLM/architecture.md) |
-| [mastra](./mastra/) | TypeScript | 2 | [architecture.md](./mastra/architecture.md) |
+Grouped by what the repo does. Each row links to the repo's top-level `on_boarding.md` — component-level diagrams live in the same folder.
 
-### Agents & dev tools
-| Repo | Language | Depth | Diagram |
-|---|---|---|---|
-| [Roo-Code](./Roo-Code/) | TypeScript | 2 | [architecture.md](./Roo-Code/architecture.md) |
-| [assistant-ui](./assistant-ui/) | TypeScript | 2 | [architecture.md](./assistant-ui/architecture.md) |
-| [humanlayer](./humanlayer/) | Python | 2 | [architecture.md](./humanlayer/architecture.md) |
-| [stagehand](./stagehand/) | TypeScript | 2 | [architecture.md](./stagehand/architecture.md) |
+<details>
+<summary>📚 Contents</summary>
 
-### Infrastructure, data, platforms
-| Repo | Language | Depth | Diagram |
-|---|---|---|---|
-| [airbyte](./airbyte/) | Java/Python | 2 | [architecture.md](./airbyte/architecture.md) |
-| [buildkit](./buildkit/) | Go | 2 | [architecture.md](./buildkit/architecture.md) |
-| [presto](./presto/) | Java | 2 | [architecture.md](./presto/architecture.md) |
-| [convex-backend](./convex-backend/) | Rust | 2 | [architecture.md](./convex-backend/architecture.md) |
-| [stackrox](./stackrox/) | Go | 2 | [architecture.md](./stackrox/architecture.md) |
+- [AI & machine learning](#ai--machine-learning)
+- [Data & analytics](#data--analytics)
+- [Web & UI](#web--ui)
+- [Infrastructure & DevOps](#infrastructure--devops)
+- [Developer tools](#developer-tools)
+- [Scientific & research computing](#scientific--research-computing)
+- [Security & privacy](#security--privacy)
+- [Games, graphics & media](#games-graphics--media)
+- [Networking, APIs & protocols](#networking-apis--protocols)
+- [Learning codebases](#learning-codebases)
+- [Full index (A–Z)](#full-index-az)
 
-*(Full index: [INDEX.md](./INDEX.md) — 50 repos, auto-generated.)*
+</details>
+
+### AI & machine learning
+
+#### LLM serving & inference
+| Repo | Language | Diagram |
+|---|---|---|
+| [vllm](./vllm/) | Python | [on_boarding.md](./vllm/on_boarding.md) |
+| [litellm](./litellm/) | Python | [on_boarding.md](./litellm/on_boarding.md) |
+| [mlc-llm](./mlc-llm/) | Python / C++ | [on_boarding.md](./mlc-llm/on_boarding.md) |
+
+#### Agent frameworks & orchestration
+| Repo | Language | Diagram |
+|---|---|---|
+| [agentdojo](./agentdojo/) | Python | [on_boarding.md](./agentdojo/on_boarding.md) |
+| [autogen](./autogen/) | Python | [on_boarding.md](./autogen/on_boarding.md) |
+| [crewAI](./crewAI/) | Python | [on_boarding.md](./crewAI/on_boarding.md) |
+| [haystack](./haystack/) | Python | [on_boarding.md](./haystack/on_boarding.md) |
+| [langgraph](./langgraph/) | Python | [on_boarding.md](./langgraph/on_boarding.md) |
+| [mcp-agent](./mcp-agent/) | Python | [on_boarding.md](./mcp-agent/on_boarding.md) |
+
+#### AI coding tools
+| Repo | Language | Diagram |
+|---|---|---|
+| [auto-code-rover](./auto-code-rover/) | Python | [on_boarding.md](./auto-code-rover/on_boarding.md) |
+| [AutoGPT](./AutoGPT/) | Python | [on_boarding.md](./AutoGPT/on_boarding.md) |
+| [CopilotKit](./CopilotKit/) | TypeScript | [on_boarding.md](./CopilotKit/on_boarding.md) |
+| [gpt-engineer](./gpt-engineer/) | Python | [on_boarding.md](./gpt-engineer/on_boarding.md) |
+| [gpt_engineer](./gpt_engineer/) | Python | [on_boarding.md](./gpt_engineer/on_boarding.md) |
+| [stagehand](./stagehand/) | TypeScript | [on_boarding.md](./stagehand/on_boarding.md) |
+| [SuperAGI](./SuperAGI/) | Python | [on_boarding.md](./SuperAGI/on_boarding.md) |
+
+#### ML research & models
+| Repo | Language | Diagram |
+|---|---|---|
+| [alphafold](./alphafold/) | Python | [on_boarding.md](./alphafold/on_boarding.md) |
+| [alphagenome](./alphagenome/) | Python | [on_boarding.md](./alphagenome/on_boarding.md) |
+| [BERTopic](./BERTopic/) | Python | [on_boarding.md](./BERTopic/on_boarding.md) |
+| [detectron2](./detectron2/) | Python | [on_boarding.md](./detectron2/on_boarding.md) |
+| [diffusers](./diffusers/) | Python | [on_boarding.md](./diffusers/on_boarding.md) |
+| [graphrag](./graphrag/) | Python | [on_boarding.md](./graphrag/on_boarding.md) |
+| [transformers](./transformers/) | Python | [on_boarding.md](./transformers/on_boarding.md) |
+
+#### Training, evaluation & guardrails
+| Repo | Language | Diagram |
+|---|---|---|
+| [deepeval](./deepeval/) | Python | [on_boarding.md](./deepeval/on_boarding.md) |
+| [finetuner](./finetuner/) | Python | [on_boarding.md](./finetuner/on_boarding.md) |
+| [llm-guard](./llm-guard/) | Python | [on_boarding.md](./llm-guard/on_boarding.md) |
+| [mlflow](./mlflow/) | Python | [on_boarding.md](./mlflow/on_boarding.md) |
+
+[⬆ back to top](#browse-the-atlas)
+
+### Data & analytics
+
+#### ETL & workflow orchestration
+| Repo | Language | Diagram |
+|---|---|---|
+| [airflow](./airflow/) | Python | [on_boarding.md](./airflow/on_boarding.md) |
+| [prefect](./prefect/) | Python | [on_boarding.md](./prefect/on_boarding.md) |
+
+#### Databases & storage
+| Repo | Language | Diagram |
+|---|---|---|
+| [influxdb-python](./influxdb-python/) | Python | [on_boarding.md](./influxdb-python/on_boarding.md) |
+| [tidb](./tidb/) | Go | [on_boarding.md](./tidb/on_boarding.md) |
+
+#### Data processing & analysis
+| Repo | Language | Diagram |
+|---|---|---|
+| [dask](./dask/) | Python | [on_boarding.md](./dask/on_boarding.md) |
+| [numpy](./numpy/) | Python / C | [on_boarding.md](./numpy/on_boarding.md) |
+| [pandas](./pandas/) | Python / C | [on_boarding.md](./pandas/on_boarding.md) |
+| [polars](./polars/) | Rust / Python | [on_boarding.md](./polars/on_boarding.md) |
+
+[⬆ back to top](#browse-the-atlas)
+
+### Web & UI
+
+#### Frontend frameworks
+| Repo | Language | Diagram |
+|---|---|---|
+| [angular](./angular/) | TypeScript | [on_boarding.md](./angular/on_boarding.md) |
+| [react](./react/) | JavaScript / TypeScript | [on_boarding.md](./react/on_boarding.md) |
+| [vue](./vue/) | JavaScript | [on_boarding.md](./vue/on_boarding.md) |
+
+#### UI libraries & no-code
+| Repo | Language | Diagram |
+|---|---|---|
+| [ant-design](./ant-design/) | TypeScript | [on_boarding.md](./ant-design/on_boarding.md) |
+| [appsmith](./appsmith/) | TypeScript / Java | [on_boarding.md](./appsmith/on_boarding.md) |
+
+#### Apps & platforms
+| Repo | Language | Diagram |
+|---|---|---|
+| [saleor](./saleor/) | Python | [on_boarding.md](./saleor/on_boarding.md) |
+| [synapse](./synapse/) | Python | [on_boarding.md](./synapse/on_boarding.md) |
+| [zulip](./zulip/) | Python | [on_boarding.md](./zulip/on_boarding.md) |
+
+[⬆ back to top](#browse-the-atlas)
+
+### Infrastructure & DevOps
+
+#### Configuration & automation
+| Repo | Language | Diagram |
+|---|---|---|
+| [ansible](./ansible/) | Python | [on_boarding.md](./ansible/on_boarding.md) |
+
+#### Observability & telemetry
+| Repo | Language | Diagram |
+|---|---|---|
+| [datadogpy](./datadogpy/) | Python | [on_boarding.md](./datadogpy/on_boarding.md) |
+| [dd-trace-py](./dd-trace-py/) | Python | [on_boarding.md](./dd-trace-py/on_boarding.md) |
+| [grafanalib](./grafanalib/) | Python | [on_boarding.md](./grafanalib/on_boarding.md) |
+| [newrelic-python-agent](./newrelic-python-agent/) | Python | [on_boarding.md](./newrelic-python-agent/on_boarding.md) |
+| [opentelemetry-go](./opentelemetry-go/) | Go | [on_boarding.md](./opentelemetry-go/on_boarding.md) |
+| [opentelemetry-python](./opentelemetry-python/) | Python | [on_boarding.md](./opentelemetry-python/on_boarding.md) |
+| [sentry-python](./sentry-python/) | Python | [on_boarding.md](./sentry-python/on_boarding.md) |
+
+#### Media & real-time infra
+| Repo | Language | Diagram |
+|---|---|---|
+| [livekit](./livekit/) | Go | [on_boarding.md](./livekit/on_boarding.md) |
+
+#### Platform SDKs
+| Repo | Language | Diagram |
+|---|---|---|
+| [docker-py](./docker-py/) | Python | [on_boarding.md](./docker-py/on_boarding.md) |
+
+[⬆ back to top](#browse-the-atlas)
+
+### Developer tools
+
+#### Package & environment management
+| Repo | Language | Diagram |
+|---|---|---|
+| [pipenv](./pipenv/) | Python | [on_boarding.md](./pipenv/on_boarding.md) |
+| [poetry](./poetry/) | Python | [on_boarding.md](./poetry/on_boarding.md) |
+
+#### Language tooling (lint / types / format)
+| Repo | Language | Diagram |
+|---|---|---|
+| [Black](./Black/) | Python | [on_boarding.md](./Black/on_boarding.md) |
+| [mypy](./mypy/) | Python | [on_boarding.md](./mypy/on_boarding.md) |
+| [pydantic](./pydantic/) | Python | [on_boarding.md](./pydantic/on_boarding.md) |
+| [ruff-lsp](./ruff-lsp/) | Python | [on_boarding.md](./ruff-lsp/on_boarding.md) |
+
+#### CLIs, docs & DX
+| Repo | Language | Diagram |
+|---|---|---|
+| [honcho](./honcho/) | Python | [on_boarding.md](./honcho/on_boarding.md) |
+| [mkdocs](./mkdocs/) | Python | [on_boarding.md](./mkdocs/on_boarding.md) |
+| [questionary](./questionary/) | Python | [on_boarding.md](./questionary/on_boarding.md) |
+| [rich](./rich/) | Python | [on_boarding.md](./rich/on_boarding.md) |
+| [tqdm](./tqdm/) | Python | [on_boarding.md](./tqdm/on_boarding.md) |
+
+#### Testing & load
+| Repo | Language | Diagram |
+|---|---|---|
+| [locust](./locust/) | Python | [on_boarding.md](./locust/on_boarding.md) |
+| [pytest](./pytest/) | Python | [on_boarding.md](./pytest/on_boarding.md) |
+| [pytest-xdist](./pytest-xdist/) | Python | [on_boarding.md](./pytest-xdist/on_boarding.md) |
+
+[⬆ back to top](#browse-the-atlas)
+
+### Scientific & research computing
+
+#### Genomics & bioinformatics
+| Repo | Language | Diagram |
+|---|---|---|
+| [AfterQC](./AfterQC/) | Python / C++ | [on_boarding.md](./AfterQC/on_boarding.md) |
+| [alphafold](./alphafold/) | Python | [on_boarding.md](./alphafold/on_boarding.md) |
+| [alphagenome](./alphagenome/) | Python | [on_boarding.md](./alphagenome/on_boarding.md) |
+| [anndata](./anndata/) | Python | [on_boarding.md](./anndata/on_boarding.md) |
+| [kipoiseq](./kipoiseq/) | Python | [on_boarding.md](./kipoiseq/on_boarding.md) |
+| [ProteinFlow](./ProteinFlow/) | Python | [on_boarding.md](./ProteinFlow/on_boarding.md) |
+| [PyDESeq2](./PyDESeq2/) | Python | [on_boarding.md](./PyDESeq2/on_boarding.md) |
+
+#### Imaging, neuroscience & health
+| Repo | Language | Diagram |
+|---|---|---|
+| [AllenSDK](./AllenSDK/) | Python | [on_boarding.md](./AllenSDK/on_boarding.md) |
+| [cellpose](./cellpose/) | Python | [on_boarding.md](./cellpose/on_boarding.md) |
+| [nilearn](./nilearn/) | Python | [on_boarding.md](./nilearn/on_boarding.md) |
+| [PyHealth](./PyHealth/) | Python | [on_boarding.md](./PyHealth/on_boarding.md) |
+
+#### Molecular dynamics & chemistry
+| Repo | Language | Diagram |
+|---|---|---|
+| [pyemma](./pyemma/) | Python | [on_boarding.md](./pyemma/on_boarding.md) |
+
+[⬆ back to top](#browse-the-atlas)
+
+### Security & privacy
+
+#### App & supply-chain security
+| Repo | Language | Diagram |
+|---|---|---|
+| [bandit](./bandit/) | Python | [on_boarding.md](./bandit/on_boarding.md) |
+| [credential-digger](./credential-digger/) | Python | [on_boarding.md](./credential-digger/on_boarding.md) |
+| [llm-guard](./llm-guard/) | Python | [on_boarding.md](./llm-guard/on_boarding.md) |
+| [python-tuf](./python-tuf/) | Python | [on_boarding.md](./python-tuf/on_boarding.md) |
+
+#### Offensive / red team
+| Repo | Language | Diagram |
+|---|---|---|
+| [CobaltStrikeBeaconCppSource](./CobaltStrikeBeaconCppSource/) | C++ | [on_boarding.md](./CobaltStrikeBeaconCppSource/on_boarding.md) |
+| [GhostTrack](./GhostTrack/) | Python | [on_boarding.md](./GhostTrack/on_boarding.md) |
+
+[⬆ back to top](#browse-the-atlas)
+
+### Games, graphics & media
+
+#### Game engines & 3D
+| Repo | Language | Diagram |
+|---|---|---|
+| [openage](./openage/) | C++ / Python | [on_boarding.md](./openage/on_boarding.md) |
+| [panda3d](./panda3d/) | C++ / Python | [on_boarding.md](./panda3d/on_boarding.md) |
+| [pygame](./pygame/) | Python / C | [on_boarding.md](./pygame/on_boarding.md) |
+| [pygame-menu](./pygame-menu/) | Python | [on_boarding.md](./pygame-menu/on_boarding.md) |
+
+#### Video, audio & downloaders
+| Repo | Language | Diagram |
+|---|---|---|
+| [anime-downloader](./anime-downloader/) | Python | [on_boarding.md](./anime-downloader/on_boarding.md) |
+| [Deep-Live-Cam](./Deep-Live-Cam/) | Python | [on_boarding.md](./Deep-Live-Cam/on_boarding.md) |
+| [soundconverter](./soundconverter/) | Python | [on_boarding.md](./soundconverter/on_boarding.md) |
+| [syncedlyrics](./syncedlyrics/) | Python | [on_boarding.md](./syncedlyrics/on_boarding.md) |
+| [youtube-dl](./youtube-dl/) | Python | [on_boarding.md](./youtube-dl/on_boarding.md) |
+| [yt-dlp](./yt-dlp/) | Python | [on_boarding.md](./yt-dlp/on_boarding.md) |
+
+#### Creative tooling
+| Repo | Language | Diagram |
+|---|---|---|
+| [arcade-ai](./arcade-ai/) | Python | [on_boarding.md](./arcade-ai/on_boarding.md) |
+| [blender-mcp](./blender-mcp/) | Python | [on_boarding.md](./blender-mcp/on_boarding.md) |
+
+[⬆ back to top](#browse-the-atlas)
+
+### Networking, APIs & protocols
+
+#### Platform SDKs & API clients
+| Repo | Language | Diagram |
+|---|---|---|
+| [PyGithub](./PyGithub/) | Python | [on_boarding.md](./PyGithub/on_boarding.md) |
+| [shopify_python_api](./shopify_python_api/) | Python | [on_boarding.md](./shopify_python_api/on_boarding.md) |
+| [twitter-api-client](./twitter-api-client/) | Python | [on_boarding.md](./twitter-api-client/on_boarding.md) |
+| [web3.py](./web3.py/) | Python | [on_boarding.md](./web3.py/on_boarding.md) |
+
+#### Industrial & IoT protocols
+| Repo | Language | Diagram |
+|---|---|---|
+| [mavlink](./mavlink/) | Python | [on_boarding.md](./mavlink/on_boarding.md) |
+| [python-opcua](./python-opcua/) | Python | [on_boarding.md](./python-opcua/on_boarding.md) |
+
+[⬆ back to top](#browse-the-atlas)
+
+### Learning codebases
+
+Small, well-structured repos where the diagram is more useful for *studying architectural style* than for day-to-day agent grounding.
+
+| Repo | Language | Why it's here |
+|---|---|---|
+| [30-Days-Of-Python](./30-Days-Of-Python/) | Python | Layered tutorial structure you can read end-to-end |
+| [algorithms](./algorithms/) | Python | Minimal, topic-per-module organization |
+| [annotated_deep_learning_paper_implementations](./annotated_deep_learning_paper_implementations/) | Python | One module per paper — a reference for "how do I structure research code?" |
+| [Solitaire](./Solitaire/) | Python | A complete game in a readable footprint |
+| [Sudoku](./Sudoku/) | Python | Classic separation of rules, solver, UI |
+| [tinygrad](./tinygrad/) | Python | A full ML framework in few enough files to actually read |
+
+[⬆ back to top](#browse-the-atlas)
+
+### Full index (A–Z)
+
+Every repo in the atlas, flat and alphabetical — for Ctrl-F and for anything not covered above. See [INDEX.md](./INDEX.md).
+
+[⬆ back to top](#browse-the-atlas)
 
 
 ## How diagrams are generated

@@ -117,11 +117,11 @@ graph LR
 
 ## Why
 
-- **Onboard your AI agent.** Paste the markdown into your AGENT.md so the agent onboards in fewer tokens.
+- **Onboard your AI agent.** Paste the markdown into your ARCHITECTURE.md so the agent onboards in fewer tokens.
 - **Live mindmap as your agent codes.** Human readable to understand the changes your agent does.
 - **Pattern literacy.** *"How do mature async runtimes structure their scheduler?"* Browse five of them side-by-side.
 
-## Drop into your agent (10 seconds)
+## Drop into your agent
 
 ```bash
 # Cursor / Claude Code / Aider — load a repo's architecture as context
@@ -131,7 +131,7 @@ curl -sL https://raw.githubusercontent.com/<org>/awesome-architecture-mds/main/v
 
 Or reference it directly in your prompt:
 ```
-@https://github.com/<org>/awesome-architecture-mds/blob/main/vllm/architecture.md
+@https://github.com/codeboarding/awesome-architecture-mds/blob/main/vllm/on_boarding.md
 Using the architecture above, implement X without breaking module boundaries.
 ```
 
@@ -1343,7 +1343,7 @@ flowchart LR
     CB --> MD[architecture.md]
 ```
 
-Every diagram is produced by running [**CodeBoarding**](https://codeboarding.com) — a local static-analysis + LLM-reasoning engine — over the repo at `--depth-level 2`. The engine parses real imports, call graphs, and module boundaries; the LLM only names and summarizes. No diagram is hand-drawn.
+Every diagram is produced by running [**CodeBoarding**](https://github.com/CodeBoarding/CodeBoarding) — a local static-analysis + LLM-reasoning engine — over the repo at `--depth-level 2`. The engine parses real imports, call graphs, and module boundaries; the LLM only names and summarizes. No diagram is hand-drawn.
 
 ## Contribute
 
@@ -1360,4 +1360,4 @@ We prioritize repos that are (a) actively maintained, (b) widely depended on, or
 
 ## License
 
-[MIT](./LICENSE). Copy the diagrams into your own `README.md`, `ARCHITECTURE.md`, or `.cursorrules`. No attribution required.
+[MIT](./LICENSE). Copy the diagrams into your own `README.md`, `ARCHITECTURE.md`, or `AGENT.md`. No attribution required.

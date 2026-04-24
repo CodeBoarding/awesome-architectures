@@ -1,1044 +1,1041 @@
-- [30-Days-Of-Python](./30-Days-Of-Python/)
-- [ABCs-of-control](./ABCs-of-control/)
-- [abu](./abu/)
-- [academic-keyword-occurrence](./academic-keyword-occurrence/)
-- [AdalFlow](./AdalFlow/)
-- [addons](./addons/)
-- [aestetik](./aestetik/)
-- [AfterQC](./AfterQC/)
-- [ag2](./ag2/)
-- [agentdojo](./agentdojo/)
-- [agno](./agno/)
-- [aideml](./aideml/)
-- [aiomultiprocess](./aiomultiprocess/)
-- [aiomysql](./aiomysql/)
-- [aiosqlite](./aiosqlite/)
-- [airflow](./airflow/)
-- [aitextgen](./aitextgen/)
-- [AIX360](./AIX360/)
-- [aizynthfinder](./aizynthfinder/)
-- [akshare](./akshare/)
-- [albumentations](./albumentations/)
-- [algo](./algo/)
-- [algorithms](./algorithms/)
-- [AliceLG](./AliceLG/)
-- [Alien](./Alien/)
-- [AllenSDK](./AllenSDK/)
-- [alphafold](./alphafold/)
-- [alphagenome](./alphagenome/)
-- [AlphaPy](./AlphaPy/)
-- [amazing-qr](./amazing-qr/)
-- [AmberLG](./AmberLG/)
-- [analytics-python](./analytics-python/)
-- [angular](./angular/)
-- [anime-downloader](./anime-downloader/)
-- [anndata](./anndata/)
-- [annofilter-junctions](./annofilter-junctions/)
-- [annotated_deep_learning_paper_implementations](./annotated_deep_learning_paper_implementations/)
-- [ansible](./ansible/)
-- [ant-design](./ant-design/)
-- [antialiased-cnns](./antialiased-cnns/)
-- [appium](./appium/)
-- [appsmith](./appsmith/)
-- [arcade-ai](./arcade-ai/)
-- [archinstall](./archinstall/)
-- [Archon](./Archon/)
-- [argcomplete](./argcomplete/)
-- [arviz](./arviz/)
-- [arxiv-base](./arxiv-base/)
-- [asammdf](./asammdf/)
-- [asgiref](./asgiref/)
-- [assets](./assets/)
-- [async_rlhf](./async_rlhf/)
-- [AsyncFlow](./AsyncFlow/)
-- [atheris](./atheris/)
-- [atlassian-connect-example-app-node](./atlassian-connect-example-app-node/)
-- [atlassian-python-api](./atlassian-python-api/)
-- [augur](./augur/)
-- [auto-code-rover](./auto-code-rover/)
-- [AutoAgent](./AutoAgent/)
-- [AutoDL-Projects](./AutoDL-Projects/)
-- [autogen](./autogen/)
-- [AutoGPT](./AutoGPT/)
-- [AutoViz](./AutoViz/)
-- [avalanche](./avalanche/)
-- [awesome-llm-apps](./awesome-llm-apps/)
-- [awesome-python](./awesome-python/)
-- [AYABInterface](./AYABInterface/)
-- [babel](./babel/)
-- [backtrader](./backtrader/)
-- [bagel-cli](./bagel-cli/)
-- [bandit](./bandit/)
-- [Bard](./Bard/)
-- [Bashfuscator](./Bashfuscator/)
-- [bashplotlib](./bashplotlib/)
-- [basic_verilog](./basic_verilog/)
-- [BasicTS](./BasicTS/)
-- [baxbench](./baxbench/)
-- [BayerCLAW](./BayerCLAW/)
-- [BayesERbook](./BayesERbook/)
-- [bayesian_meta_learning](./bayesian_meta_learning/)
-- [BCEmbedding](./BCEmbedding/)
-- [bcrypt](./bcrypt/)
-- [BeadArrayFiles](./BeadArrayFiles/)
-- [behave](./behave/)
-- [beignet](./beignet/)
-- [beir](./beir/)
-- [bella-openapi](./bella-openapi/)
-- [benchmark_VAE](./benchmark_VAE/)
-- [bert-extractive-summarizer](./bert-extractive-summarizer/)
-- [BERTopic](./BERTopic/)
-- [besu](./besu/)
-- [BIC-megaplots](./BIC-megaplots/)
-- [bigwig-loader](./bigwig-loader/)
-- [bindsnet](./bindsnet/)
-- [bioblend](./bioblend/)
-- [BioPhi](./BioPhi/)
-- [biopython](./biopython/)
-- [BitNet](./BitNet/)
-- [Black](./Black/)
-- [blender-mcp](./blender-mcp/)
-- [blinker](./blinker/)
-- [boltz](./boltz/)
-- [bonobo](./bonobo/)
-- [BookWorm](./BookWorm/)
-- [boruta_py](./boruta_py/)
-- [boto3](./boto3/)
-- [botocore](./botocore/)
-- [browser-use](./browser-use/)
-- [bt](./bt/)
-- [btree](./btree/)
-- [bytewax](./bytewax/)
-- [Caly](./Caly/)
-- [cantools](./cantools/)
-- [carbon](./carbon/)
-- [cartopy](./cartopy/)
-- [causal-learn](./causal-learn/)
-- [CBAM.PyTorch](./CBAM.PyTorch/)
-- [ccdutils](./ccdutils/)
-- [celery](./celery/)
-- [cellpose](./cellpose/)
-- [chainguard](./chainguard/)
-- [charmcraft](./charmcraft/)
-- [chatarena](./chatarena/)
-- [ChatGLM-6B](./ChatGLM-6B/)
-- [ChatGPT](./ChatGPT/)
-- [ChatterBot](./ChatterBot/)
-- [chatterbox](./chatterbox/)
-- [ChatTTS](./ChatTTS/)
-- [check-if-email-exists](./check-if-email-exists/)
-- [ChEMBL_Structure_Pipeline](./ChEMBL_Structure_Pipeline/)
-- [chembl_webresource_client](./chembl_webresource_client/)
-- [chemicalx](./chemicalx/)
-- [cherrypy](./cherrypy/)
-- [chromeless](./chromeless/)
-- [cian-protocol](./cian-protocol/)
-- [cibuildwheel](./cibuildwheel/)
-- [ckiptagger](./ckiptagger/)
-- [ClassyVision](./ClassyVision/)
-- [claude-code-testing](./claude-code-testing/)
-- [CleanArchitecture](./CleanArchitecture/)
-- [cli](./cli/)
-- [clip-rt](./clip-rt/)
-- [clothes-virtual-try-on](./clothes-virtual-try-on/)
-- [cloudant-python-sdk](./cloudant-python-sdk/)
-- [cloudpickle](./cloudpickle/)
-- [clubhouse-py](./clubhouse-py/)
-- [cluster-api](./cluster-api/)
-- [CobaltStrikeBeaconCppSource](./CobaltStrikeBeaconCppSource/)
-- [cobra](./cobra/)
-- [cocode](./cocode/)
-- [CodeBoarding](./CodeBoarding/)
-- [CodeBoarding-vscode](./CodeBoarding-vscode/)
-- [codeforlife-portal](./codeforlife-portal/)
-- [codon](./codon/)
-- [CogDL](./CogDL/)
-- [cognee](./cognee/)
-- [coinbase-python](./coinbase-python/)
-- [ComfyUI](./ComfyUI/)
-- [ComfyUI-Easy-Use](./ComfyUI-Easy-Use/)
-- [common-pile](./common-pile/)
-- [compare_gan](./compare_gan/)
-- [composio](./composio/)
-- [CompressAI](./CompressAI/)
-- [conductor](./conductor/)
-- [ConfGF](./ConfGF/)
-- [contextgem](./contextgem/)
-- [ConvNeXt-V2](./ConvNeXt-V2/)
-- [cookiecutter](./cookiecutter/)
-- [CopilotKit](./CopilotKit/)
-- [copyparty](./copyparty/)
-- [core](./core/)
-- [CoSpred](./CoSpred/)
-- [CosyVoice](./CosyVoice/)
-- [craft-application](./craft-application/)
-- [crawl4ai](./crawl4ai/)
-- [credential-digger](./credential-digger/)
-- [crewAI](./crewAI/)
-- [crush](./crush/)
-- [CTGAN](./CTGAN/)
-- [cuda-python](./cuda-python/)
-- [CustomTkinter](./CustomTkinter/)
-- [cvimprover-api](./cvimprover-api/)
-- [d2l-zh](./d2l-zh/)
-- [d3py](./d3py/)
-- [dacite](./dacite/)
-- [dash](./dash/)
-- [dask](./dask/)
-- [datadogpy](./datadogpy/)
-- [datahowlab-sdk-python](./datahowlab-sdk-python/)
-- [dataproduct-mcp](./dataproduct-mcp/)
-- [DataProfiler](./DataProfiler/)
-- [datasets](./datasets/)
-- [dd-agent](./dd-agent/)
-- [dd-trace-py](./dd-trace-py/)
-- [ddi-designer](./ddi-designer/)
-- [decima](./decima/)
-- [deco](./deco/)
-- [deep-chat](./deep-chat/)
-- [deep-learning-for-image-processing](./deep-learning-for-image-processing/)
-- [Deep-Live-Cam](./Deep-Live-Cam/)
-- [deep-molecular-optimization](./deep-molecular-optimization/)
-- [deep-translator](./deep-translator/)
-- [deepchem](./deepchem/)
-- [DeepCode](./DeepCode/)
-- [deepeval](./deepeval/)
-- [deepface](./deepface/)
-- [deepgaze](./deepgaze/)
-- [DeepLabCut](./DeepLabCut/)
-- [DeeplyTough](./DeeplyTough/)
-- [DeepSpeed](./DeepSpeed/)
-- [DeepSpot](./DeepSpot/)
-- [deeptools](./deeptools/)
-- [deepwiki-open](./deepwiki-open/)
-- [delegator.py](./delegator.py/)
-- [dellemc-openmanage-ansible-modules](./dellemc-openmanage-ansible-modules/)
-- [delorean](./delorean/)
-- [denoiser](./denoiser/)
-- [Dense_OpticalFlow_and_CNN_based_Motion_Segmentation_and_Object_Recognition](./Dense_OpticalFlow_and_CNN_based_Motion_Segmentation_and_Object_Recognition/)
-- [detectron2](./detectron2/)
-- [DeTikZify](./DeTikZify/)
-- [dgl](./dgl/)
-- [DiCE](./DiCE/)
-- [diffrax](./diffrax/)
-- [diffusers](./diffusers/)
-- [digest](./digest/)
-- [dipy](./dipy/)
-- [DirLink](./DirLink/)
-- [discord](./discord/)
-- [discord.py](./discord.py/)
-- [dispatch](./dispatch/)
-- [dive](./dive/)
-- [dj-rest-auth](./dj-rest-auth/)
-- [dj-stripe](./dj-stripe/)
-- [django](./django/)
-- [django-anymail](./django-anymail/)
-- [django-axes](./django-axes/)
-- [django-celery-beat](./django-celery-beat/)
-- [django-crm](./django-crm/)
-- [Django-facebook](./Django-facebook/)
-- [django-filer](./django-filer/)
-- [django-lifecycle](./django-lifecycle/)
-- [django-modeltranslation](./django-modeltranslation/)
-- [django-ninja](./django-ninja/)
-- [django-notifications](./django-notifications/)
-- [django-postgres-docker-skeleton](./django-postgres-docker-skeleton/)
-- [django-prometheus](./django-prometheus/)
-- [django-react-typescript](./django-react-typescript/)
-- [django-rest-framework](./django-rest-framework/)
-- [django-rules](./django-rules/)
-- [django-tenant-schemas](./django-tenant-schemas/)
-- [django-two-factor-auth](./django-two-factor-auth/)
-- [DJITelloPy](./DJITelloPy/)
-- [djongo](./djongo/)
-- [dlrover](./dlrover/)
-- [docker-py](./docker-py/)
-- [DocLayout-YOLO](./DocLayout-YOLO/)
-- [docling](./docling/)
-- [DocsGPT](./DocsGPT/)
-- [dominate](./dominate/)
-- [DPR](./DPR/)
-- [drcHelper](./drcHelper/)
-- [drgn](./drgn/)
-- [dropbox-sdk-python](./dropbox-sdk-python/)
-- [dspy](./dspy/)
-- [dtale](./dtale/)
-- [dyad](./dyad/)
-- [EasyOCR](./EasyOCR/)
-- [EasyRec](./EasyRec/)
-- [ebooklib](./ebooklib/)
-- [EFAAR_benchmarking](./EFAAR_benchmarking/)
-- [efficientnet](./efficientnet/)
-- [elephas](./elephas/)
-- [enact-pipeline](./enact-pipeline/)
-- [equifold](./equifold/)
-- [ERNIE](./ERNIE/)
-- [erpnext](./erpnext/)
-- [eShop](./eShop/)
-- [EShopMicroservices](./EShopMicroservices/)
-- [eShopOnAzure](./eShopOnAzure/)
-- [eShopOnWeb](./eShopOnWeb/)
-- [esm](./esm/)
-- [evennia](./evennia/)
-- [eventsourcing](./eventsourcing/)
-- [explorer](./explorer/)
-- [fabric](./fabric/)
-- [face_recognition](./face_recognition/)
-- [facebook-python-business-sdk](./facebook-python-business-sdk/)
-- [facebook-wda](./facebook-wda/)
-- [fail2ban](./fail2ban/)
-- [fairseq](./fairseq/)
-- [Fashion-Brand](./Fashion-Brand/)
-- [fast-bert](./fast-bert/)
-- [fastapi](./fastapi/)
-- [fastapi-pagination](./fastapi-pagination/)
-- [FastChat](./FastChat/)
-- [fastdup](./fastdup/)
-- [FastVideo](./FastVideo/)
-- [faust](./faust/)
-- [finetuner](./finetuner/)
-- [FinQuant](./FinQuant/)
-- [fitlog](./fitlog/)
-- [flair](./flair/)
-- [flask](./flask/)
-- [flask-ask](./flask-ask/)
-- [flask-jwt-extended](./flask-jwt-extended/)
-- [flask-wtf](./flask-wtf/)
-- [flow_matching](./flow_matching/)
-- [Flowise](./Flowise/)
-- [Flyerscord-Bot](./Flyerscord-Bot/)
-- [fmriprep](./fmriprep/)
-- [fold](./fold/)
-- [foodgram-project](./foodgram-project/)
-- [FoolNLTK](./FoolNLTK/)
-- [ForestBlog](./ForestBlog/)
-- [formio](./formio/)
-- [foxops](./foxops/)
-- [foxops-client-python](./foxops-client-python/)
-- [freqtrade](./freqtrade/)
-- [friendli-python](./friendli-python/)
-- [fugue](./fugue/)
-- [funNLP](./funNLP/)
-- [g2papi](./g2papi/)
-- [g3m](./g3m/)
-- [gae](./gae/)
-- [GaLore](./GaLore/)
-- [ganda](./ganda/)
-- [gaphor](./gaphor/)
-- [garak](./garak/)
-- [GearNet](./GearNet/)
-- [geatpy](./geatpy/)
-- [gemma_pytorch](./gemma_pytorch/)
-- [genai-processors](./genai-processors/)
-- [GeneAgent](./GeneAgent/)
-- [generated_repos](./generated_repos/)
-- [genie](./genie/)
-- [genome-manager](./genome-manager/)
-- [geomstats](./geomstats/)
-- [gflownet](./gflownet/)
-- [GFPGAN](./GFPGAN/)
-- [GhostTrack](./GhostTrack/)
-- [git-stacktrace](./git-stacktrace/)
-- [gitdiagram](./gitdiagram/)
-- [GitHubPoster](./GitHubPoster/)
-- [gkeepapi](./gkeepapi/)
-- [glom](./glom/)
-- [gmail](./gmail/)
-- [gnomAD_DB](./gnomAD_DB/)
-- [go-micro](./go-micro/)
-- [godror](./godror/)
-- [Gooey](./Gooey/)
-- [gpf](./gpf/)
-- [gpf_flash](./gpf_flash/)
-- [gpf_old](./gpf_old/)
-- [gpf_small](./gpf_small/)
-- [gpfjs](./gpfjs/)
-- [gplearn](./gplearn/)
-- [gpt_engineer](./gpt_engineer/)
-- [gpt-engineer](./gpt-engineer/)
-- [gpt-researcher](./gpt-researcher/)
-- [gpt4free](./gpt4free/)
-- [gradio](./gradio/)
-- [gradslam](./gradslam/)
-- [grafanalib](./grafanalib/)
-- [graph4nlp](./graph4nlp/)
-- [GraphGym](./GraphGym/)
-- [graphrag](./graphrag/)
-- [gReLU](./gReLU/)
-- [GrooveScribe](./GrooveScribe/)
-- [guietta](./guietta/)
-- [gydnc](./gydnc/)
-- [gym](./gym/)
-- [gym-pybullet-drones](./gym-pybullet-drones/)
-- [h3-py](./h3-py/)
-- [h5bench](./h5bench/)
-- [hacking-tutorial](./hacking-tutorial/)
-- [hai-build](./hai-build/)
-- [hangups](./hangups/)
-- [HanLP](./HanLP/)
-- [hashids-python](./hashids-python/)
-- [haystack](./haystack/)
-- [heartrate](./heartrate/)
-- [Hello-Python](./Hello-Python/)
-- [hiddenlayer](./hiddenlayer/)
-- [HLAIIPred](./HLAIIPred/)
-- [hls4ml](./hls4ml/)
-- [holidays](./holidays/)
-- [honcho](./honcho/)
-- [hopfield-layers](./hopfield-layers/)
-- [hpn-ssh](./hpn-ssh/)
-- [HR-SM](./HR-SM/)
-- [hrms](./hrms/)
-- [humanize](./humanize/)
-- [hummingbot](./hummingbot/)
-- [Hunyuan3D-2.1](./Hunyuan3D-2.1/)
-- [hypothesis-torch](./hypothesis-torch/)
-- [ijson](./ijson/)
-- [ImageReward](./ImageReward/)
-- [improver](./improver/)
-- [inbox.py](./inbox.py/)
-- [influxdb-python](./influxdb-python/)
-- [injector](./injector/)
-- [insights-core](./insights-core/)
-- [insitro-research](./insitro-research/)
-- [inspect_ai](./inspect_ai/)
-- [instructor](./instructor/)
-- [invariant](./invariant/)
-- [invariant-gateway](./invariant-gateway/)
-- [invariant-sdk](./invariant-sdk/)
-- [IOS13-SimulateTouch](./IOS13-SimulateTouch/)
-- [ipdb](./ipdb/)
-- [ipython](./ipython/)
-- [iris](./iris/)
-- [irods_capability_automated_ingest](./irods_capability_automated_ingest/)
-- [itchatmp](./itchatmp/)
-- [itermplot](./itermplot/)
-- [Java](./Java/)
-- [jax](./jax/)
-- [jellyfin](./jellyfin/)
-- [Jetpack-Compose-Tutorials](./Jetpack-Compose-Tutorials/)
-- [jiant](./jiant/)
-- [jieba](./jieba/)
-- [jira](./jira/)
-- [JobSpy](./JobSpy/)
-- [jovvix](./jovvix/)
-- [jump_hub](./jump_hub/)
-- [jumpserver](./jumpserver/)
-- [jupyterlab](./jupyterlab/)
-- [kalico](./kalico/)
-- [KAZU](./KAZU/)
-- [keras](./keras/)
-- [keras-resnet](./keras-resnet/)
-- [Keras-TextClassification](./Keras-TextClassification/)
-- [khaiii](./khaiii/)
-- [KiKit](./KiKit/)
-- [kipoiseq](./kipoiseq/)
-- [kivy](./kivy/)
-- [knittingpattern](./knittingpattern/)
-- [KoBERT](./KoBERT/)
-- [koila](./koila/)
-- [kor](./kor/)
-- [kornia](./kornia/)
-- [kotaemon](./kotaemon/)
-- [labelme](./labelme/)
-- [LAMA](./LAMA/)
-- [langchain](./langchain/)
-- [langdetect](./langdetect/)
-- [langextract](./langextract/)
-- [langflow](./langflow/)
-- [langgraph](./langgraph/)
-- [LaTeX-OCR](./LaTeX-OCR/)
-- [laudspeaker](./laudspeaker/)
-- [lea](./lea/)
-- [learn-python](./learn-python/)
-- [Learning-Journal](./Learning-Journal/)
-- [lemur](./lemur/)
-- [libra](./libra/)
-- [Lidar_AI_Solution](./Lidar_AI_Solution/)
-- [lighteval](./lighteval/)
-- [lightning](./lightning/)
-- [lightning-thunder](./lightning-thunder/)
-- [lightweight-gan](./lightweight-gan/)
-- [LightZero](./LightZero/)
-- [LISTT](./LISTT/)
-- [litellm](./litellm/)
-- [livekit](./livekit/)
-- [llama](./llama/)
-- [llama_index](./llama_index/)
-- [llama.vim](./llama.vim/)
-- [llama3](./llama3/)
-- [LLaVA](./LLaVA/)
-- [llm-graph-builder](./llm-graph-builder/)
-- [llm-guard](./llm-guard/)
-- [lmql](./lmql/)
-- [localstack](./localstack/)
-- [locust](./locust/)
-- [logparser](./logparser/)
-- [logster](./logster/)
-- [loguru](./loguru/)
-- [lyse](./lyse/)
-- [magic-wormhole](./magic-wormhole/)
-- [MaiBot](./MaiBot/)
-- [mailin](./mailin/)
-- [mangum](./mangum/)
-- [manim](./manim/)
-- [ManiSkill](./ManiSkill/)
-- [markitdown](./markitdown/)
-- [matharena](./matharena/)
-- [matplotlib](./matplotlib/)
-- [mavlink](./mavlink/)
-- [MayarDataScienceLab](./MayarDataScienceLab/)
-- [mcp-agent](./mcp-agent/)
-- [mcp-agent-discussion](./mcp-agent-discussion/)
-- [mcp-context-forge](./mcp-context-forge/)
-- [mcp-scan](./mcp-scan/)
-- [mcp-use](./mcp-use/)
-- [MEA-NAP](./MEA-NAP/)
-- [medconb](./medconb/)
-- [MedicalNet](./MedicalNet/)
-- [Megatron-LM](./Megatron-LM/)
-- [mem0](./mem0/)
-- [metaflow](./metaflow/)
-- [MetaGPT](./MetaGPT/)
-- [metric-learn](./metric-learn/)
-- [MHDDoS](./MHDDoS/)
-- [micro_diffusion](./micro_diffusion/)
-- [microdot](./microdot/)
-- [micrograd](./micrograd/)
-- [microsoft-authentication-library-for-python](./microsoft-authentication-library-for-python/)
-- [MinerU](./MinerU/)
-- [minGPT](./minGPT/)
-- [mixpanel-python](./mixpanel-python/)
-- [mkdocs](./mkdocs/)
-- [mkdocstrings](./mkdocstrings/)
-- [ml-cvnets](./ml-cvnets/)
-- [ml-fastvit](./ml-fastvit/)
-- [ml4a](./ml4a/)
-- [MLBox](./MLBox/)
-- [mlc-llm](./mlc-llm/)
-- [mlcourse.ai](./mlcourse.ai/)
-- [mlflow](./mlflow/)
-- [mlr-xai-selfies](./mlr-xai-selfies/)
-- [mlx-lm](./mlx-lm/)
-- [mlx-vlm](./mlx-vlm/)
-- [mmdetection](./mmdetection/)
-- [mmpdb](./mmpdb/)
-- [mne-python](./mne-python/)
-- [moby](./moby/)
-- [MOCCA](./MOCCA/)
-- [model2vec](./model2vec/)
-- [models](./models/)
-- [mole_public](./mole_public/)
-- [mongo-python-driver](./mongo-python-driver/)
-- [mongodb-mcp-server](./mongodb-mcp-server/)
-- [mouse-echo-neural-net](./mouse-echo-neural-net/)
-- [moviepy](./moviepy/)
-- [MS-lesion-segmentation](./MS-lesion-segmentation/)
-- [mtkclient](./mtkclient/)
-- [MultiQC](./MultiQC/)
-- [Muon](./Muon/)
-- [mypy](./mypy/)
-- [Name-That-Hash](./Name-That-Hash/)
-- [nano-llama31](./nano-llama31/)
-- [napi](./napi/)
-- [neat-python](./neat-python/)
-- [nerfacc](./nerfacc/)
-- [nest](./nest/)
-- [neuro-forestwalk](./neuro-forestwalk/)
-- [neuro-green](./neuro-green/)
-- [neuro-meeglet-paper](./neuro-meeglet-paper/)
-- [neusomatic](./neusomatic/)
-- [newrelic-python-agent](./newrelic-python-agent/)
-- [newton](./newton/)
-- [nf-crispr-primer-design](./nf-crispr-primer-design/)
-- [nginx](./nginx/)
-- [nginxconfig.io](./nginxconfig.io/)
-- [nicegui](./nicegui/)
-- [NiftyNet](./NiftyNet/)
-- [nilearn](./nilearn/)
-- [nipype](./nipype/)
-- [nltk](./nltk/)
-- [NodeGraphQt](./NodeGraphQt/)
-- [NonadditivityAnalysis](./NonadditivityAnalysis/)
-- [nornir](./nornir/)
-- [notebook](./notebook/)
-- [nsfw_model](./nsfw_model/)
-- [numpy](./numpy/)
-- [obsidian-spaced-repetition](./obsidian-spaced-repetition/)
-- [OCRmyPDF](./OCRmyPDF/)
-- [OctoPrint](./OctoPrint/)
-- [odoo](./odoo/)
-- [OhunIslam](./OhunIslam/)
-- [Olive](./Olive/)
-- [ollama-python](./ollama-python/)
-- [ome-zarr-py](./ome-zarr-py/)
-- [omnibenchmark](./omnibenchmark/)
-- [omnizart](./omnizart/)
-- [once-for-all](./once-for-all/)
-- [Open-Assistant](./Open-Assistant/)
-- [open-interpreter](./open-interpreter/)
-- [Open3D-ML](./Open3D-ML/)
-- [openage](./openage/)
-- [openai-agents-python](./openai-agents-python/)
-- [openai-python](./openai-python/)
-- [OpenBB](./OpenBB/)
-- [OpenCopilot-PikoAi](./OpenCopilot-PikoAi/)
-- [opencv](./opencv/)
-- [opencv-python](./opencv-python/)
-- [openfold](./openfold/)
-- [openhtf](./openhtf/)
-- [openmc](./openmc/)
-- [OpenNE](./OpenNE/)
-- [openr](./openr/)
-- [opentelemetry-go](./opentelemetry-go/)
-- [opentelemetry-python](./opentelemetry-python/)
-- [OpenUpgrade](./OpenUpgrade/)
-- [openWakeWord-cpp](./openWakeWord-cpp/)
-- [optics-framework](./optics-framework/)
-- [optimus](./optimus/)
-- [optuna](./optuna/)
-- [orator](./orator/)
-- [order_book_server](./order_book_server/)
-- [orm](./orm/)
-- [OS-Copilot](./OS-Copilot/)
-- [OtakuWorld](./OtakuWorld/)
-- [PaddleOCR](./PaddleOCR/)
-- [PaddleSlim](./PaddleSlim/)
-- [panda3d](./panda3d/)
-- [pandas](./pandas/)
-- [paper-search-mcp](./paper-search-mcp/)
-- [pathway](./pathway/)
-- [payload](./payload/)
-- [paypal-js](./paypal-js/)
-- [paysafe_sdk_python](./paysafe_sdk_python/)
-- [PCV](./PCV/)
-- [pdc](./pdc/)
-- [PDFMathTranslate](./PDFMathTranslate/)
-- [pelican-plugins](./pelican-plugins/)
-- [penzai](./penzai/)
-- [PerforatedAI](./PerforatedAI/)
-- [perfplot](./perfplot/)
-- [Personae](./Personae/)
-- [PGL](./PGL/)
-- [PGPortfolio](./PGPortfolio/)
-- [PharmaSage](./PharmaSage/)
-- [phase1b](./phase1b/)
-- [PhenEx](./PhenEx/)
-- [phonemizer](./phonemizer/)
-- [piccolo](./piccolo/)
-- [Pillow](./Pillow/)
-- [pingouin](./pingouin/)
-- [pinterest-python-sdk](./pinterest-python-sdk/)
-- [Pipe](./Pipe/)
-- [pipecat](./pipecat/)
-- [pipenv](./pipenv/)
-- [piq](./piq/)
-- [pixivpy](./pixivpy/)
-- [pke](./pke/)
-- [plotly.py](./plotly.py/)
-- [PMapper](./PMapper/)
-- [poco](./poco/)
-- [podcastfy](./podcastfy/)
-- [poethepoet](./poethepoet/)
-- [poetry](./poetry/)
-- [poetry-multiproject-plugin](./poetry-multiproject-plugin/)
-- [Pointnet2_PyTorch](./Pointnet2_PyTorch/)
-- [pokedex](./pokedex/)
-- [poker_ai](./poker_ai/)
-- [polars](./polars/)
-- [policy_sentry](./policy_sentry/)
-- [poml](./poml/)
-- [posting](./posting/)
-- [praw](./praw/)
-- [pre-commit](./pre-commit/)
-- [prefect](./prefect/)
-- [prettyplotlib](./prettyplotlib/)
-- [prince](./prince/)
-- [product-attribute](./product-attribute/)
-- [products](./products/)
-- [prospects](./prospects/)
-- [ProteinFlow](./ProteinFlow/)
-- [prowler](./prowler/)
-- [proxpi](./proxpi/)
-- [pseudo](./pseudo/)
-- [PSpider](./PSpider/)
-- [psych.js](./psych.js/)
-- [psycopg2](./psycopg2/)
-- [public-apis](./public-apis/)
-- [pvlib-python](./pvlib-python/)
-- [PVT](./PVT/)
-- [py-trello](./py-trello/)
-- [pyannotate](./pyannotate/)
-- [pyautogui](./pyautogui/)
-- [pybalance](./pybalance/)
-- [pybuilder](./pybuilder/)
-- [pycasbin](./pycasbin/)
-- [pycoin](./pycoin/)
-- [pycord](./pycord/)
-- [pydantic](./pydantic/)
-- [pydash](./pydash/)
-- [PyDESeq2](./PyDESeq2/)
-- [pyemma](./pyemma/)
-- [pyflakes](./pyflakes/)
-- [pygame](./pygame/)
-- [pygame-menu](./pygame-menu/)
-- [PyGithub](./PyGithub/)
-- [pyglet](./pyglet/)
-- [pygod](./pygod/)
-- [PyHealth](./PyHealth/)
-- [PyHive](./PyHive/)
-- [pymarl](./pymarl/)
-- [pymatgen](./pymatgen/)
-- [pymedphys](./pymedphys/)
-- [pymemcache](./pymemcache/)
-- [pymodbus](./pymodbus/)
-- [pymodm](./pymodm/)
-- [pyo](./pyo/)
-- [PyPDF2](./PyPDF2/)
-- [pypeln](./pypeln/)
-- [PyPSA](./PyPSA/)
-- [pyramid](./pyramid/)
-- [pyrdp](./pyrdp/)
-- [pyreadstat](./pyreadstat/)
-- [Pyrebase](./Pyrebase/)
-- [pyreft](./pyreft/)
-- [pyrender](./pyrender/)
-- [pyrh](./pyrh/)
-- [pysam](./pysam/)
-- [pyserial](./pyserial/)
-- [pyserini](./pyserini/)
-- [PySimpleGUI](./PySimpleGUI/)
-- [pysnowball](./pysnowball/)
-- [pytest](./pytest/)
-- [pytest-xdist](./pytest-xdist/)
-- [pytheory](./pytheory/)
-- [Python](./Python/)
-- [python_code_generator](./python_code_generator/)
-- [python_testbench](./python_testbench/)
-- [python-adb](./python-adb/)
-- [python-archetype](./python-archetype/)
-- [python-asana](./python-asana/)
-- [python-benedict](./python-benedict/)
-- [python-betterproto](./python-betterproto/)
-- [python-bitcoinlib](./python-bitcoinlib/)
-- [python-can](./python-can/)
-- [python-client](./python-client/)
-- [python-connector-api](./python-connector-api/)
-- [python-digitalocean](./python-digitalocean/)
-- [python-driver](./python-driver/)
-- [python-facebook](./python-facebook/)
-- [python-fire](./python-fire/)
-- [python-gitlab](./python-gitlab/)
-- [python-guide](./python-guide/)
-- [python-irodsclient](./python-irodsclient/)
-- [python-lambda](./python-lambda/)
-- [python-linode-api](./python-linode-api/)
-- [python-mastery](./python-mastery/)
-- [python-mini-projects](./python-mini-projects/)
-- [python-nomad](./python-nomad/)
-- [python-nubia](./python-nubia/)
-- [python-o365](./python-o365/)
-- [python-opcua](./python-opcua/)
-- [python-oracledb](./python-oracledb/)
-- [python-sdk-core](./python-sdk-core/)
-- [python-skyfield](./python-skyfield/)
-- [python-slack-sdk](./python-slack-sdk/)
-- [python-telegram-bot](./python-telegram-bot/)
-- [python-template-repository](./python-template-repository/)
-- [python-tuf](./python-tuf/)
-- [python-twitch-client](./python-twitch-client/)
-- [python-user-agents](./python-user-agents/)
-- [python-weekly](./python-weekly/)
-- [python-zeep](./python-zeep/)
-- [pytorch](./pytorch/)
-- [pytorch_geometric](./pytorch_geometric/)
-- [PyTorch_YOLOv4](./PyTorch_YOLOv4/)
-- [PyTorch-Encoding](./PyTorch-Encoding/)
-- [pytorch-lightning](./pytorch-lightning/)
-- [pytorch-tutorial](./pytorch-tutorial/)
-- [pytorch3d](./pytorch3d/)
-- [pyunity](./pyunity/)
-- [PyWhatKit](./PyWhatKit/)
-- [pywit](./pywit/)
-- [QBDI](./QBDI/)
-- [qlib](./qlib/)
-- [qstock](./qstock/)
-- [Quake-2](./Quake-2/)
-- [quandl-python](./quandl-python/)
-- [questionary](./questionary/)
-- [quick-notes-extension](./quick-notes-extension/)
-- [quivr](./quivr/)
-- [quix-streams](./quix-streams/)
-- [RagaAI-Catalyst](./RagaAI-Catalyst/)
-- [ragbits](./ragbits/)
-- [railroad-diagrams](./railroad-diagrams/)
-- [railroadtracks](./railroadtracks/)
-- [rauth](./rauth/)
-- [raven-python](./raven-python/)
-- [rdkit](./rdkit/)
-- [rdpy](./rdpy/)
-- [react](./react/)
-- [Real-ESRGAN](./Real-ESRGAN/)
-- [Real-Time-Voice-Cloning](./Real-Time-Voice-Cloning/)
-- [RecLearn](./RecLearn/)
-- [recommenders](./recommenders/)
-- [redbeat](./redbeat/)
-- [redis-py](./redis-py/)
-- [redis-vl-python](./redis-vl-python/)
-- [redun](./redun/)
-- [reflex](./reflex/)
-- [rembg](./rembg/)
-- [requestium](./requestium/)
-- [requests](./requests/)
-- [requests-cache](./requests-cache/)
-- [requests-ip-rotator](./requests-ip-rotator/)
-- [rerankers](./rerankers/)
-- [resemble-enhance](./resemble-enhance/)
-- [retrying](./retrying/)
-- [rexmex](./rexmex/)
-- [rf-detr](./rf-detr/)
-- [rich](./rich/)
-- [RIDE](./RIDE/)
-- [riko](./riko/)
-- [Riot-Watcher](./Riot-Watcher/)
-- [RL](./RL/)
-- [RLBench](./RLBench/)
-- [robin_stocks](./robin_stocks/)
-- [robotframework](./robotframework/)
-- [ROLL](./ROLL/)
-- [ROMP](./ROMP/)
-- [rope](./rope/)
-- [rq-scheduler](./rq-scheduler/)
-- [rsl_rl](./rsl_rl/)
-- [ruff-lsp](./ruff-lsp/)
-- [Ruli](./Ruli/)
-- [RuoYi](./RuoYi/)
-- [safe-chain](./safe-chain/)
-- [safe-rlhf](./safe-rlhf/)
-- [safety](./safety/)
-- [saga](./saga/)
-- [saleor](./saleor/)
-- [sam](./sam/)
-- [sample-app-aoai-chatGPT](./sample-app-aoai-chatGPT/)
-- [sanic](./sanic/)
-- [Sapiens](./Sapiens/)
-- [scanapi](./scanapi/)
-- [scanpy](./scanpy/)
-- [scapy](./scapy/)
-- [sceptre](./sceptre/)
-- [scholarly](./scholarly/)
-- [scikit-bio](./scikit-bio/)
-- [scikit-image](./scikit-image/)
-- [scikit-learn](./scikit-learn/)
-- [scimilarity](./scimilarity/)
-- [scipy](./scipy/)
-- [scirpy](./scirpy/)
-- [scispacy](./scispacy/)
-- [Scrapegraph-ai](./Scrapegraph-ai/)
-- [scrapy](./scrapy/)
-- [scrapy-proxies](./scrapy-proxies/)
-- [ScreenCoder](./ScreenCoder/)
-- [scvi-tools](./scvi-tools/)
-- [sdf](./sdf/)
-- [sdfstudio](./sdfstudio/)
-- [sdos-orchestration-flow-designer](./sdos-orchestration-flow-designer/)
-- [seaborn](./seaborn/)
-- [selenium-wire](./selenium-wire/)
-- [Semi-supervised-learning](./Semi-supervised-learning/)
-- [sendgrid-python](./sendgrid-python/)
-- [sentry-python](./sentry-python/)
-- [seqlike](./seqlike/)
-- [shopify_django_app](./shopify_django_app/)
-- [shopify_python](./shopify_python/)
-- [shopify_python_api](./shopify_python_api/)
-- [ShuffleNet-Series](./ShuffleNet-Series/)
-- [simple-salesforce](./simple-salesforce/)
-- [simplejson](./simplejson/)
-- [simplemonitor](./simplemonitor/)
-- [sit2standpy](./sit2standpy/)
-- [skfolio](./skfolio/)
-- [skip-thoughts](./skip-thoughts/)
-- [skrub](./skrub/)
-- [sktime](./sktime/)
-- [slacker](./slacker/)
-- [slackminion](./slackminion/)
-- [smollm3_finetune](./smollm3_finetune/)
-- [sms-tools](./sms-tools/)
-- [snakemake](./snakemake/)
-- [snappass](./snappass/)
-- [snd-textmod](./snd-textmod/)
-- [snipsnap](./snipsnap/)
-- [snntorch](./snntorch/)
-- [social-app-django](./social-app-django/)
-- [solana-py](./solana-py/)
-- [Solitaire](./Solitaire/)
-- [solo-learn](./solo-learn/)
-- [somaticseq](./somaticseq/)
-- [soundconverter](./soundconverter/)
-- [spaCy](./spaCy/)
-- [sparrow](./sparrow/)
-- [sparse_attention](./sparse_attention/)
-- [spatialone-pipeline](./spatialone-pipeline/)
-- [SpiffWorkflow](./SpiffWorkflow/)
-- [spikingjelly](./spikingjelly/)
-- [spinningup](./spinningup/)
-- [spleeter](./spleeter/)
-- [splink](./splink/)
-- [spotify](./spotify/)
-- [spotipy](./spotipy/)
-- [spring-boot](./spring-boot/)
-- [sqlalchemy](./sqlalchemy/)
-- [sqlalchemy-crud-plus](./sqlalchemy-crud-plus/)
-- [sqllineage](./sqllineage/)
-- [square-python-sdk](./square-python-sdk/)
-- [SRAgent](./SRAgent/)
-- [sru](./sru/)
-- [stable-diffusion-tensorflow](./stable-diffusion-tensorflow/)
-- [stable-ts](./stable-ts/)
-- [stackstorm_pack_ansible](./stackstorm_pack_ansible/)
-- [stagehand](./stagehand/)
-- [stanford-tensorflow-tutorials](./stanford-tensorflow-tutorials/)
-- [starfish](./starfish/)
-- [stm32-rs](./stm32-rs/)
-- [streamlit](./streamlit/)
-- [streamparse](./streamparse/)
-- [stripe-python](./stripe-python/)
-- [StructureBlock](./StructureBlock/)
-- [submitit](./submitit/)
-- [Sudoku](./Sudoku/)
-- [sulley](./sulley/)
-- [super-resolution](./super-resolution/)
-- [SuperAGI](./SuperAGI/)
-- [superset](./superset/)
-- [supervision](./supervision/)
-- [susi_api_wrapper](./susi_api_wrapper/)
-- [SWE-agent](./SWE-agent/)
-- [SWE-bench](./SWE-bench/)
-- [SWE-ReX](./SWE-ReX/)
-- [SWEBench](./SWEBench/)
-- [symbolicai](./symbolicai/)
-- [synapse](./synapse/)
-- [syncedlyrics](./syncedlyrics/)
-- [Synchronized-BatchNorm-PyTorch](./Synchronized-BatchNorm-PyTorch/)
-- [synflownet-boltz](./synflownet-boltz/)
-- [system-design-primer](./system-design-primer/)
-- [TA](./TA/)
-- [target-python-sdk](./target-python-sdk/)
-- [taskiq](./taskiq/)
-- [tensorflow](./tensorflow/)
-- [tensorflow-DeepFM](./tensorflow-DeepFM/)
-- [TensorFlowTTS](./TensorFlowTTS/)
-- [terminal_markdown_viewer](./terminal_markdown_viewer/)
-- [testcontainers-python](./testcontainers-python/)
-- [text_blind_watermark](./text_blind_watermark/)
-- [TextBrewer](./TextBrewer/)
-- [textfilter](./textfilter/)
-- [TextGrapher](./TextGrapher/)
-- [textual](./textual/)
-- [tf_unet](./tf_unet/)
-- [the-matrix](./the-matrix/)
-- [theine](./theine/)
-- [theseus](./theseus/)
-- [thinkgpt](./thinkgpt/)
-- [THULAC-Python](./THULAC-Python/)
-- [tidb](./tidb/)
-- [tika-python](./tika-python/)
-- [TimeMixer](./TimeMixer/)
-- [timetagger](./timetagger/)
-- [tinygrad](./tinygrad/)
-- [Tkinter-Designer](./Tkinter-Designer/)
-- [tods](./tods/)
-- [ToolFuzz](./ToolFuzz/)
-- [tools](./tools/)
-- [torchgan](./torchgan/)
-- [torchgfn](./torchgfn/)
-- [torchsde](./torchsde/)
-- [torchstat](./torchstat/)
-- [torchsurv](./torchsurv/)
-- [torchtyping](./torchtyping/)
-- [tornado](./tornado/)
-- [torsional-strain](./torsional-strain/)
-- [TotalSegmentator](./TotalSegmentator/)
-- [tqdm](./tqdm/)
-- [trackers](./trackers/)
-- [TradingGym](./TradingGym/)
-- [trailarr](./trailarr/)
-- [transformer-deploy](./transformer-deploy/)
-- [transformers](./transformers/)
-- [trojai-submission-all](./trojai-submission-all/)
-- [trt-llm-rag-linux](./trt-llm-rag-linux/)
-- [tsh](./tsh/)
-- [tsoa](./tsoa/)
-- [TTS](./TTS/)
-- [tuna](./tuna/)
-- [turborepo-remote-cache-cloudflare](./turborepo-remote-cache-cloudflare/)
-- [tushare](./tushare/)
-- [tvm](./tvm/)
-- [twarc](./twarc/)
-- [tweepy](./tweepy/)
-- [twilio-python](./twilio-python/)
-- [twitter-api-client](./twitter-api-client/)
-- [txtai](./txtai/)
-- [typeguard](./typeguard/)
-- [TypeScript](./TypeScript/)
-- [typescript-language-server](./typescript-language-server/)
-- [typeshed](./typeshed/)
-- [uiautomator2](./uiautomator2/)
-- [uis-rnn](./uis-rnn/)
-- [ultralytics](./ultralytics/)
-- [uncertainty-toolbox](./uncertainty-toolbox/)
-- [undetected-chromedriver](./undetected-chromedriver/)
-- [unidiffuser](./unidiffuser/)
-- [unit-converter](./unit-converter/)
-- [unleash](./unleash/)
-- [unsloth](./unsloth/)
-- [usaddress](./usaddress/)
-- [valkey-py](./valkey-py/)
-- [valkey-timeseries](./valkey-timeseries/)
-- [verl](./verl/)
-- [versatile_audio_super_resolution](./versatile_audio_super_resolution/)
-- [VertFlow](./VertFlow/)
-- [vit-pytorch](./vit-pytorch/)
-- [vits](./vits/)
-- [vizier](./vizier/)
-- [VLA-OS](./VLA-OS/)
-- [vllm](./vllm/)
-- [vnpy](./vnpy/)
-- [voluptuous](./voluptuous/)
-- [vscode](./vscode/)
-- [vscode-xslt-tokenizer](./vscode-xslt-tokenizer/)
-- [vsphere-automation-sdk-python](./vsphere-automation-sdk-python/)
-- [vue](./vue/)
-- [vuestic-admin](./vuestic-admin/)
-- [warehouse](./warehouse/)
-- [wdb](./wdb/)
-- [web3.py](./web3.py/)
-- [webdataset](./webdataset/)
-- [webscraping](./webscraping/)
-- [website](./website/)
-- [WebWhatsapp-Wrapper](./WebWhatsapp-Wrapper/)
-- [whatsapp-chatgpt](./whatsapp-chatgpt/)
-- [WhatWaf](./WhatWaf/)
-- [whisper](./whisper/)
-- [WildGS-SLAM](./WildGS-SLAM/)
-- [winboat](./winboat/)
-- [word_cloud](./word_cloud/)
-- [WUCSS](./WUCSS/)
-- [xed](./xed/)
-- [XgagSPA](./XgagSPA/)
-- [xhs](./xhs/)
-- [XKCD-password-generator](./XKCD-password-generator/)
-- [xlstm](./xlstm/)
-- [yarl](./yarl/)
-- [yfinance](./yfinance/)
-- [yfinance_depth_2](./yfinance_depth_2/)
-- [ykdl](./ykdl/)
-- [YOLO_tensorflow](./YOLO_tensorflow/)
-- [yolov5](./yolov5/)
-- [Yolov5-deepsort-inference](./Yolov5-deepsort-inference/)
-- [youtube-dl](./youtube-dl/)
-- [yt-dlp](./yt-dlp/)
-- [zenml](./zenml/)
-- [zipline](./zipline/)
-- [zls](./zls/)
-- [zulip](./zulip/)
+- [30-Days-Of-Python](./learning-codebases/30-Days-Of-Python/on_boarding.md) — `learning-codebases`
+- [ABCs-of-control](./ai-ml/ABCs-of-control/on_boarding.md) — `ai-ml`
+- [abu](./data-analytics/abu/on_boarding.md) — `data-analytics`
+- [academic-keyword-occurrence](./data-analytics/academic-keyword-occurrence/on_boarding.md) — `data-analytics`
+- [AdalFlow](./ai-ml/AdalFlow/on_boarding.md) — `ai-ml`
+- [addons](./ai-ml/addons/on_boarding.md) — `ai-ml`
+- [aestetik](./scientific-research/aestetik/on_boarding.md) — `scientific-research`
+- [AfterQC](./scientific-research/AfterQC/on_boarding.md) — `scientific-research`
+- [ag2](./ai-ml/ag2/on_boarding.md) — `ai-ml`
+- [agentdojo](./ai-ml/agentdojo/on_boarding.md) — `ai-ml`
+- [agno](./ai-ml/agno/on_boarding.md) — `ai-ml`
+- [aideml](./ai-ml/aideml/on_boarding.md) — `ai-ml`
+- [aiomultiprocess](./developer-tools/aiomultiprocess/on_boarding.md) — `developer-tools`
+- [aiomysql](./data-analytics/aiomysql/on_boarding.md) — `data-analytics`
+- [aiosqlite](./data-analytics/aiosqlite/on_boarding.md) — `data-analytics`
+- [airflow](./data-analytics/airflow/on_boarding.md) — `data-analytics`
+- [aitextgen](./ai-ml/aitextgen/on_boarding.md) — `ai-ml`
+- [AIX360](./ai-ml/AIX360/on_boarding.md) — `ai-ml`
+- [aizynthfinder](./scientific-research/aizynthfinder/on_boarding.md) — `scientific-research`
+- [akshare](./data-analytics/akshare/on_boarding.md) — `data-analytics`
+- [albumentations](./ai-ml/albumentations/on_boarding.md) — `ai-ml`
+- [algo](./learning-codebases/algo/on_boarding.md) — `learning-codebases`
+- [algorithms](./learning-codebases/algorithms/on_boarding.md) — `learning-codebases`
+- [AliceLG](./games-graphics-media/AliceLG/on_boarding.md) — `games-graphics-media`
+- [Alien](./ai-ml/Alien/on_boarding.md) — `ai-ml`
+- [AllenSDK](./scientific-research/AllenSDK/on_boarding.md) — `scientific-research`
+- [alphafold](./scientific-research/alphafold/on_boarding.md) — `scientific-research`
+- [alphagenome](./scientific-research/alphagenome/on_boarding.md) — `scientific-research`
+- [AlphaPy](./ai-ml/AlphaPy/on_boarding.md) — `ai-ml`
+- [amazing-qr](./developer-tools/amazing-qr/on_boarding.md) — `developer-tools`
+- [AmberLG](./games-graphics-media/AmberLG/on_boarding.md) — `games-graphics-media`
+- [analytics-python](./networking-apis-protocols/analytics-python/on_boarding.md) — `networking-apis-protocols`
+- [angular](./web-ui/angular/on_boarding.md) — `web-ui`
+- [anime-downloader](./games-graphics-media/anime-downloader/on_boarding.md) — `games-graphics-media`
+- [anndata](./scientific-research/anndata/on_boarding.md) — `scientific-research`
+- [annofilter-junctions](./scientific-research/annofilter-junctions/on_boarding.md) — `scientific-research`
+- [annotated_deep_learning_paper_implementations](./learning-codebases/annotated_deep_learning_paper_implementations/on_boarding.md) — `learning-codebases`
+- [ansible](./infrastructure-devops/ansible/on_boarding.md) — `infrastructure-devops`
+- [ant-design](./web-ui/ant-design/on_boarding.md) — `web-ui`
+- [antialiased-cnns](./ai-ml/antialiased-cnns/on_boarding.md) — `ai-ml`
+- [appium](./developer-tools/appium/on_boarding.md) — `developer-tools`
+- [appsmith](./web-ui/appsmith/on_boarding.md) — `web-ui`
+- [arcade-ai](./ai-ml/arcade-ai/on_boarding.md) — `ai-ml`
+- [archinstall](./infrastructure-devops/archinstall/on_boarding.md) — `infrastructure-devops`
+- [Archon](./ai-ml/Archon/on_boarding.md) — `ai-ml`
+- [argcomplete](./developer-tools/argcomplete/on_boarding.md) — `developer-tools`
+- [arviz](./scientific-research/arviz/on_boarding.md) — `scientific-research`
+- [arxiv-base](./web-ui/arxiv-base/on_boarding.md) — `web-ui`
+- [asammdf](./data-analytics/asammdf/on_boarding.md) — `data-analytics`
+- [asgiref](./web-ui/asgiref/on_boarding.md) — `web-ui`
+- [async_rlhf](./ai-ml/async_rlhf/on_boarding.md) — `ai-ml`
+- [AsyncFlow](./developer-tools/AsyncFlow/on_boarding.md) — `developer-tools`
+- [atheris](./developer-tools/atheris/on_boarding.md) — `developer-tools`
+- [atlassian-connect-example-app-node](./web-ui/atlassian-connect-example-app-node/on_boarding.md) — `web-ui`
+- [atlassian-python-api](./networking-apis-protocols/atlassian-python-api/on_boarding.md) — `networking-apis-protocols`
+- [augur](./scientific-research/augur/on_boarding.md) — `scientific-research`
+- [auto-code-rover](./ai-ml/auto-code-rover/on_boarding.md) — `ai-ml`
+- [AutoAgent](./ai-ml/AutoAgent/on_boarding.md) — `ai-ml`
+- [AutoDL-Projects](./ai-ml/AutoDL-Projects/on_boarding.md) — `ai-ml`
+- [autogen](./ai-ml/autogen/on_boarding.md) — `ai-ml`
+- [AutoGPT](./ai-ml/AutoGPT/on_boarding.md) — `ai-ml`
+- [AutoViz](./data-analytics/AutoViz/on_boarding.md) — `data-analytics`
+- [avalanche](./ai-ml/avalanche/on_boarding.md) — `ai-ml`
+- [awesome-llm-apps](./learning-codebases/awesome-llm-apps/on_boarding.md) — `learning-codebases`
+- [awesome-python](./learning-codebases/awesome-python/on_boarding.md) — `learning-codebases`
+- [AYABInterface](./infrastructure-devops/AYABInterface/on_boarding.md) — `infrastructure-devops`
+- [babel](./web-ui/babel/on_boarding.md) — `web-ui`
+- [backtrader](./data-analytics/backtrader/on_boarding.md) — `data-analytics`
+- [bagel-cli](./scientific-research/bagel-cli/on_boarding.md) — `scientific-research`
+- [bandit](./security-privacy/bandit/on_boarding.md) — `security-privacy`
+- [Bard](./ai-ml/Bard/on_boarding.md) — `ai-ml`
+- [Bashfuscator](./security-privacy/Bashfuscator/on_boarding.md) — `security-privacy`
+- [bashplotlib](./developer-tools/bashplotlib/on_boarding.md) — `developer-tools`
+- [basic_verilog](./learning-codebases/basic_verilog/on_boarding.md) — `learning-codebases`
+- [BasicTS](./ai-ml/BasicTS/on_boarding.md) — `ai-ml`
+- [baxbench](./ai-ml/baxbench/on_boarding.md) — `ai-ml`
+- [BayerCLAW](./data-analytics/BayerCLAW/on_boarding.md) — `data-analytics`
+- [BayesERbook](./learning-codebases/BayesERbook/on_boarding.md) — `learning-codebases`
+- [bayesian_meta_learning](./ai-ml/bayesian_meta_learning/on_boarding.md) — `ai-ml`
+- [BCEmbedding](./ai-ml/BCEmbedding/on_boarding.md) — `ai-ml`
+- [bcrypt](./security-privacy/bcrypt/on_boarding.md) — `security-privacy`
+- [BeadArrayFiles](./scientific-research/BeadArrayFiles/on_boarding.md) — `scientific-research`
+- [behave](./developer-tools/behave/on_boarding.md) — `developer-tools`
+- [beignet](./scientific-research/beignet/on_boarding.md) — `scientific-research`
+- [beir](./ai-ml/beir/on_boarding.md) — `ai-ml`
+- [bella-openapi](./ai-ml/bella-openapi/on_boarding.md) — `ai-ml`
+- [benchmark_VAE](./ai-ml/benchmark_VAE/on_boarding.md) — `ai-ml`
+- [bert-extractive-summarizer](./ai-ml/bert-extractive-summarizer/on_boarding.md) — `ai-ml`
+- [BERTopic](./ai-ml/BERTopic/on_boarding.md) — `ai-ml`
+- [besu](./networking-apis-protocols/besu/on_boarding.md) — `networking-apis-protocols`
+- [BIC-megaplots](./scientific-research/BIC-megaplots/on_boarding.md) — `scientific-research`
+- [bigwig-loader](./scientific-research/bigwig-loader/on_boarding.md) — `scientific-research`
+- [bindsnet](./ai-ml/bindsnet/on_boarding.md) — `ai-ml`
+- [bioblend](./networking-apis-protocols/bioblend/on_boarding.md) — `networking-apis-protocols`
+- [BioPhi](./scientific-research/BioPhi/on_boarding.md) — `scientific-research`
+- [biopython](./scientific-research/biopython/on_boarding.md) — `scientific-research`
+- [BitNet](./ai-ml/BitNet/on_boarding.md) — `ai-ml`
+- [Black](./uncategorized/Black/) — `uncategorized`
+- [blender-mcp](./games-graphics-media/blender-mcp/on_boarding.md) — `games-graphics-media`
+- [blinker](./developer-tools/blinker/on_boarding.md) — `developer-tools`
+- [boltz](./scientific-research/boltz/on_boarding.md) — `scientific-research`
+- [bonobo](./data-analytics/bonobo/on_boarding.md) — `data-analytics`
+- [BookWorm](./learning-codebases/BookWorm/on_boarding.md) — `learning-codebases`
+- [boruta_py](./ai-ml/boruta_py/on_boarding.md) — `ai-ml`
+- [boto3](./networking-apis-protocols/boto3/on_boarding.md) — `networking-apis-protocols`
+- [botocore](./networking-apis-protocols/botocore/on_boarding.md) — `networking-apis-protocols`
+- [browser-use](./ai-ml/browser-use/on_boarding.md) — `ai-ml`
+- [bt](./data-analytics/bt/on_boarding.md) — `data-analytics`
+- [btree](./data-analytics/btree/on_boarding.md) — `data-analytics`
+- [bytewax](./data-analytics/bytewax/on_boarding.md) — `data-analytics`
+- [Caly](./web-ui/Caly/on_boarding.md) — `web-ui`
+- [cantools](./networking-apis-protocols/cantools/on_boarding.md) — `networking-apis-protocols`
+- [carbon](./web-ui/carbon/on_boarding.md) — `web-ui`
+- [cartopy](./data-analytics/cartopy/on_boarding.md) — `data-analytics`
+- [causal-learn](./ai-ml/causal-learn/on_boarding.md) — `ai-ml`
+- [CBAM.PyTorch](./ai-ml/CBAM.PyTorch/on_boarding.md) — `ai-ml`
+- [ccdutils](./scientific-research/ccdutils/on_boarding.md) — `scientific-research`
+- [celery](./data-analytics/celery/on_boarding.md) — `data-analytics`
+- [cellpose](./scientific-research/cellpose/on_boarding.md) — `scientific-research`
+- [chainguard](./security-privacy/chainguard/on_boarding.md) — `security-privacy`
+- [charmcraft](./infrastructure-devops/charmcraft/on_boarding.md) — `infrastructure-devops`
+- [chatarena](./ai-ml/chatarena/on_boarding.md) — `ai-ml`
+- [ChatGLM-6B](./ai-ml/ChatGLM-6B/on_boarding.md) — `ai-ml`
+- [ChatGPT](./ai-ml/ChatGPT/on_boarding.md) — `ai-ml`
+- [ChatterBot](./ai-ml/ChatterBot/on_boarding.md) — `ai-ml`
+- [chatterbox](./ai-ml/chatterbox/on_boarding.md) — `ai-ml`
+- [ChatTTS](./ai-ml/ChatTTS/on_boarding.md) — `ai-ml`
+- [check-if-email-exists](./networking-apis-protocols/check-if-email-exists/on_boarding.md) — `networking-apis-protocols`
+- [ChEMBL_Structure_Pipeline](./scientific-research/ChEMBL_Structure_Pipeline/on_boarding.md) — `scientific-research`
+- [chembl_webresource_client](./networking-apis-protocols/chembl_webresource_client/on_boarding.md) — `networking-apis-protocols`
+- [chemicalx](./scientific-research/chemicalx/on_boarding.md) — `scientific-research`
+- [cherrypy](./web-ui/cherrypy/on_boarding.md) — `web-ui`
+- [chromeless](./developer-tools/chromeless/on_boarding.md) — `developer-tools`
+- [cian-protocol](./networking-apis-protocols/cian-protocol/on_boarding.md) — `networking-apis-protocols`
+- [cibuildwheel](./developer-tools/cibuildwheel/on_boarding.md) — `developer-tools`
+- [ckiptagger](./ai-ml/ckiptagger/on_boarding.md) — `ai-ml`
+- [ClassyVision](./ai-ml/ClassyVision/on_boarding.md) — `ai-ml`
+- [claude-code-testing](./web-ui/claude-code-testing/on_boarding.md) — `web-ui`
+- [CleanArchitecture](./learning-codebases/CleanArchitecture/on_boarding.md) — `learning-codebases`
+- [cli](./developer-tools/cli/on_boarding.md) — `developer-tools`
+- [clip-rt](./ai-ml/clip-rt/on_boarding.md) — `ai-ml`
+- [clothes-virtual-try-on](./ai-ml/clothes-virtual-try-on/on_boarding.md) — `ai-ml`
+- [cloudant-python-sdk](./networking-apis-protocols/cloudant-python-sdk/on_boarding.md) — `networking-apis-protocols`
+- [cloudpickle](./developer-tools/cloudpickle/on_boarding.md) — `developer-tools`
+- [clubhouse-py](./networking-apis-protocols/clubhouse-py/on_boarding.md) — `networking-apis-protocols`
+- [cluster-api](./infrastructure-devops/cluster-api/on_boarding.md) — `infrastructure-devops`
+- [CobaltStrikeBeaconCppSource](./security-privacy/CobaltStrikeBeaconCppSource/on_boarding.md) — `security-privacy`
+- [cobra](./developer-tools/cobra/on_boarding.md) — `developer-tools`
+- [cocode](./ai-ml/cocode/on_boarding.md) — `ai-ml`
+- [CodeBoarding](./uncategorized/CodeBoarding/) — `uncategorized`
+- [CodeBoarding-vscode](./developer-tools/CodeBoarding-vscode/on_boarding.md) — `developer-tools`
+- [codeforlife-portal](./web-ui/codeforlife-portal/on_boarding.md) — `web-ui`
+- [codon](./developer-tools/codon/on_boarding.md) — `developer-tools`
+- [CogDL](./ai-ml/CogDL/on_boarding.md) — `ai-ml`
+- [cognee](./ai-ml/cognee/on_boarding.md) — `ai-ml`
+- [coinbase-python](./networking-apis-protocols/coinbase-python/on_boarding.md) — `networking-apis-protocols`
+- [ComfyUI](./games-graphics-media/ComfyUI/on_boarding.md) — `games-graphics-media`
+- [ComfyUI-Easy-Use](./games-graphics-media/ComfyUI-Easy-Use/on_boarding.md) — `games-graphics-media`
+- [common-pile](./data-analytics/common-pile/on_boarding.md) — `data-analytics`
+- [compare_gan](./ai-ml/compare_gan/on_boarding.md) — `ai-ml`
+- [composio](./ai-ml/composio/on_boarding.md) — `ai-ml`
+- [CompressAI](./ai-ml/CompressAI/on_boarding.md) — `ai-ml`
+- [conductor](./data-analytics/conductor/on_boarding.md) — `data-analytics`
+- [ConfGF](./scientific-research/ConfGF/on_boarding.md) — `scientific-research`
+- [contextgem](./ai-ml/contextgem/on_boarding.md) — `ai-ml`
+- [ConvNeXt-V2](./ai-ml/ConvNeXt-V2/on_boarding.md) — `ai-ml`
+- [cookiecutter](./developer-tools/cookiecutter/on_boarding.md) — `developer-tools`
+- [CopilotKit](./web-ui/CopilotKit/on_boarding.md) — `web-ui`
+- [copyparty](./web-ui/copyparty/on_boarding.md) — `web-ui`
+- [core](./web-ui/core/on_boarding.md) — `web-ui`
+- [CoSpred](./scientific-research/CoSpred/on_boarding.md) — `scientific-research`
+- [CosyVoice](./ai-ml/CosyVoice/on_boarding.md) — `ai-ml`
+- [craft-application](./developer-tools/craft-application/on_boarding.md) — `developer-tools`
+- [crawl4ai](./ai-ml/crawl4ai/on_boarding.md) — `ai-ml`
+- [credential-digger](./security-privacy/credential-digger/on_boarding.md) — `security-privacy`
+- [crewAI](./ai-ml/crewAI/on_boarding.md) — `ai-ml`
+- [crush](./ai-ml/crush/on_boarding.md) — `ai-ml`
+- [CTGAN](./ai-ml/CTGAN/on_boarding.md) — `ai-ml`
+- [cuda-python](./developer-tools/cuda-python/on_boarding.md) — `developer-tools`
+- [CustomTkinter](./web-ui/CustomTkinter/on_boarding.md) — `web-ui`
+- [cvimprover-api](./web-ui/cvimprover-api/on_boarding.md) — `web-ui`
+- [d2l-zh](./learning-codebases/d2l-zh/on_boarding.md) — `learning-codebases`
+- [d3py](./data-analytics/d3py/on_boarding.md) — `data-analytics`
+- [dacite](./developer-tools/dacite/on_boarding.md) — `developer-tools`
+- [dash](./web-ui/dash/on_boarding.md) — `web-ui`
+- [dask](./data-analytics/dask/on_boarding.md) — `data-analytics`
+- [datadogpy](./infrastructure-devops/datadogpy/on_boarding.md) — `infrastructure-devops`
+- [datahowlab-sdk-python](./networking-apis-protocols/datahowlab-sdk-python/on_boarding.md) — `networking-apis-protocols`
+- [dataproduct-mcp](./ai-ml/dataproduct-mcp/on_boarding.md) — `ai-ml`
+- [DataProfiler](./data-analytics/DataProfiler/on_boarding.md) — `data-analytics`
+- [datasets](./ai-ml/datasets/on_boarding.md) — `ai-ml`
+- [dd-agent](./infrastructure-devops/dd-agent/on_boarding.md) — `infrastructure-devops`
+- [dd-trace-py](./infrastructure-devops/dd-trace-py/on_boarding.md) — `infrastructure-devops`
+- [ddi-designer](./scientific-research/ddi-designer/on_boarding.md) — `scientific-research`
+- [decima](./scientific-research/decima/on_boarding.md) — `scientific-research`
+- [deco](./developer-tools/deco/on_boarding.md) — `developer-tools`
+- [deep-chat](./web-ui/deep-chat/on_boarding.md) — `web-ui`
+- [deep-learning-for-image-processing](./learning-codebases/deep-learning-for-image-processing/on_boarding.md) — `learning-codebases`
+- [Deep-Live-Cam](./ai-ml/Deep-Live-Cam/on_boarding.md) — `ai-ml`
+- [deep-molecular-optimization](./scientific-research/deep-molecular-optimization/on_boarding.md) — `scientific-research`
+- [deep-translator](./networking-apis-protocols/deep-translator/on_boarding.md) — `networking-apis-protocols`
+- [deepchem](./scientific-research/deepchem/on_boarding.md) — `scientific-research`
+- [DeepCode](./ai-ml/DeepCode/on_boarding.md) — `ai-ml`
+- [deepeval](./ai-ml/deepeval/on_boarding.md) — `ai-ml`
+- [deepface](./ai-ml/deepface/on_boarding.md) — `ai-ml`
+- [deepgaze](./ai-ml/deepgaze/on_boarding.md) — `ai-ml`
+- [DeepLabCut](./scientific-research/DeepLabCut/on_boarding.md) — `scientific-research`
+- [DeeplyTough](./scientific-research/DeeplyTough/on_boarding.md) — `scientific-research`
+- [DeepSpeed](./ai-ml/DeepSpeed/on_boarding.md) — `ai-ml`
+- [DeepSpot](./scientific-research/DeepSpot/on_boarding.md) — `scientific-research`
+- [deeptools](./scientific-research/deeptools/on_boarding.md) — `scientific-research`
+- [deepwiki-open](./ai-ml/deepwiki-open/on_boarding.md) — `ai-ml`
+- [delegator.py](./developer-tools/delegator.py/on_boarding.md) — `developer-tools`
+- [dellemc-openmanage-ansible-modules](./infrastructure-devops/dellemc-openmanage-ansible-modules/on_boarding.md) — `infrastructure-devops`
+- [delorean](./developer-tools/delorean/on_boarding.md) — `developer-tools`
+- [denoiser](./ai-ml/denoiser/on_boarding.md) — `ai-ml`
+- [Dense_OpticalFlow_and_CNN_based_Motion_Segmentation_and_Object_Recognition](./ai-ml/Dense_OpticalFlow_and_CNN_based_Motion_Segmentation_and_Object_Recognition/on_boarding.md) — `ai-ml`
+- [detectron2](./ai-ml/detectron2/on_boarding.md) — `ai-ml`
+- [DeTikZify](./ai-ml/DeTikZify/on_boarding.md) — `ai-ml`
+- [dgl](./ai-ml/dgl/on_boarding.md) — `ai-ml`
+- [DiCE](./ai-ml/DiCE/on_boarding.md) — `ai-ml`
+- [diffrax](./scientific-research/diffrax/on_boarding.md) — `scientific-research`
+- [diffusers](./ai-ml/diffusers/on_boarding.md) — `ai-ml`
+- [digest](./scientific-research/digest/on_boarding.md) — `scientific-research`
+- [dipy](./scientific-research/dipy/on_boarding.md) — `scientific-research`
+- [DirLink](./developer-tools/DirLink/on_boarding.md) — `developer-tools`
+- [discord](./networking-apis-protocols/discord/on_boarding.md) — `networking-apis-protocols`
+- [discord.py](./networking-apis-protocols/discord.py/on_boarding.md) — `networking-apis-protocols`
+- [dispatch](./web-ui/dispatch/on_boarding.md) — `web-ui`
+- [dive](./developer-tools/dive/on_boarding.md) — `developer-tools`
+- [dj-rest-auth](./web-ui/dj-rest-auth/on_boarding.md) — `web-ui`
+- [dj-stripe](./web-ui/dj-stripe/on_boarding.md) — `web-ui`
+- [django](./web-ui/django/on_boarding.md) — `web-ui`
+- [django-anymail](./web-ui/django-anymail/on_boarding.md) — `web-ui`
+- [django-axes](./security-privacy/django-axes/on_boarding.md) — `security-privacy`
+- [django-celery-beat](./data-analytics/django-celery-beat/on_boarding.md) — `data-analytics`
+- [django-crm](./web-ui/django-crm/on_boarding.md) — `web-ui`
+- [Django-facebook](./web-ui/Django-facebook/on_boarding.md) — `web-ui`
+- [django-filer](./web-ui/django-filer/on_boarding.md) — `web-ui`
+- [django-lifecycle](./web-ui/django-lifecycle/on_boarding.md) — `web-ui`
+- [django-modeltranslation](./web-ui/django-modeltranslation/on_boarding.md) — `web-ui`
+- [django-ninja](./web-ui/django-ninja/on_boarding.md) — `web-ui`
+- [django-notifications](./web-ui/django-notifications/on_boarding.md) — `web-ui`
+- [django-postgres-docker-skeleton](./web-ui/django-postgres-docker-skeleton/on_boarding.md) — `web-ui`
+- [django-prometheus](./infrastructure-devops/django-prometheus/on_boarding.md) — `infrastructure-devops`
+- [django-react-typescript](./web-ui/django-react-typescript/on_boarding.md) — `web-ui`
+- [django-rest-framework](./web-ui/django-rest-framework/on_boarding.md) — `web-ui`
+- [django-rules](./web-ui/django-rules/on_boarding.md) — `web-ui`
+- [django-tenant-schemas](./web-ui/django-tenant-schemas/on_boarding.md) — `web-ui`
+- [django-two-factor-auth](./security-privacy/django-two-factor-auth/on_boarding.md) — `security-privacy`
+- [DJITelloPy](./networking-apis-protocols/DJITelloPy/on_boarding.md) — `networking-apis-protocols`
+- [djongo](./data-analytics/djongo/on_boarding.md) — `data-analytics`
+- [dlrover](./ai-ml/dlrover/on_boarding.md) — `ai-ml`
+- [docker-py](./infrastructure-devops/docker-py/on_boarding.md) — `infrastructure-devops`
+- [DocLayout-YOLO](./ai-ml/DocLayout-YOLO/on_boarding.md) — `ai-ml`
+- [docling](./data-analytics/docling/on_boarding.md) — `data-analytics`
+- [DocsGPT](./uncategorized/DocsGPT/) — `uncategorized`
+- [dominate](./web-ui/dominate/on_boarding.md) — `web-ui`
+- [DPR](./ai-ml/DPR/on_boarding.md) — `ai-ml`
+- [drcHelper](./scientific-research/drcHelper/on_boarding.md) — `scientific-research`
+- [drgn](./developer-tools/drgn/on_boarding.md) — `developer-tools`
+- [dropbox-sdk-python](./networking-apis-protocols/dropbox-sdk-python/on_boarding.md) — `networking-apis-protocols`
+- [dspy](./ai-ml/dspy/on_boarding.md) — `ai-ml`
+- [dtale](./data-analytics/dtale/on_boarding.md) — `data-analytics`
+- [dyad](./ai-ml/dyad/on_boarding.md) — `ai-ml`
+- [EasyOCR](./ai-ml/EasyOCR/on_boarding.md) — `ai-ml`
+- [EasyRec](./ai-ml/EasyRec/on_boarding.md) — `ai-ml`
+- [ebooklib](./developer-tools/ebooklib/on_boarding.md) — `developer-tools`
+- [EFAAR_benchmarking](./scientific-research/EFAAR_benchmarking/on_boarding.md) — `scientific-research`
+- [efficientnet](./ai-ml/efficientnet/on_boarding.md) — `ai-ml`
+- [elephas](./ai-ml/elephas/on_boarding.md) — `ai-ml`
+- [enact-pipeline](./scientific-research/enact-pipeline/on_boarding.md) — `scientific-research`
+- [equifold](./scientific-research/equifold/on_boarding.md) — `scientific-research`
+- [ERNIE](./ai-ml/ERNIE/on_boarding.md) — `ai-ml`
+- [erpnext](./web-ui/erpnext/on_boarding.md) — `web-ui`
+- [eShop](./web-ui/eShop/on_boarding.md) — `web-ui`
+- [EShopMicroservices](./web-ui/EShopMicroservices/on_boarding.md) — `web-ui`
+- [eShopOnAzure](./web-ui/eShopOnAzure/on_boarding.md) — `web-ui`
+- [eShopOnWeb](./web-ui/eShopOnWeb/on_boarding.md) — `web-ui`
+- [esm](./scientific-research/esm/on_boarding.md) — `scientific-research`
+- [evennia](./games-graphics-media/evennia/on_boarding.md) — `games-graphics-media`
+- [eventsourcing](./developer-tools/eventsourcing/on_boarding.md) — `developer-tools`
+- [explorer](./data-analytics/explorer/on_boarding.md) — `data-analytics`
+- [fabric](./infrastructure-devops/fabric/on_boarding.md) — `infrastructure-devops`
+- [face_recognition](./ai-ml/face_recognition/on_boarding.md) — `ai-ml`
+- [facebook-python-business-sdk](./networking-apis-protocols/facebook-python-business-sdk/on_boarding.md) — `networking-apis-protocols`
+- [facebook-wda](./developer-tools/facebook-wda/on_boarding.md) — `developer-tools`
+- [fail2ban](./security-privacy/fail2ban/on_boarding.md) — `security-privacy`
+- [fairseq](./ai-ml/fairseq/on_boarding.md) — `ai-ml`
+- [Fashion-Brand](./web-ui/Fashion-Brand/on_boarding.md) — `web-ui`
+- [fast-bert](./ai-ml/fast-bert/on_boarding.md) — `ai-ml`
+- [fastapi](./web-ui/fastapi/on_boarding.md) — `web-ui`
+- [fastapi-pagination](./web-ui/fastapi-pagination/on_boarding.md) — `web-ui`
+- [FastChat](./ai-ml/FastChat/on_boarding.md) — `ai-ml`
+- [fastdup](./ai-ml/fastdup/on_boarding.md) — `ai-ml`
+- [FastVideo](./ai-ml/FastVideo/on_boarding.md) — `ai-ml`
+- [faust](./data-analytics/faust/on_boarding.md) — `data-analytics`
+- [finetuner](./ai-ml/finetuner/on_boarding.md) — `ai-ml`
+- [FinQuant](./data-analytics/FinQuant/on_boarding.md) — `data-analytics`
+- [fitlog](./ai-ml/fitlog/on_boarding.md) — `ai-ml`
+- [flair](./ai-ml/flair/on_boarding.md) — `ai-ml`
+- [flask](./web-ui/flask/on_boarding.md) — `web-ui`
+- [flask-ask](./web-ui/flask-ask/on_boarding.md) — `web-ui`
+- [flask-jwt-extended](./web-ui/flask-jwt-extended/on_boarding.md) — `web-ui`
+- [flask-wtf](./web-ui/flask-wtf/on_boarding.md) — `web-ui`
+- [flow_matching](./ai-ml/flow_matching/on_boarding.md) — `ai-ml`
+- [Flowise](./ai-ml/Flowise/on_boarding.md) — `ai-ml`
+- [Flyerscord-Bot](./web-ui/Flyerscord-Bot/on_boarding.md) — `web-ui`
+- [fmriprep](./scientific-research/fmriprep/on_boarding.md) — `scientific-research`
+- [fold](./ai-ml/fold/on_boarding.md) — `ai-ml`
+- [foodgram-project](./web-ui/foodgram-project/on_boarding.md) — `web-ui`
+- [FoolNLTK](./ai-ml/FoolNLTK/on_boarding.md) — `ai-ml`
+- [ForestBlog](./web-ui/ForestBlog/on_boarding.md) — `web-ui`
+- [formio](./web-ui/formio/on_boarding.md) — `web-ui`
+- [foxops](./infrastructure-devops/foxops/on_boarding.md) — `infrastructure-devops`
+- [foxops-client-python](./networking-apis-protocols/foxops-client-python/on_boarding.md) — `networking-apis-protocols`
+- [freqtrade](./data-analytics/freqtrade/on_boarding.md) — `data-analytics`
+- [friendli-python](./networking-apis-protocols/friendli-python/on_boarding.md) — `networking-apis-protocols`
+- [fugue](./data-analytics/fugue/on_boarding.md) — `data-analytics`
+- [funNLP](./learning-codebases/funNLP/on_boarding.md) — `learning-codebases`
+- [g2papi](./networking-apis-protocols/g2papi/on_boarding.md) — `networking-apis-protocols`
+- [g3m](./games-graphics-media/g3m/on_boarding.md) — `games-graphics-media`
+- [gae](./ai-ml/gae/on_boarding.md) — `ai-ml`
+- [GaLore](./ai-ml/GaLore/on_boarding.md) — `ai-ml`
+- [ganda](./developer-tools/ganda/on_boarding.md) — `developer-tools`
+- [gaphor](./developer-tools/gaphor/on_boarding.md) — `developer-tools`
+- [garak](./security-privacy/garak/on_boarding.md) — `security-privacy`
+- [GearNet](./scientific-research/GearNet/on_boarding.md) — `scientific-research`
+- [geatpy](./ai-ml/geatpy/on_boarding.md) — `ai-ml`
+- [gemma_pytorch](./ai-ml/gemma_pytorch/on_boarding.md) — `ai-ml`
+- [genai-processors](./ai-ml/genai-processors/on_boarding.md) — `ai-ml`
+- [GeneAgent](./scientific-research/GeneAgent/on_boarding.md) — `scientific-research`
+- [genie](./scientific-research/genie/on_boarding.md) — `scientific-research`
+- [genome-manager](./scientific-research/genome-manager/on_boarding.md) — `scientific-research`
+- [geomstats](./scientific-research/geomstats/on_boarding.md) — `scientific-research`
+- [gflownet](./ai-ml/gflownet/on_boarding.md) — `ai-ml`
+- [GFPGAN](./ai-ml/GFPGAN/on_boarding.md) — `ai-ml`
+- [GhostTrack](./security-privacy/GhostTrack/on_boarding.md) — `security-privacy`
+- [git-stacktrace](./developer-tools/git-stacktrace/on_boarding.md) — `developer-tools`
+- [gitdiagram](./developer-tools/gitdiagram/on_boarding.md) — `developer-tools`
+- [GitHubPoster](./developer-tools/GitHubPoster/on_boarding.md) — `developer-tools`
+- [gkeepapi](./networking-apis-protocols/gkeepapi/on_boarding.md) — `networking-apis-protocols`
+- [glom](./data-analytics/glom/on_boarding.md) — `data-analytics`
+- [gmail](./networking-apis-protocols/gmail/on_boarding.md) — `networking-apis-protocols`
+- [gnomAD_DB](./scientific-research/gnomAD_DB/on_boarding.md) — `scientific-research`
+- [go-micro](./networking-apis-protocols/go-micro/on_boarding.md) — `networking-apis-protocols`
+- [godror](./data-analytics/godror/on_boarding.md) — `data-analytics`
+- [Gooey](./developer-tools/Gooey/on_boarding.md) — `developer-tools`
+- [gpf](./scientific-research/gpf/on_boarding.md) — `scientific-research`
+- [gpf_flash](./scientific-research/gpf_flash/on_boarding.md) — `scientific-research`
+- [gpf_old](./scientific-research/gpf_old/on_boarding.md) — `scientific-research`
+- [gpf_small](./scientific-research/gpf_small/on_boarding.md) — `scientific-research`
+- [gpfjs](./web-ui/gpfjs/on_boarding.md) — `web-ui`
+- [gplearn](./ai-ml/gplearn/on_boarding.md) — `ai-ml`
+- [gpt-engineer](./ai-ml/gpt-engineer/on_boarding.md) — `ai-ml`
+- [gpt-researcher](./ai-ml/gpt-researcher/on_boarding.md) — `ai-ml`
+- [gpt4free](./ai-ml/gpt4free/on_boarding.md) — `ai-ml`
+- [gpt_engineer](./ai-ml/gpt_engineer/on_boarding.md) — `ai-ml`
+- [gradio](./web-ui/gradio/on_boarding.md) — `web-ui`
+- [gradslam](./ai-ml/gradslam/on_boarding.md) — `ai-ml`
+- [grafanalib](./infrastructure-devops/grafanalib/on_boarding.md) — `infrastructure-devops`
+- [graph4nlp](./ai-ml/graph4nlp/on_boarding.md) — `ai-ml`
+- [GraphGym](./ai-ml/GraphGym/on_boarding.md) — `ai-ml`
+- [graphrag](./ai-ml/graphrag/on_boarding.md) — `ai-ml`
+- [gReLU](./scientific-research/gReLU/on_boarding.md) — `scientific-research`
+- [GrooveScribe](./games-graphics-media/GrooveScribe/on_boarding.md) — `games-graphics-media`
+- [guietta](./developer-tools/guietta/on_boarding.md) — `developer-tools`
+- [gydnc](./developer-tools/gydnc/on_boarding.md) — `developer-tools`
+- [gym](./ai-ml/gym/on_boarding.md) — `ai-ml`
+- [gym-pybullet-drones](./ai-ml/gym-pybullet-drones/on_boarding.md) — `ai-ml`
+- [h3-py](./data-analytics/h3-py/on_boarding.md) — `data-analytics`
+- [h5bench](./scientific-research/h5bench/on_boarding.md) — `scientific-research`
+- [hacking-tutorial](./learning-codebases/hacking-tutorial/on_boarding.md) — `learning-codebases`
+- [hai-build](./ai-ml/hai-build/on_boarding.md) — `ai-ml`
+- [hangups](./networking-apis-protocols/hangups/on_boarding.md) — `networking-apis-protocols`
+- [HanLP](./ai-ml/HanLP/on_boarding.md) — `ai-ml`
+- [hashids-python](./developer-tools/hashids-python/on_boarding.md) — `developer-tools`
+- [haystack](./ai-ml/haystack/on_boarding.md) — `ai-ml`
+- [heartrate](./developer-tools/heartrate/on_boarding.md) — `developer-tools`
+- [Hello-Python](./learning-codebases/Hello-Python/on_boarding.md) — `learning-codebases`
+- [hiddenlayer](./ai-ml/hiddenlayer/on_boarding.md) — `ai-ml`
+- [HLAIIPred](./scientific-research/HLAIIPred/on_boarding.md) — `scientific-research`
+- [hls4ml](./ai-ml/hls4ml/on_boarding.md) — `ai-ml`
+- [holidays](./developer-tools/holidays/on_boarding.md) — `developer-tools`
+- [honcho](./developer-tools/honcho/on_boarding.md) — `developer-tools`
+- [hopfield-layers](./ai-ml/hopfield-layers/on_boarding.md) — `ai-ml`
+- [hpn-ssh](./security-privacy/hpn-ssh/on_boarding.md) — `security-privacy`
+- [HR-SM](./web-ui/HR-SM/on_boarding.md) — `web-ui`
+- [hrms](./web-ui/hrms/on_boarding.md) — `web-ui`
+- [humanize](./developer-tools/humanize/on_boarding.md) — `developer-tools`
+- [hummingbot](./data-analytics/hummingbot/on_boarding.md) — `data-analytics`
+- [Hunyuan3D-2.1](./ai-ml/Hunyuan3D-2.1/on_boarding.md) — `ai-ml`
+- [hypothesis-torch](./developer-tools/hypothesis-torch/on_boarding.md) — `developer-tools`
+- [ijson](./data-analytics/ijson/on_boarding.md) — `data-analytics`
+- [ImageReward](./ai-ml/ImageReward/on_boarding.md) — `ai-ml`
+- [improver](./scientific-research/improver/on_boarding.md) — `scientific-research`
+- [inbox.py](./networking-apis-protocols/inbox.py/on_boarding.md) — `networking-apis-protocols`
+- [influxdb-python](./data-analytics/influxdb-python/on_boarding.md) — `data-analytics`
+- [injector](./developer-tools/injector/on_boarding.md) — `developer-tools`
+- [insights-core](./infrastructure-devops/insights-core/on_boarding.md) — `infrastructure-devops`
+- [insitro-research](./scientific-research/insitro-research/on_boarding.md) — `scientific-research`
+- [inspect_ai](./ai-ml/inspect_ai/on_boarding.md) — `ai-ml`
+- [instructor](./ai-ml/instructor/on_boarding.md) — `ai-ml`
+- [invariant](./ai-ml/invariant/on_boarding.md) — `ai-ml`
+- [invariant-gateway](./ai-ml/invariant-gateway/on_boarding.md) — `ai-ml`
+- [invariant-sdk](./networking-apis-protocols/invariant-sdk/on_boarding.md) — `networking-apis-protocols`
+- [IOS13-SimulateTouch](./developer-tools/IOS13-SimulateTouch/on_boarding.md) — `developer-tools`
+- [ipdb](./developer-tools/ipdb/on_boarding.md) — `developer-tools`
+- [ipython](./developer-tools/ipython/on_boarding.md) — `developer-tools`
+- [iris](./scientific-research/iris/on_boarding.md) — `scientific-research`
+- [irods_capability_automated_ingest](./infrastructure-devops/irods_capability_automated_ingest/on_boarding.md) — `infrastructure-devops`
+- [itchatmp](./networking-apis-protocols/itchatmp/on_boarding.md) — `networking-apis-protocols`
+- [itermplot](./developer-tools/itermplot/on_boarding.md) — `developer-tools`
+- [Java](./learning-codebases/Java/on_boarding.md) — `learning-codebases`
+- [jax](./ai-ml/jax/on_boarding.md) — `ai-ml`
+- [jellyfin](./web-ui/jellyfin/on_boarding.md) — `web-ui`
+- [Jetpack-Compose-Tutorials](./learning-codebases/Jetpack-Compose-Tutorials/on_boarding.md) — `learning-codebases`
+- [jiant](./ai-ml/jiant/on_boarding.md) — `ai-ml`
+- [jieba](./ai-ml/jieba/on_boarding.md) — `ai-ml`
+- [jira](./networking-apis-protocols/jira/on_boarding.md) — `networking-apis-protocols`
+- [JobSpy](./networking-apis-protocols/JobSpy/on_boarding.md) — `networking-apis-protocols`
+- [jovvix](./web-ui/jovvix/on_boarding.md) — `web-ui`
+- [jump_hub](./scientific-research/jump_hub/on_boarding.md) — `scientific-research`
+- [jumpserver](./security-privacy/jumpserver/on_boarding.md) — `security-privacy`
+- [jupyterlab](./developer-tools/jupyterlab/on_boarding.md) — `developer-tools`
+- [kalico](./infrastructure-devops/kalico/on_boarding.md) — `infrastructure-devops`
+- [KAZU](./scientific-research/KAZU/on_boarding.md) — `scientific-research`
+- [keras](./ai-ml/keras/on_boarding.md) — `ai-ml`
+- [keras-resnet](./ai-ml/keras-resnet/on_boarding.md) — `ai-ml`
+- [Keras-TextClassification](./ai-ml/Keras-TextClassification/on_boarding.md) — `ai-ml`
+- [khaiii](./ai-ml/khaiii/on_boarding.md) — `ai-ml`
+- [KiKit](./developer-tools/KiKit/on_boarding.md) — `developer-tools`
+- [kipoiseq](./scientific-research/kipoiseq/on_boarding.md) — `scientific-research`
+- [kivy](./web-ui/kivy/on_boarding.md) — `web-ui`
+- [knittingpattern](./developer-tools/knittingpattern/on_boarding.md) — `developer-tools`
+- [KoBERT](./ai-ml/KoBERT/on_boarding.md) — `ai-ml`
+- [koila](./ai-ml/koila/on_boarding.md) — `ai-ml`
+- [kor](./ai-ml/kor/on_boarding.md) — `ai-ml`
+- [kornia](./ai-ml/kornia/on_boarding.md) — `ai-ml`
+- [kotaemon](./ai-ml/kotaemon/on_boarding.md) — `ai-ml`
+- [labelme](./ai-ml/labelme/on_boarding.md) — `ai-ml`
+- [LAMA](./ai-ml/LAMA/on_boarding.md) — `ai-ml`
+- [langchain](./ai-ml/langchain/on_boarding.md) — `ai-ml`
+- [langdetect](./ai-ml/langdetect/on_boarding.md) — `ai-ml`
+- [langextract](./ai-ml/langextract/on_boarding.md) — `ai-ml`
+- [langflow](./ai-ml/langflow/on_boarding.md) — `ai-ml`
+- [langgraph](./ai-ml/langgraph/on_boarding.md) — `ai-ml`
+- [LaTeX-OCR](./ai-ml/LaTeX-OCR/on_boarding.md) — `ai-ml`
+- [laudspeaker](./web-ui/laudspeaker/on_boarding.md) — `web-ui`
+- [lea](./data-analytics/lea/on_boarding.md) — `data-analytics`
+- [learn-python](./learning-codebases/learn-python/on_boarding.md) — `learning-codebases`
+- [Learning-Journal](./learning-codebases/Learning-Journal/on_boarding.md) — `learning-codebases`
+- [lemur](./security-privacy/lemur/on_boarding.md) — `security-privacy`
+- [libra](./ai-ml/libra/on_boarding.md) — `ai-ml`
+- [Lidar_AI_Solution](./ai-ml/Lidar_AI_Solution/on_boarding.md) — `ai-ml`
+- [lighteval](./ai-ml/lighteval/on_boarding.md) — `ai-ml`
+- [lightning](./ai-ml/lightning/on_boarding.md) — `ai-ml`
+- [lightning-thunder](./ai-ml/lightning-thunder/on_boarding.md) — `ai-ml`
+- [lightweight-gan](./ai-ml/lightweight-gan/on_boarding.md) — `ai-ml`
+- [LightZero](./ai-ml/LightZero/on_boarding.md) — `ai-ml`
+- [LISTT](./scientific-research/LISTT/on_boarding.md) — `scientific-research`
+- [litellm](./ai-ml/litellm/on_boarding.md) — `ai-ml`
+- [livekit](./infrastructure-devops/livekit/on_boarding.md) — `infrastructure-devops`
+- [llama](./ai-ml/llama/on_boarding.md) — `ai-ml`
+- [llama.vim](./ai-ml/llama.vim/on_boarding.md) — `ai-ml`
+- [llama3](./ai-ml/llama3/on_boarding.md) — `ai-ml`
+- [llama_index](./ai-ml/llama_index/on_boarding.md) — `ai-ml`
+- [LLaVA](./ai-ml/LLaVA/on_boarding.md) — `ai-ml`
+- [llm-graph-builder](./ai-ml/llm-graph-builder/on_boarding.md) — `ai-ml`
+- [llm-guard](./ai-ml/llm-guard/on_boarding.md) — `ai-ml`
+- [lmql](./ai-ml/lmql/on_boarding.md) — `ai-ml`
+- [localstack](./infrastructure-devops/localstack/on_boarding.md) — `infrastructure-devops`
+- [locust](./developer-tools/locust/on_boarding.md) — `developer-tools`
+- [logparser](./infrastructure-devops/logparser/on_boarding.md) — `infrastructure-devops`
+- [logster](./infrastructure-devops/logster/on_boarding.md) — `infrastructure-devops`
+- [loguru](./developer-tools/loguru/on_boarding.md) — `developer-tools`
+- [lyse](./scientific-research/lyse/on_boarding.md) — `scientific-research`
+- [magic-wormhole](./networking-apis-protocols/magic-wormhole/on_boarding.md) — `networking-apis-protocols`
+- [MaiBot](./ai-ml/MaiBot/on_boarding.md) — `ai-ml`
+- [mailin](./networking-apis-protocols/mailin/on_boarding.md) — `networking-apis-protocols`
+- [mangum](./web-ui/mangum/on_boarding.md) — `web-ui`
+- [manim](./games-graphics-media/manim/on_boarding.md) — `games-graphics-media`
+- [ManiSkill](./ai-ml/ManiSkill/on_boarding.md) — `ai-ml`
+- [markitdown](./developer-tools/markitdown/on_boarding.md) — `developer-tools`
+- [matharena](./ai-ml/matharena/on_boarding.md) — `ai-ml`
+- [matplotlib](./data-analytics/matplotlib/on_boarding.md) — `data-analytics`
+- [mavlink](./networking-apis-protocols/mavlink/on_boarding.md) — `networking-apis-protocols`
+- [MayarDataScienceLab](./web-ui/MayarDataScienceLab/on_boarding.md) — `web-ui`
+- [mcp-agent](./ai-ml/mcp-agent/on_boarding.md) — `ai-ml`
+- [mcp-agent-discussion](./ai-ml/mcp-agent-discussion/on_boarding.md) — `ai-ml`
+- [mcp-context-forge](./ai-ml/mcp-context-forge/on_boarding.md) — `ai-ml`
+- [mcp-scan](./security-privacy/mcp-scan/on_boarding.md) — `security-privacy`
+- [mcp-use](./ai-ml/mcp-use/on_boarding.md) — `ai-ml`
+- [MEA-NAP](./scientific-research/MEA-NAP/on_boarding.md) — `scientific-research`
+- [medconb](./scientific-research/medconb/on_boarding.md) — `scientific-research`
+- [MedicalNet](./scientific-research/MedicalNet/on_boarding.md) — `scientific-research`
+- [Megatron-LM](./ai-ml/Megatron-LM/on_boarding.md) — `ai-ml`
+- [mem0](./ai-ml/mem0/on_boarding.md) — `ai-ml`
+- [metaflow](./data-analytics/metaflow/on_boarding.md) — `data-analytics`
+- [MetaGPT](./ai-ml/MetaGPT/on_boarding.md) — `ai-ml`
+- [metric-learn](./ai-ml/metric-learn/on_boarding.md) — `ai-ml`
+- [MHDDoS](./security-privacy/MHDDoS/on_boarding.md) — `security-privacy`
+- [micro_diffusion](./ai-ml/micro_diffusion/on_boarding.md) — `ai-ml`
+- [microdot](./web-ui/microdot/on_boarding.md) — `web-ui`
+- [micrograd](./learning-codebases/micrograd/on_boarding.md) — `learning-codebases`
+- [microsoft-authentication-library-for-python](./security-privacy/microsoft-authentication-library-for-python/on_boarding.md) — `security-privacy`
+- [MinerU](./ai-ml/MinerU/on_boarding.md) — `ai-ml`
+- [minGPT](./learning-codebases/minGPT/on_boarding.md) — `learning-codebases`
+- [mixpanel-python](./networking-apis-protocols/mixpanel-python/on_boarding.md) — `networking-apis-protocols`
+- [mkdocs](./developer-tools/mkdocs/on_boarding.md) — `developer-tools`
+- [mkdocstrings](./developer-tools/mkdocstrings/on_boarding.md) — `developer-tools`
+- [ml-cvnets](./ai-ml/ml-cvnets/on_boarding.md) — `ai-ml`
+- [ml-fastvit](./ai-ml/ml-fastvit/on_boarding.md) — `ai-ml`
+- [ml4a](./ai-ml/ml4a/on_boarding.md) — `ai-ml`
+- [MLBox](./ai-ml/MLBox/on_boarding.md) — `ai-ml`
+- [mlc-llm](./ai-ml/mlc-llm/on_boarding.md) — `ai-ml`
+- [mlcourse.ai](./learning-codebases/mlcourse.ai/on_boarding.md) — `learning-codebases`
+- [mlflow](./ai-ml/mlflow/on_boarding.md) — `ai-ml`
+- [mlr-xai-selfies](./scientific-research/mlr-xai-selfies/on_boarding.md) — `scientific-research`
+- [mlx-lm](./ai-ml/mlx-lm/on_boarding.md) — `ai-ml`
+- [mlx-vlm](./ai-ml/mlx-vlm/on_boarding.md) — `ai-ml`
+- [mmdetection](./ai-ml/mmdetection/on_boarding.md) — `ai-ml`
+- [mmpdb](./scientific-research/mmpdb/on_boarding.md) — `scientific-research`
+- [mne-python](./scientific-research/mne-python/on_boarding.md) — `scientific-research`
+- [moby](./infrastructure-devops/moby/on_boarding.md) — `infrastructure-devops`
+- [MOCCA](./scientific-research/MOCCA/on_boarding.md) — `scientific-research`
+- [model2vec](./ai-ml/model2vec/on_boarding.md) — `ai-ml`
+- [models](./ai-ml/models/on_boarding.md) — `ai-ml`
+- [mole_public](./uncategorized/mole_public/on_boarding.md) — `uncategorized`
+- [mongo-python-driver](./data-analytics/mongo-python-driver/on_boarding.md) — `data-analytics`
+- [mongodb-mcp-server](./ai-ml/mongodb-mcp-server/on_boarding.md) — `ai-ml`
+- [mouse-echo-neural-net](./scientific-research/mouse-echo-neural-net/on_boarding.md) — `scientific-research`
+- [moviepy](./games-graphics-media/moviepy/on_boarding.md) — `games-graphics-media`
+- [MS-lesion-segmentation](./scientific-research/MS-lesion-segmentation/on_boarding.md) — `scientific-research`
+- [mtkclient](./developer-tools/mtkclient/on_boarding.md) — `developer-tools`
+- [MultiQC](./scientific-research/MultiQC/on_boarding.md) — `scientific-research`
+- [Muon](./scientific-research/Muon/on_boarding.md) — `scientific-research`
+- [mypy](./developer-tools/mypy/on_boarding.md) — `developer-tools`
+- [Name-That-Hash](./security-privacy/Name-That-Hash/on_boarding.md) — `security-privacy`
+- [nano-llama31](./ai-ml/nano-llama31/on_boarding.md) — `ai-ml`
+- [napi](./developer-tools/napi/on_boarding.md) — `developer-tools`
+- [neat-python](./ai-ml/neat-python/on_boarding.md) — `ai-ml`
+- [nerfacc](./ai-ml/nerfacc/on_boarding.md) — `ai-ml`
+- [nest](./web-ui/nest/on_boarding.md) — `web-ui`
+- [neuro-forestwalk](./scientific-research/neuro-forestwalk/on_boarding.md) — `scientific-research`
+- [neuro-green](./scientific-research/neuro-green/on_boarding.md) — `scientific-research`
+- [neuro-meeglet-paper](./scientific-research/neuro-meeglet-paper/on_boarding.md) — `scientific-research`
+- [neusomatic](./scientific-research/neusomatic/on_boarding.md) — `scientific-research`
+- [newrelic-python-agent](./infrastructure-devops/newrelic-python-agent/on_boarding.md) — `infrastructure-devops`
+- [newton](./uncategorized/newton/on_boarding.md) — `uncategorized`
+- [nf-crispr-primer-design](./scientific-research/nf-crispr-primer-design/on_boarding.md) — `scientific-research`
+- [nginx](./infrastructure-devops/nginx/on_boarding.md) — `infrastructure-devops`
+- [nginxconfig.io](./infrastructure-devops/nginxconfig.io/on_boarding.md) — `infrastructure-devops`
+- [nicegui](./web-ui/nicegui/on_boarding.md) — `web-ui`
+- [NiftyNet](./scientific-research/NiftyNet/on_boarding.md) — `scientific-research`
+- [nilearn](./scientific-research/nilearn/on_boarding.md) — `scientific-research`
+- [nipype](./scientific-research/nipype/on_boarding.md) — `scientific-research`
+- [nltk](./ai-ml/nltk/on_boarding.md) — `ai-ml`
+- [NodeGraphQt](./web-ui/NodeGraphQt/on_boarding.md) — `web-ui`
+- [NonadditivityAnalysis](./scientific-research/NonadditivityAnalysis/on_boarding.md) — `scientific-research`
+- [nornir](./infrastructure-devops/nornir/on_boarding.md) — `infrastructure-devops`
+- [notebook](./developer-tools/notebook/on_boarding.md) — `developer-tools`
+- [nsfw_model](./ai-ml/nsfw_model/on_boarding.md) — `ai-ml`
+- [numpy](./data-analytics/numpy/on_boarding.md) — `data-analytics`
+- [obsidian-spaced-repetition](./web-ui/obsidian-spaced-repetition/on_boarding.md) — `web-ui`
+- [OCRmyPDF](./games-graphics-media/OCRmyPDF/on_boarding.md) — `games-graphics-media`
+- [OctoPrint](./web-ui/OctoPrint/on_boarding.md) — `web-ui`
+- [odoo](./web-ui/odoo/on_boarding.md) — `web-ui`
+- [OhunIslam](./uncategorized/OhunIslam/on_boarding.md) — `uncategorized`
+- [Olive](./ai-ml/Olive/on_boarding.md) — `ai-ml`
+- [ollama-python](./ai-ml/ollama-python/on_boarding.md) — `ai-ml`
+- [ome-zarr-py](./scientific-research/ome-zarr-py/on_boarding.md) — `scientific-research`
+- [omnibenchmark](./scientific-research/omnibenchmark/on_boarding.md) — `scientific-research`
+- [omnizart](./ai-ml/omnizart/on_boarding.md) — `ai-ml`
+- [once-for-all](./ai-ml/once-for-all/on_boarding.md) — `ai-ml`
+- [Open-Assistant](./ai-ml/Open-Assistant/on_boarding.md) — `ai-ml`
+- [open-interpreter](./ai-ml/open-interpreter/on_boarding.md) — `ai-ml`
+- [Open3D-ML](./ai-ml/Open3D-ML/on_boarding.md) — `ai-ml`
+- [openage](./games-graphics-media/openage/on_boarding.md) — `games-graphics-media`
+- [openai-agents-python](./ai-ml/openai-agents-python/on_boarding.md) — `ai-ml`
+- [openai-python](./ai-ml/openai-python/on_boarding.md) — `ai-ml`
+- [OpenBB](./data-analytics/OpenBB/on_boarding.md) — `data-analytics`
+- [OpenCopilot-PikoAi](./ai-ml/OpenCopilot-PikoAi/on_boarding.md) — `ai-ml`
+- [opencv](./games-graphics-media/opencv/on_boarding.md) — `games-graphics-media`
+- [opencv-python](./games-graphics-media/opencv-python/on_boarding.md) — `games-graphics-media`
+- [openfold](./scientific-research/openfold/on_boarding.md) — `scientific-research`
+- [openhtf](./developer-tools/openhtf/on_boarding.md) — `developer-tools`
+- [openmc](./scientific-research/openmc/on_boarding.md) — `scientific-research`
+- [OpenNE](./ai-ml/OpenNE/on_boarding.md) — `ai-ml`
+- [openr](./ai-ml/openr/on_boarding.md) — `ai-ml`
+- [opentelemetry-go](./infrastructure-devops/opentelemetry-go/on_boarding.md) — `infrastructure-devops`
+- [opentelemetry-python](./infrastructure-devops/opentelemetry-python/on_boarding.md) — `infrastructure-devops`
+- [OpenUpgrade](./web-ui/OpenUpgrade/on_boarding.md) — `web-ui`
+- [openWakeWord-cpp](./ai-ml/openWakeWord-cpp/on_boarding.md) — `ai-ml`
+- [optics-framework](./developer-tools/optics-framework/on_boarding.md) — `developer-tools`
+- [optimus](./data-analytics/optimus/on_boarding.md) — `data-analytics`
+- [optuna](./ai-ml/optuna/on_boarding.md) — `ai-ml`
+- [orator](./data-analytics/orator/on_boarding.md) — `data-analytics`
+- [order_book_server](./data-analytics/order_book_server/on_boarding.md) — `data-analytics`
+- [orm](./data-analytics/orm/on_boarding.md) — `data-analytics`
+- [OS-Copilot](./ai-ml/OS-Copilot/on_boarding.md) — `ai-ml`
+- [OtakuWorld](./uncategorized/OtakuWorld/on_boarding.md) — `uncategorized`
+- [PaddleOCR](./ai-ml/PaddleOCR/on_boarding.md) — `ai-ml`
+- [PaddleSlim](./ai-ml/PaddleSlim/on_boarding.md) — `ai-ml`
+- [panda3d](./games-graphics-media/panda3d/on_boarding.md) — `games-graphics-media`
+- [pandas](./data-analytics/pandas/on_boarding.md) — `data-analytics`
+- [paper-search-mcp](./ai-ml/paper-search-mcp/on_boarding.md) — `ai-ml`
+- [pathway](./data-analytics/pathway/on_boarding.md) — `data-analytics`
+- [payload](./web-ui/payload/on_boarding.md) — `web-ui`
+- [paypal-js](./web-ui/paypal-js/on_boarding.md) — `web-ui`
+- [paysafe_sdk_python](./networking-apis-protocols/paysafe_sdk_python/on_boarding.md) — `networking-apis-protocols`
+- [PCV](./games-graphics-media/PCV/on_boarding.md) — `games-graphics-media`
+- [pdc](./uncategorized/pdc/on_boarding.md) — `uncategorized`
+- [PDFMathTranslate](./games-graphics-media/PDFMathTranslate/on_boarding.md) — `games-graphics-media`
+- [pelican-plugins](./web-ui/pelican-plugins/on_boarding.md) — `web-ui`
+- [penzai](./ai-ml/penzai/on_boarding.md) — `ai-ml`
+- [PerforatedAI](./uncategorized/PerforatedAI/on_boarding.md) — `uncategorized`
+- [perfplot](./developer-tools/perfplot/on_boarding.md) — `developer-tools`
+- [Personae](./ai-ml/Personae/on_boarding.md) — `ai-ml`
+- [PGL](./ai-ml/PGL/on_boarding.md) — `ai-ml`
+- [PGPortfolio](./ai-ml/PGPortfolio/on_boarding.md) — `ai-ml`
+- [PharmaSage](./web-ui/PharmaSage/on_boarding.md) — `web-ui`
+- [phase1b](./uncategorized/phase1b/on_boarding.md) — `uncategorized`
+- [PhenEx](./scientific-research/PhenEx/on_boarding.md) — `scientific-research`
+- [phonemizer](./ai-ml/phonemizer/on_boarding.md) — `ai-ml`
+- [piccolo](./data-analytics/piccolo/on_boarding.md) — `data-analytics`
+- [Pillow](./games-graphics-media/Pillow/on_boarding.md) — `games-graphics-media`
+- [pingouin](./data-analytics/pingouin/on_boarding.md) — `data-analytics`
+- [pinterest-python-sdk](./networking-apis-protocols/pinterest-python-sdk/on_boarding.md) — `networking-apis-protocols`
+- [Pipe](./developer-tools/Pipe/on_boarding.md) — `developer-tools`
+- [pipecat](./ai-ml/pipecat/on_boarding.md) — `ai-ml`
+- [pipenv](./developer-tools/pipenv/on_boarding.md) — `developer-tools`
+- [piq](./ai-ml/piq/on_boarding.md) — `ai-ml`
+- [pixivpy](./networking-apis-protocols/pixivpy/on_boarding.md) — `networking-apis-protocols`
+- [pke](./ai-ml/pke/on_boarding.md) — `ai-ml`
+- [plotly.py](./data-analytics/plotly.py/on_boarding.md) — `data-analytics`
+- [PMapper](./security-privacy/PMapper/on_boarding.md) — `security-privacy`
+- [poco](./developer-tools/poco/on_boarding.md) — `developer-tools`
+- [podcastfy](./ai-ml/podcastfy/on_boarding.md) — `ai-ml`
+- [poethepoet](./developer-tools/poethepoet/on_boarding.md) — `developer-tools`
+- [poetry](./developer-tools/poetry/on_boarding.md) — `developer-tools`
+- [poetry-multiproject-plugin](./developer-tools/poetry-multiproject-plugin/on_boarding.md) — `developer-tools`
+- [Pointnet2_PyTorch](./ai-ml/Pointnet2_PyTorch/on_boarding.md) — `ai-ml`
+- [pokedex](./data-analytics/pokedex/on_boarding.md) — `data-analytics`
+- [poker_ai](./ai-ml/poker_ai/on_boarding.md) — `ai-ml`
+- [polars](./data-analytics/polars/on_boarding.md) — `data-analytics`
+- [policy_sentry](./security-privacy/policy_sentry/on_boarding.md) — `security-privacy`
+- [poml](./ai-ml/poml/on_boarding.md) — `ai-ml`
+- [posting](./developer-tools/posting/on_boarding.md) — `developer-tools`
+- [praw](./networking-apis-protocols/praw/on_boarding.md) — `networking-apis-protocols`
+- [pre-commit](./developer-tools/pre-commit/on_boarding.md) — `developer-tools`
+- [prefect](./data-analytics/prefect/on_boarding.md) — `data-analytics`
+- [prettyplotlib](./data-analytics/prettyplotlib/on_boarding.md) — `data-analytics`
+- [prince](./data-analytics/prince/on_boarding.md) — `data-analytics`
+- [product-attribute](./uncategorized/product-attribute/on_boarding.md) — `uncategorized`
+- [products](./uncategorized/products/on_boarding.md) — `uncategorized`
+- [ProteinFlow](./scientific-research/ProteinFlow/on_boarding.md) — `scientific-research`
+- [prowler](./security-privacy/prowler/on_boarding.md) — `security-privacy`
+- [proxpi](./developer-tools/proxpi/on_boarding.md) — `developer-tools`
+- [pseudo](./ai-ml/pseudo/on_boarding.md) — `ai-ml`
+- [PSpider](./networking-apis-protocols/PSpider/on_boarding.md) — `networking-apis-protocols`
+- [psych.js](./scientific-research/psych.js/on_boarding.md) — `scientific-research`
+- [psycopg2](./data-analytics/psycopg2/on_boarding.md) — `data-analytics`
+- [public-apis](./learning-codebases/public-apis/on_boarding.md) — `learning-codebases`
+- [pvlib-python](./scientific-research/pvlib-python/on_boarding.md) — `scientific-research`
+- [PVT](./ai-ml/PVT/on_boarding.md) — `ai-ml`
+- [py-trello](./networking-apis-protocols/py-trello/on_boarding.md) — `networking-apis-protocols`
+- [pyannotate](./developer-tools/pyannotate/on_boarding.md) — `developer-tools`
+- [pyautogui](./developer-tools/pyautogui/on_boarding.md) — `developer-tools`
+- [pybalance](./scientific-research/pybalance/on_boarding.md) — `scientific-research`
+- [pybuilder](./developer-tools/pybuilder/on_boarding.md) — `developer-tools`
+- [pycasbin](./security-privacy/pycasbin/on_boarding.md) — `security-privacy`
+- [pycoin](./networking-apis-protocols/pycoin/on_boarding.md) — `networking-apis-protocols`
+- [pycord](./networking-apis-protocols/pycord/on_boarding.md) — `networking-apis-protocols`
+- [pydantic](./developer-tools/pydantic/on_boarding.md) — `developer-tools`
+- [pydash](./developer-tools/pydash/on_boarding.md) — `developer-tools`
+- [PyDESeq2](./scientific-research/PyDESeq2/on_boarding.md) — `scientific-research`
+- [pyemma](./scientific-research/pyemma/on_boarding.md) — `scientific-research`
+- [pyflakes](./developer-tools/pyflakes/on_boarding.md) — `developer-tools`
+- [pygame](./games-graphics-media/pygame/on_boarding.md) — `games-graphics-media`
+- [pygame-menu](./games-graphics-media/pygame-menu/on_boarding.md) — `games-graphics-media`
+- [PyGithub](./networking-apis-protocols/PyGithub/on_boarding.md) — `networking-apis-protocols`
+- [pyglet](./games-graphics-media/pyglet/on_boarding.md) — `games-graphics-media`
+- [pygod](./ai-ml/pygod/on_boarding.md) — `ai-ml`
+- [PyHealth](./scientific-research/PyHealth/on_boarding.md) — `scientific-research`
+- [PyHive](./data-analytics/PyHive/on_boarding.md) — `data-analytics`
+- [pymarl](./ai-ml/pymarl/on_boarding.md) — `ai-ml`
+- [pymatgen](./scientific-research/pymatgen/on_boarding.md) — `scientific-research`
+- [pymedphys](./scientific-research/pymedphys/on_boarding.md) — `scientific-research`
+- [pymemcache](./data-analytics/pymemcache/on_boarding.md) — `data-analytics`
+- [pymodbus](./networking-apis-protocols/pymodbus/on_boarding.md) — `networking-apis-protocols`
+- [pymodm](./data-analytics/pymodm/on_boarding.md) — `data-analytics`
+- [pyo](./games-graphics-media/pyo/on_boarding.md) — `games-graphics-media`
+- [PyPDF2](./games-graphics-media/PyPDF2/on_boarding.md) — `games-graphics-media`
+- [pypeln](./data-analytics/pypeln/on_boarding.md) — `data-analytics`
+- [PyPSA](./scientific-research/PyPSA/on_boarding.md) — `scientific-research`
+- [pyramid](./web-ui/pyramid/on_boarding.md) — `web-ui`
+- [pyrdp](./security-privacy/pyrdp/on_boarding.md) — `security-privacy`
+- [pyreadstat](./data-analytics/pyreadstat/on_boarding.md) — `data-analytics`
+- [Pyrebase](./networking-apis-protocols/Pyrebase/on_boarding.md) — `networking-apis-protocols`
+- [pyreft](./ai-ml/pyreft/on_boarding.md) — `ai-ml`
+- [pyrender](./games-graphics-media/pyrender/on_boarding.md) — `games-graphics-media`
+- [pyrh](./networking-apis-protocols/pyrh/on_boarding.md) — `networking-apis-protocols`
+- [pysam](./scientific-research/pysam/on_boarding.md) — `scientific-research`
+- [pyserial](./networking-apis-protocols/pyserial/on_boarding.md) — `networking-apis-protocols`
+- [pyserini](./ai-ml/pyserini/on_boarding.md) — `ai-ml`
+- [PySimpleGUI](./web-ui/PySimpleGUI/on_boarding.md) — `web-ui`
+- [pysnowball](./networking-apis-protocols/pysnowball/on_boarding.md) — `networking-apis-protocols`
+- [pytest](./developer-tools/pytest/on_boarding.md) — `developer-tools`
+- [pytest-xdist](./developer-tools/pytest-xdist/on_boarding.md) — `developer-tools`
+- [pytheory](./games-graphics-media/pytheory/on_boarding.md) — `games-graphics-media`
+- [Python](./uncategorized/Python/) — `uncategorized`
+- [python-adb](./developer-tools/python-adb/on_boarding.md) — `developer-tools`
+- [python-archetype](./learning-codebases/python-archetype/on_boarding.md) — `learning-codebases`
+- [python-asana](./networking-apis-protocols/python-asana/on_boarding.md) — `networking-apis-protocols`
+- [python-benedict](./data-analytics/python-benedict/on_boarding.md) — `data-analytics`
+- [python-betterproto](./developer-tools/python-betterproto/on_boarding.md) — `developer-tools`
+- [python-bitcoinlib](./networking-apis-protocols/python-bitcoinlib/on_boarding.md) — `networking-apis-protocols`
+- [python-can](./networking-apis-protocols/python-can/on_boarding.md) — `networking-apis-protocols`
+- [python-client](./developer-tools/python-client/on_boarding.md) — `developer-tools`
+- [python-connector-api](./networking-apis-protocols/python-connector-api/on_boarding.md) — `networking-apis-protocols`
+- [python-digitalocean](./networking-apis-protocols/python-digitalocean/on_boarding.md) — `networking-apis-protocols`
+- [python-driver](./data-analytics/python-driver/on_boarding.md) — `data-analytics`
+- [python-facebook](./networking-apis-protocols/python-facebook/on_boarding.md) — `networking-apis-protocols`
+- [python-fire](./developer-tools/python-fire/on_boarding.md) — `developer-tools`
+- [python-gitlab](./networking-apis-protocols/python-gitlab/on_boarding.md) — `networking-apis-protocols`
+- [python-guide](./learning-codebases/python-guide/on_boarding.md) — `learning-codebases`
+- [python-irodsclient](./data-analytics/python-irodsclient/on_boarding.md) — `data-analytics`
+- [python-lambda](./infrastructure-devops/python-lambda/on_boarding.md) — `infrastructure-devops`
+- [python-linode-api](./networking-apis-protocols/python-linode-api/on_boarding.md) — `networking-apis-protocols`
+- [python-mastery](./learning-codebases/python-mastery/on_boarding.md) — `learning-codebases`
+- [python-mini-projects](./learning-codebases/python-mini-projects/on_boarding.md) — `learning-codebases`
+- [python-nomad](./networking-apis-protocols/python-nomad/on_boarding.md) — `networking-apis-protocols`
+- [python-nubia](./developer-tools/python-nubia/on_boarding.md) — `developer-tools`
+- [python-o365](./networking-apis-protocols/python-o365/on_boarding.md) — `networking-apis-protocols`
+- [python-opcua](./networking-apis-protocols/python-opcua/on_boarding.md) — `networking-apis-protocols`
+- [python-oracledb](./data-analytics/python-oracledb/on_boarding.md) — `data-analytics`
+- [python-sdk-core](./networking-apis-protocols/python-sdk-core/on_boarding.md) — `networking-apis-protocols`
+- [python-skyfield](./scientific-research/python-skyfield/on_boarding.md) — `scientific-research`
+- [python-slack-sdk](./networking-apis-protocols/python-slack-sdk/on_boarding.md) — `networking-apis-protocols`
+- [python-telegram-bot](./networking-apis-protocols/python-telegram-bot/on_boarding.md) — `networking-apis-protocols`
+- [python-template-repository](./learning-codebases/python-template-repository/on_boarding.md) — `learning-codebases`
+- [python-tuf](./security-privacy/python-tuf/on_boarding.md) — `security-privacy`
+- [python-twitch-client](./networking-apis-protocols/python-twitch-client/on_boarding.md) — `networking-apis-protocols`
+- [python-user-agents](./networking-apis-protocols/python-user-agents/on_boarding.md) — `networking-apis-protocols`
+- [python-weekly](./learning-codebases/python-weekly/on_boarding.md) — `learning-codebases`
+- [python-zeep](./networking-apis-protocols/python-zeep/on_boarding.md) — `networking-apis-protocols`
+- [python_code_generator](./ai-ml/python_code_generator/on_boarding.md) — `ai-ml`
+- [python_testbench](./uncategorized/python_testbench/on_boarding.md) — `uncategorized`
+- [pytorch](./ai-ml/pytorch/on_boarding.md) — `ai-ml`
+- [PyTorch-Encoding](./ai-ml/PyTorch-Encoding/on_boarding.md) — `ai-ml`
+- [pytorch-lightning](./ai-ml/pytorch-lightning/on_boarding.md) — `ai-ml`
+- [pytorch-tutorial](./learning-codebases/pytorch-tutorial/on_boarding.md) — `learning-codebases`
+- [pytorch3d](./ai-ml/pytorch3d/on_boarding.md) — `ai-ml`
+- [pytorch_geometric](./ai-ml/pytorch_geometric/on_boarding.md) — `ai-ml`
+- [PyTorch_YOLOv4](./ai-ml/PyTorch_YOLOv4/on_boarding.md) — `ai-ml`
+- [pyunity](./games-graphics-media/pyunity/on_boarding.md) — `games-graphics-media`
+- [PyWhatKit](./developer-tools/PyWhatKit/on_boarding.md) — `developer-tools`
+- [pywit](./ai-ml/pywit/on_boarding.md) — `ai-ml`
+- [QBDI](./security-privacy/QBDI/on_boarding.md) — `security-privacy`
+- [qlib](./ai-ml/qlib/on_boarding.md) — `ai-ml`
+- [qstock](./data-analytics/qstock/on_boarding.md) — `data-analytics`
+- [Quake-2](./games-graphics-media/Quake-2/on_boarding.md) — `games-graphics-media`
+- [quandl-python](./networking-apis-protocols/quandl-python/on_boarding.md) — `networking-apis-protocols`
+- [questionary](./developer-tools/questionary/on_boarding.md) — `developer-tools`
+- [quick-notes-extension](./web-ui/quick-notes-extension/on_boarding.md) — `web-ui`
+- [quivr](./ai-ml/quivr/on_boarding.md) — `ai-ml`
+- [quix-streams](./data-analytics/quix-streams/on_boarding.md) — `data-analytics`
+- [RagaAI-Catalyst](./ai-ml/RagaAI-Catalyst/on_boarding.md) — `ai-ml`
+- [ragbits](./ai-ml/ragbits/on_boarding.md) — `ai-ml`
+- [railroad-diagrams](./developer-tools/railroad-diagrams/on_boarding.md) — `developer-tools`
+- [railroadtracks](./scientific-research/railroadtracks/on_boarding.md) — `scientific-research`
+- [rauth](./networking-apis-protocols/rauth/on_boarding.md) — `networking-apis-protocols`
+- [raven-python](./infrastructure-devops/raven-python/on_boarding.md) — `infrastructure-devops`
+- [rdkit](./scientific-research/rdkit/on_boarding.md) — `scientific-research`
+- [rdpy](./security-privacy/rdpy/on_boarding.md) — `security-privacy`
+- [react](./web-ui/react/on_boarding.md) — `web-ui`
+- [Real-ESRGAN](./ai-ml/Real-ESRGAN/on_boarding.md) — `ai-ml`
+- [Real-Time-Voice-Cloning](./ai-ml/Real-Time-Voice-Cloning/on_boarding.md) — `ai-ml`
+- [RecLearn](./ai-ml/RecLearn/on_boarding.md) — `ai-ml`
+- [recommenders](./ai-ml/recommenders/on_boarding.md) — `ai-ml`
+- [redbeat](./data-analytics/redbeat/on_boarding.md) — `data-analytics`
+- [redis-py](./data-analytics/redis-py/on_boarding.md) — `data-analytics`
+- [redis-vl-python](./ai-ml/redis-vl-python/on_boarding.md) — `ai-ml`
+- [redun](./data-analytics/redun/on_boarding.md) — `data-analytics`
+- [reflex](./web-ui/reflex/on_boarding.md) — `web-ui`
+- [rembg](./ai-ml/rembg/on_boarding.md) — `ai-ml`
+- [requestium](./developer-tools/requestium/on_boarding.md) — `developer-tools`
+- [requests](./networking-apis-protocols/requests/on_boarding.md) — `networking-apis-protocols`
+- [requests-cache](./networking-apis-protocols/requests-cache/on_boarding.md) — `networking-apis-protocols`
+- [requests-ip-rotator](./networking-apis-protocols/requests-ip-rotator/on_boarding.md) — `networking-apis-protocols`
+- [rerankers](./ai-ml/rerankers/on_boarding.md) — `ai-ml`
+- [resemble-enhance](./games-graphics-media/resemble-enhance/on_boarding.md) — `games-graphics-media`
+- [retrying](./developer-tools/retrying/on_boarding.md) — `developer-tools`
+- [rexmex](./ai-ml/rexmex/on_boarding.md) — `ai-ml`
+- [rf-detr](./ai-ml/rf-detr/on_boarding.md) — `ai-ml`
+- [rich](./developer-tools/rich/on_boarding.md) — `developer-tools`
+- [RIDE](./developer-tools/RIDE/on_boarding.md) — `developer-tools`
+- [riko](./data-analytics/riko/on_boarding.md) — `data-analytics`
+- [Riot-Watcher](./networking-apis-protocols/Riot-Watcher/on_boarding.md) — `networking-apis-protocols`
+- [RL](./ai-ml/RL/on_boarding.md) — `ai-ml`
+- [RLBench](./ai-ml/RLBench/on_boarding.md) — `ai-ml`
+- [robin_stocks](./networking-apis-protocols/robin_stocks/on_boarding.md) — `networking-apis-protocols`
+- [robotframework](./developer-tools/robotframework/on_boarding.md) — `developer-tools`
+- [ROLL](./ai-ml/ROLL/on_boarding.md) — `ai-ml`
+- [ROMP](./ai-ml/ROMP/on_boarding.md) — `ai-ml`
+- [rope](./developer-tools/rope/on_boarding.md) — `developer-tools`
+- [rq-scheduler](./data-analytics/rq-scheduler/on_boarding.md) — `data-analytics`
+- [rsl_rl](./ai-ml/rsl_rl/on_boarding.md) — `ai-ml`
+- [ruff-lsp](./developer-tools/ruff-lsp/on_boarding.md) — `developer-tools`
+- [Ruli](./ai-ml/Ruli/on_boarding.md) — `ai-ml`
+- [RuoYi](./web-ui/RuoYi/on_boarding.md) — `web-ui`
+- [safe-chain](./security-privacy/safe-chain/on_boarding.md) — `security-privacy`
+- [safe-rlhf](./ai-ml/safe-rlhf/on_boarding.md) — `ai-ml`
+- [safety](./security-privacy/safety/on_boarding.md) — `security-privacy`
+- [saga](./data-analytics/saga/on_boarding.md) — `data-analytics`
+- [saleor](./web-ui/saleor/on_boarding.md) — `web-ui`
+- [sam](./ai-ml/sam/on_boarding.md) — `ai-ml`
+- [sample-app-aoai-chatGPT](./ai-ml/sample-app-aoai-chatGPT/on_boarding.md) — `ai-ml`
+- [sanic](./web-ui/sanic/on_boarding.md) — `web-ui`
+- [Sapiens](./ai-ml/Sapiens/on_boarding.md) — `ai-ml`
+- [scanapi](./developer-tools/scanapi/on_boarding.md) — `developer-tools`
+- [scanpy](./scientific-research/scanpy/on_boarding.md) — `scientific-research`
+- [scapy](./networking-apis-protocols/scapy/on_boarding.md) — `networking-apis-protocols`
+- [sceptre](./infrastructure-devops/sceptre/on_boarding.md) — `infrastructure-devops`
+- [scholarly](./networking-apis-protocols/scholarly/on_boarding.md) — `networking-apis-protocols`
+- [scikit-bio](./scientific-research/scikit-bio/on_boarding.md) — `scientific-research`
+- [scikit-image](./scientific-research/scikit-image/on_boarding.md) — `scientific-research`
+- [scikit-learn](./uncategorized/scikit-learn/) — `uncategorized`
+- [scimilarity](./scientific-research/scimilarity/on_boarding.md) — `scientific-research`
+- [scipy](./data-analytics/scipy/on_boarding.md) — `data-analytics`
+- [scirpy](./scientific-research/scirpy/on_boarding.md) — `scientific-research`
+- [scispacy](./scientific-research/scispacy/on_boarding.md) — `scientific-research`
+- [Scrapegraph-ai](./ai-ml/Scrapegraph-ai/on_boarding.md) — `ai-ml`
+- [scrapy](./data-analytics/scrapy/on_boarding.md) — `data-analytics`
+- [scrapy-proxies](./data-analytics/scrapy-proxies/on_boarding.md) — `data-analytics`
+- [ScreenCoder](./ai-ml/ScreenCoder/on_boarding.md) — `ai-ml`
+- [scvi-tools](./scientific-research/scvi-tools/on_boarding.md) — `scientific-research`
+- [sdf](./games-graphics-media/sdf/on_boarding.md) — `games-graphics-media`
+- [sdfstudio](./ai-ml/sdfstudio/on_boarding.md) — `ai-ml`
+- [sdos-orchestration-flow-designer](./web-ui/sdos-orchestration-flow-designer/on_boarding.md) — `web-ui`
+- [seaborn](./data-analytics/seaborn/on_boarding.md) — `data-analytics`
+- [selenium-wire](./developer-tools/selenium-wire/on_boarding.md) — `developer-tools`
+- [Semi-supervised-learning](./ai-ml/Semi-supervised-learning/on_boarding.md) — `ai-ml`
+- [sendgrid-python](./networking-apis-protocols/sendgrid-python/on_boarding.md) — `networking-apis-protocols`
+- [sentry-python](./infrastructure-devops/sentry-python/on_boarding.md) — `infrastructure-devops`
+- [seqlike](./scientific-research/seqlike/on_boarding.md) — `scientific-research`
+- [shopify_django_app](./networking-apis-protocols/shopify_django_app/on_boarding.md) — `networking-apis-protocols`
+- [shopify_python](./developer-tools/shopify_python/on_boarding.md) — `developer-tools`
+- [shopify_python_api](./networking-apis-protocols/shopify_python_api/on_boarding.md) — `networking-apis-protocols`
+- [ShuffleNet-Series](./ai-ml/ShuffleNet-Series/on_boarding.md) — `ai-ml`
+- [simple-salesforce](./networking-apis-protocols/simple-salesforce/on_boarding.md) — `networking-apis-protocols`
+- [simplejson](./developer-tools/simplejson/on_boarding.md) — `developer-tools`
+- [simplemonitor](./infrastructure-devops/simplemonitor/on_boarding.md) — `infrastructure-devops`
+- [sit2standpy](./scientific-research/sit2standpy/on_boarding.md) — `scientific-research`
+- [skfolio](./data-analytics/skfolio/on_boarding.md) — `data-analytics`
+- [skip-thoughts](./ai-ml/skip-thoughts/on_boarding.md) — `ai-ml`
+- [skrub](./ai-ml/skrub/on_boarding.md) — `ai-ml`
+- [sktime](./ai-ml/sktime/on_boarding.md) — `ai-ml`
+- [slacker](./networking-apis-protocols/slacker/on_boarding.md) — `networking-apis-protocols`
+- [slackminion](./networking-apis-protocols/slackminion/on_boarding.md) — `networking-apis-protocols`
+- [smollm3_finetune](./ai-ml/smollm3_finetune/on_boarding.md) — `ai-ml`
+- [sms-tools](./games-graphics-media/sms-tools/on_boarding.md) — `games-graphics-media`
+- [snakemake](./data-analytics/snakemake/on_boarding.md) — `data-analytics`
+- [snappass](./web-ui/snappass/on_boarding.md) — `web-ui`
+- [snd-textmod](./uncategorized/snd-textmod/on_boarding.md) — `uncategorized`
+- [snipsnap](./uncategorized/snipsnap/on_boarding.md) — `uncategorized`
+- [snntorch](./ai-ml/snntorch/on_boarding.md) — `ai-ml`
+- [social-app-django](./web-ui/social-app-django/on_boarding.md) — `web-ui`
+- [solana-py](./networking-apis-protocols/solana-py/on_boarding.md) — `networking-apis-protocols`
+- [Solitaire](./games-graphics-media/Solitaire/on_boarding.md) — `games-graphics-media`
+- [solo-learn](./ai-ml/solo-learn/on_boarding.md) — `ai-ml`
+- [somaticseq](./scientific-research/somaticseq/on_boarding.md) — `scientific-research`
+- [soundconverter](./games-graphics-media/soundconverter/on_boarding.md) — `games-graphics-media`
+- [spaCy](./ai-ml/spaCy/on_boarding.md) — `ai-ml`
+- [sparrow](./uncategorized/sparrow/on_boarding.md) — `uncategorized`
+- [sparse_attention](./ai-ml/sparse_attention/on_boarding.md) — `ai-ml`
+- [spatialone-pipeline](./scientific-research/spatialone-pipeline/on_boarding.md) — `scientific-research`
+- [SpiffWorkflow](./data-analytics/SpiffWorkflow/on_boarding.md) — `data-analytics`
+- [spikingjelly](./ai-ml/spikingjelly/on_boarding.md) — `ai-ml`
+- [spinningup](./learning-codebases/spinningup/on_boarding.md) — `learning-codebases`
+- [spleeter](./games-graphics-media/spleeter/on_boarding.md) — `games-graphics-media`
+- [splink](./data-analytics/splink/on_boarding.md) — `data-analytics`
+- [spotify](./networking-apis-protocols/spotify/on_boarding.md) — `networking-apis-protocols`
+- [spotipy](./networking-apis-protocols/spotipy/on_boarding.md) — `networking-apis-protocols`
+- [spring-boot](./web-ui/spring-boot/on_boarding.md) — `web-ui`
+- [sqlalchemy](./data-analytics/sqlalchemy/on_boarding.md) — `data-analytics`
+- [sqlalchemy-crud-plus](./data-analytics/sqlalchemy-crud-plus/on_boarding.md) — `data-analytics`
+- [sqllineage](./data-analytics/sqllineage/on_boarding.md) — `data-analytics`
+- [square-python-sdk](./networking-apis-protocols/square-python-sdk/on_boarding.md) — `networking-apis-protocols`
+- [SRAgent](./scientific-research/SRAgent/on_boarding.md) — `scientific-research`
+- [sru](./ai-ml/sru/on_boarding.md) — `ai-ml`
+- [stable-diffusion-tensorflow](./ai-ml/stable-diffusion-tensorflow/on_boarding.md) — `ai-ml`
+- [stable-ts](./ai-ml/stable-ts/on_boarding.md) — `ai-ml`
+- [stackstorm_pack_ansible](./infrastructure-devops/stackstorm_pack_ansible/on_boarding.md) — `infrastructure-devops`
+- [stagehand](./ai-ml/stagehand/on_boarding.md) — `ai-ml`
+- [stanford-tensorflow-tutorials](./learning-codebases/stanford-tensorflow-tutorials/on_boarding.md) — `learning-codebases`
+- [starfish](./scientific-research/starfish/on_boarding.md) — `scientific-research`
+- [stm32-rs](./developer-tools/stm32-rs/on_boarding.md) — `developer-tools`
+- [streamlit](./web-ui/streamlit/on_boarding.md) — `web-ui`
+- [streamparse](./data-analytics/streamparse/on_boarding.md) — `data-analytics`
+- [stripe-python](./networking-apis-protocols/stripe-python/on_boarding.md) — `networking-apis-protocols`
+- [StructureBlock](./web-ui/StructureBlock/on_boarding.md) — `web-ui`
+- [submitit](./data-analytics/submitit/on_boarding.md) — `data-analytics`
+- [Sudoku](./games-graphics-media/Sudoku/on_boarding.md) — `games-graphics-media`
+- [sulley](./security-privacy/sulley/on_boarding.md) — `security-privacy`
+- [super-resolution](./ai-ml/super-resolution/on_boarding.md) — `ai-ml`
+- [SuperAGI](./ai-ml/SuperAGI/on_boarding.md) — `ai-ml`
+- [superset](./data-analytics/superset/on_boarding.md) — `data-analytics`
+- [supervision](./ai-ml/supervision/on_boarding.md) — `ai-ml`
+- [susi_api_wrapper](./networking-apis-protocols/susi_api_wrapper/on_boarding.md) — `networking-apis-protocols`
+- [SWE-agent](./ai-ml/SWE-agent/on_boarding.md) — `ai-ml`
+- [SWE-bench](./ai-ml/SWE-bench/on_boarding.md) — `ai-ml`
+- [SWE-ReX](./ai-ml/SWE-ReX/on_boarding.md) — `ai-ml`
+- [SWEBench](./ai-ml/SWEBench/on_boarding.md) — `ai-ml`
+- [symbolicai](./ai-ml/symbolicai/on_boarding.md) — `ai-ml`
+- [synapse](./web-ui/synapse/on_boarding.md) — `web-ui`
+- [syncedlyrics](./games-graphics-media/syncedlyrics/on_boarding.md) — `games-graphics-media`
+- [Synchronized-BatchNorm-PyTorch](./ai-ml/Synchronized-BatchNorm-PyTorch/on_boarding.md) — `ai-ml`
+- [synflownet-boltz](./scientific-research/synflownet-boltz/on_boarding.md) — `scientific-research`
+- [system-design-primer](./learning-codebases/system-design-primer/on_boarding.md) — `learning-codebases`
+- [TA](./games-graphics-media/TA/on_boarding.md) — `games-graphics-media`
+- [target-python-sdk](./networking-apis-protocols/target-python-sdk/on_boarding.md) — `networking-apis-protocols`
+- [taskiq](./data-analytics/taskiq/on_boarding.md) — `data-analytics`
+- [tensorflow](./ai-ml/tensorflow/on_boarding.md) — `ai-ml`
+- [tensorflow-DeepFM](./ai-ml/tensorflow-DeepFM/on_boarding.md) — `ai-ml`
+- [TensorFlowTTS](./ai-ml/TensorFlowTTS/on_boarding.md) — `ai-ml`
+- [terminal_markdown_viewer](./developer-tools/terminal_markdown_viewer/on_boarding.md) — `developer-tools`
+- [testcontainers-python](./developer-tools/testcontainers-python/on_boarding.md) — `developer-tools`
+- [text_blind_watermark](./security-privacy/text_blind_watermark/on_boarding.md) — `security-privacy`
+- [TextBrewer](./ai-ml/TextBrewer/on_boarding.md) — `ai-ml`
+- [textfilter](./data-analytics/textfilter/on_boarding.md) — `data-analytics`
+- [TextGrapher](./ai-ml/TextGrapher/on_boarding.md) — `ai-ml`
+- [textual](./developer-tools/textual/on_boarding.md) — `developer-tools`
+- [tf_unet](./ai-ml/tf_unet/on_boarding.md) — `ai-ml`
+- [the-matrix](./uncategorized/the-matrix/on_boarding.md) — `uncategorized`
+- [theine](./data-analytics/theine/on_boarding.md) — `data-analytics`
+- [theseus](./ai-ml/theseus/on_boarding.md) — `ai-ml`
+- [thinkgpt](./ai-ml/thinkgpt/on_boarding.md) — `ai-ml`
+- [THULAC-Python](./ai-ml/THULAC-Python/on_boarding.md) — `ai-ml`
+- [tidb](./data-analytics/tidb/on_boarding.md) — `data-analytics`
+- [tika-python](./data-analytics/tika-python/on_boarding.md) — `data-analytics`
+- [TimeMixer](./ai-ml/TimeMixer/on_boarding.md) — `ai-ml`
+- [timetagger](./web-ui/timetagger/on_boarding.md) — `web-ui`
+- [tinygrad](./ai-ml/tinygrad/on_boarding.md) — `ai-ml`
+- [Tkinter-Designer](./web-ui/Tkinter-Designer/on_boarding.md) — `web-ui`
+- [tods](./ai-ml/tods/on_boarding.md) — `ai-ml`
+- [ToolFuzz](./ai-ml/ToolFuzz/on_boarding.md) — `ai-ml`
+- [tools](./developer-tools/tools/on_boarding.md) — `developer-tools`
+- [torchgan](./ai-ml/torchgan/on_boarding.md) — `ai-ml`
+- [torchgfn](./ai-ml/torchgfn/on_boarding.md) — `ai-ml`
+- [torchsde](./ai-ml/torchsde/on_boarding.md) — `ai-ml`
+- [torchstat](./ai-ml/torchstat/on_boarding.md) — `ai-ml`
+- [torchsurv](./ai-ml/torchsurv/on_boarding.md) — `ai-ml`
+- [torchtyping](./developer-tools/torchtyping/on_boarding.md) — `developer-tools`
+- [tornado](./web-ui/tornado/on_boarding.md) — `web-ui`
+- [torsional-strain](./scientific-research/torsional-strain/on_boarding.md) — `scientific-research`
+- [TotalSegmentator](./scientific-research/TotalSegmentator/on_boarding.md) — `scientific-research`
+- [tqdm](./developer-tools/tqdm/on_boarding.md) — `developer-tools`
+- [trackers](./ai-ml/trackers/on_boarding.md) — `ai-ml`
+- [TradingGym](./ai-ml/TradingGym/on_boarding.md) — `ai-ml`
+- [trailarr](./uncategorized/trailarr/on_boarding.md) — `uncategorized`
+- [transformer-deploy](./ai-ml/transformer-deploy/on_boarding.md) — `ai-ml`
+- [transformers](./ai-ml/transformers/on_boarding.md) — `ai-ml`
+- [trojai-submission-all](./ai-ml/trojai-submission-all/on_boarding.md) — `ai-ml`
+- [trt-llm-rag-linux](./ai-ml/trt-llm-rag-linux/on_boarding.md) — `ai-ml`
+- [tsh](./uncategorized/tsh/on_boarding.md) — `uncategorized`
+- [tsoa](./web-ui/tsoa/on_boarding.md) — `web-ui`
+- [TTS](./ai-ml/TTS/on_boarding.md) — `ai-ml`
+- [tuna](./developer-tools/tuna/on_boarding.md) — `developer-tools`
+- [turborepo-remote-cache-cloudflare](./infrastructure-devops/turborepo-remote-cache-cloudflare/on_boarding.md) — `infrastructure-devops`
+- [tushare](./data-analytics/tushare/on_boarding.md) — `data-analytics`
+- [tvm](./ai-ml/tvm/on_boarding.md) — `ai-ml`
+- [twarc](./networking-apis-protocols/twarc/on_boarding.md) — `networking-apis-protocols`
+- [tweepy](./networking-apis-protocols/tweepy/on_boarding.md) — `networking-apis-protocols`
+- [twilio-python](./networking-apis-protocols/twilio-python/on_boarding.md) — `networking-apis-protocols`
+- [twitter-api-client](./networking-apis-protocols/twitter-api-client/on_boarding.md) — `networking-apis-protocols`
+- [txtai](./ai-ml/txtai/on_boarding.md) — `ai-ml`
+- [typeguard](./developer-tools/typeguard/on_boarding.md) — `developer-tools`
+- [TypeScript](./developer-tools/TypeScript/on_boarding.md) — `developer-tools`
+- [typescript-language-server](./developer-tools/typescript-language-server/on_boarding.md) — `developer-tools`
+- [typeshed](./developer-tools/typeshed/on_boarding.md) — `developer-tools`
+- [uiautomator2](./developer-tools/uiautomator2/on_boarding.md) — `developer-tools`
+- [uis-rnn](./ai-ml/uis-rnn/on_boarding.md) — `ai-ml`
+- [ultralytics](./ai-ml/ultralytics/on_boarding.md) — `ai-ml`
+- [uncertainty-toolbox](./ai-ml/uncertainty-toolbox/on_boarding.md) — `ai-ml`
+- [undetected-chromedriver](./developer-tools/undetected-chromedriver/on_boarding.md) — `developer-tools`
+- [unidiffuser](./ai-ml/unidiffuser/on_boarding.md) — `ai-ml`
+- [unit-converter](./uncategorized/unit-converter/on_boarding.md) — `uncategorized`
+- [unleash](./uncategorized/unleash/on_boarding.md) — `uncategorized`
+- [unsloth](./ai-ml/unsloth/on_boarding.md) — `ai-ml`
+- [usaddress](./data-analytics/usaddress/on_boarding.md) — `data-analytics`
+- [valkey-py](./data-analytics/valkey-py/on_boarding.md) — `data-analytics`
+- [valkey-timeseries](./data-analytics/valkey-timeseries/on_boarding.md) — `data-analytics`
+- [verl](./ai-ml/verl/on_boarding.md) — `ai-ml`
+- [versatile_audio_super_resolution](./games-graphics-media/versatile_audio_super_resolution/on_boarding.md) — `games-graphics-media`
+- [VertFlow](./infrastructure-devops/VertFlow/on_boarding.md) — `infrastructure-devops`
+- [vit-pytorch](./ai-ml/vit-pytorch/on_boarding.md) — `ai-ml`
+- [vits](./ai-ml/vits/on_boarding.md) — `ai-ml`
+- [vizier](./ai-ml/vizier/on_boarding.md) — `ai-ml`
+- [VLA-OS](./ai-ml/VLA-OS/on_boarding.md) — `ai-ml`
+- [vllm](./ai-ml/vllm/on_boarding.md) — `ai-ml`
+- [vnpy](./data-analytics/vnpy/on_boarding.md) — `data-analytics`
+- [voluptuous](./developer-tools/voluptuous/on_boarding.md) — `developer-tools`
+- [vscode](./developer-tools/vscode/on_boarding.md) — `developer-tools`
+- [vscode-xslt-tokenizer](./developer-tools/vscode-xslt-tokenizer/on_boarding.md) — `developer-tools`
+- [vsphere-automation-sdk-python](./networking-apis-protocols/vsphere-automation-sdk-python/on_boarding.md) — `networking-apis-protocols`
+- [vue](./web-ui/vue/on_boarding.md) — `web-ui`
+- [vuestic-admin](./web-ui/vuestic-admin/on_boarding.md) — `web-ui`
+- [warehouse](./web-ui/warehouse/on_boarding.md) — `web-ui`
+- [wdb](./developer-tools/wdb/on_boarding.md) — `developer-tools`
+- [web3.py](./networking-apis-protocols/web3.py/on_boarding.md) — `networking-apis-protocols`
+- [webdataset](./ai-ml/webdataset/on_boarding.md) — `ai-ml`
+- [webscraping](./data-analytics/webscraping/on_boarding.md) — `data-analytics`
+- [website](./uncategorized/website/on_boarding.md) — `uncategorized`
+- [WebWhatsapp-Wrapper](./networking-apis-protocols/WebWhatsapp-Wrapper/on_boarding.md) — `networking-apis-protocols`
+- [whatsapp-chatgpt](./ai-ml/whatsapp-chatgpt/on_boarding.md) — `ai-ml`
+- [WhatWaf](./security-privacy/WhatWaf/on_boarding.md) — `security-privacy`
+- [whisper](./ai-ml/whisper/on_boarding.md) — `ai-ml`
+- [WildGS-SLAM](./ai-ml/WildGS-SLAM/on_boarding.md) — `ai-ml`
+- [winboat](./web-ui/winboat/on_boarding.md) — `web-ui`
+- [word_cloud](./games-graphics-media/word_cloud/on_boarding.md) — `games-graphics-media`
+- [WUCSS](./scientific-research/WUCSS/on_boarding.md) — `scientific-research`
+- [xed](./developer-tools/xed/on_boarding.md) — `developer-tools`
+- [XgagSPA](./web-ui/XgagSPA/on_boarding.md) — `web-ui`
+- [xhs](./networking-apis-protocols/xhs/on_boarding.md) — `networking-apis-protocols`
+- [XKCD-password-generator](./developer-tools/XKCD-password-generator/on_boarding.md) — `developer-tools`
+- [xlstm](./ai-ml/xlstm/on_boarding.md) — `ai-ml`
+- [yarl](./networking-apis-protocols/yarl/on_boarding.md) — `networking-apis-protocols`
+- [yfinance](./networking-apis-protocols/yfinance/on_boarding.md) — `networking-apis-protocols`
+- [yfinance_depth_2](./networking-apis-protocols/yfinance_depth_2/on_boarding.md) — `networking-apis-protocols`
+- [ykdl](./games-graphics-media/ykdl/on_boarding.md) — `games-graphics-media`
+- [YOLO_tensorflow](./ai-ml/YOLO_tensorflow/on_boarding.md) — `ai-ml`
+- [yolov5](./ai-ml/yolov5/on_boarding.md) — `ai-ml`
+- [Yolov5-deepsort-inference](./ai-ml/Yolov5-deepsort-inference/on_boarding.md) — `ai-ml`
+- [youtube-dl](./games-graphics-media/youtube-dl/on_boarding.md) — `games-graphics-media`
+- [yt-dlp](./games-graphics-media/yt-dlp/on_boarding.md) — `games-graphics-media`
+- [zenml](./ai-ml/zenml/on_boarding.md) — `ai-ml`
+- [zipline](./data-analytics/zipline/on_boarding.md) — `data-analytics`
+- [zls](./developer-tools/zls/on_boarding.md) — `developer-tools`
+- [zulip](./web-ui/zulip/on_boarding.md) — `web-ui`

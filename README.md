@@ -115,9 +115,7 @@ graph LR
 ---
 
 
-- **Onboard your AI agent.** Paste the markdown into your ARCHITECTURE.md so the agent onboards in fewer tokens.
-- **Live mindmap as your agent codes.** Human readable to understand the changes your agent does.
-- **Pattern literacy.** *"How do mature async runtimes structure their scheduler?"* Browse five of them side-by-side.
+**Onboard your AI agent.** Paste the markdown into your ARCHITECTURE.md so the agent onboards in fewer tokens.
 
 ## Drop into your agent
 

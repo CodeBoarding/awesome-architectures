@@ -111,7 +111,6 @@ graph LR
 ```
 *Above: CodeBoarding diagrammed by CodeBoarding. Every repo in the atlas below is mapped the same way.*
 
-![repos](https://img.shields.io/badge/repos-50-blue) ![languages](https://img.shields.io/badge/languages-8-green) ![updated](https://img.shields.io/badge/updated-weekly-brightgreen) ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
 
@@ -134,10 +133,6 @@ Or reference it directly in your prompt:
 @https://github.com/codeboarding/awesome-architecture-mds/blob/main/vllm/on_boarding.md
 Using the architecture above, implement X without breaking module boundaries.
 ```
-
-## Browse the atlas
-
-All 1,036 repos with an `on_boarding.md`, grouped by what they do. Alphabetical within each group. Each link opens the top-level architecture diagram.
 
 ### Contents
 

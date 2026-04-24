@@ -1345,7 +1345,7 @@ Every diagram is produced by running [**CodeBoarding**](https://github.com/CodeB
 
 We prioritize repos that are (a) actively maintained, (b) widely depended on, or (c) architecturally interesting.
 
-**Running this on your own code?** [CodeBoarding](https://codeboarding.com) runs locally. Point it at any repo, public or private.
+**Running this on your own code?** CodeBoarding runs locally. Point it at any repo, public or private.
 
 ## License
 
